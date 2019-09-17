@@ -1,32 +1,41 @@
 Name:  Valdar         | Race:      Human       | Age: 24 | Experience: 3 000/6 000
 Class: Bbn2/BatSor1   | Alignment: Neutral     | Size: M | Looks: Mighty
 
-Str: 18 (+4) | BAB: +2       | HP: 12+1d12+1d4 | Attacks
-Dex: 17 (+3) | Ranged: +5    | AC: 13          | 
-Con: 16 (+3) | Melee: +6     | Speed: 40'      | 
+Str: 18 (+4) | BAB: +2       | HP: 21+d12+d4   | Attacks
+Dex: 17 (+3) | Ranged: +5    | AC: 18          | Battleaxe +7, 1d8+4 (+2 if 2H), crit x3
+Con: 16 (+3) | Melee: +6     | Speed: 40' (30')| Javelin +5, 1d6+4, 30'
 Int: 13 (+1) | Fortitude: +6 | Initiative: +7  | 
-Wis: 13 (+1) | Reflex: +3    | ACP: 0          | 
-Cha: 12 (+1) | Will: +3      | ASF: 10%        | 
+Wis: 13 (+1) | Reflex: +3    | ACP: -3         | 
+Cha: 12 (+1) | Will: +3      | ASF: 0%         | 
 
 Features                                            Skills
-Rage 1/day (+4 Str/Con, -2 AC, 8 rounds)          | Climb +9 [5]
-Fast Movement (+10'), Uncanny Dodge (+Dex when FF)| Jump +9 [5]
-Summon Familiar, Armoured casting (light w/o ASF) | Swim +9 [5]
+Rage 1/day (+4 Str/Con, -2 AC, 8 rounds)          | Climb +6 [5]
+Fast Movement (+10'), Uncanny Dodge (+Dex when FF)| Jump +6 [5]
+Summon Familiar, Armoured casting (light w/o ASF) | Swim +3 [5]
 Improved Initiative (+4 init), Eschew Materials   | Intimidate +6 [5] 
 Battle Caster (medium armour w/o ASF)             | Ride +4 [1]
                                                   | Survival +6 [5]
                                                   | K:Arcana +2 [5]
                                                   | Spellcraft +2 [1]
-                                                  |
 Languages: Common, Draconic                       |
 
+Spells Known                         Spell Slots
+0 - Light, Detect Magic, Mage Hand | [####]  
+1 - Feather Fall                   | [##]
+
 Gear
+ - MW Breastplate (350gp, AC+5, Dex+3, ACP-3, ASF 25%, 30 lb.)
+ - MW Battleaxe (310gp, 1d8x3, 6 lb., slashing)
+ - +1 Cloak of Resistance (1000gp)
+ - 2 Gauntlets (4gp, 1d3x2, 2lb.)
  - Dagger, 2gp, 1 lb.
+ - 3 Javelins (3gp, 1d6x2, 30', 6 lb.)
+ - Feather token: Tree (400gp)
  - 7 trail rations, waterskin, 4.5gp, 11lb.
  - Tent, bedroll, winter blanket, backpack, 12.6gp, 30lb.
 
-Spare cash: 0/2700gp
-Total load: 0/100 lb
+Spare cash: 613.9gp
+Total load: 86/100 lb
 
 Shopping list:
  * Nothing yet.
