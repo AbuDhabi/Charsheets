@@ -21,7 +21,7 @@ Languages: Common, Draconic                       |
 
 Spells Known                         Spell Slots
 0 - Light, Detect Magic, Mage Hand | [####]  
-1 - Feather Fall                   | [##]
+1 - Feather Fall                   | [###]
 
 Gear
  - MW Breastplate (350gp, AC+5, Dex+3, ACP-3, ASF 25%, 30 lb.)
@@ -44,6 +44,8 @@ Sources (which are not Core):
 - Unearthed Arcana (Battle Sorcerer class variant)
 - Complete Arcane (Battle Caster feat)
 
+Unmet requirements for Dragon Disciple:
+ - K:Arcana 8 ranks
 
 Fluff
 Originally hailing from the north, from a somewhat savage tribe of Aesir worshippers, he left to wander the Earth and unlock the mysteries of his heritage. From family history, he is aware of the origin of the mild sorcerous powers he posseses, and is interested in learning more, as befitting a follower of Odin.
