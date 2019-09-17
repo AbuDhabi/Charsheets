@@ -1,0 +1,42 @@
+Name:  Valdar         | Race:      Human       | Age: 24 | Experience: 3 000/6 000
+Class: Bbn2/BatSor1   | Alignment: Neutral     | Size: M | Looks: Mighty
+
+Str: 18 (+4) | BAB: +2       | HP: 12+1d12+1d4 | Attacks
+Dex: 17 (+3) | Ranged: +5    | AC: 13          | 
+Con: 16 (+3) | Melee: +6     | Speed: 40'      | 
+Int: 13 (+1) | Fortitude: +6 | Initiative: +7  | 
+Wis: 13 (+1) | Reflex: +3    | ACP: 0          | 
+Cha: 12 (+1) | Will: +3      | ASF: 10%        | 
+
+Features                                            Skills
+Rage 1/day (+4 Str/Con, -2 AC, 8 rounds)          | Climb +9 [5]
+Fast Movement (+10'), Uncanny Dodge (+Dex when FF)| Jump +9 [5]
+Summon Familiar, Armoured casting (light w/o ASF) | Swim +9 [5]
+Improved Initiative (+4 init), Eschew Materials   | Intimidate +6 [5] 
+Battle Caster (medium armour w/o ASF)             | Ride +4 [1]
+                                                  | Survival +6 [5]
+                                                  | K:Arcana +2 [5]
+                                                  | Spellcraft +2 [1]
+                                                  |
+Languages: Common, Draconic                       |
+
+Gear
+ - Dagger, 2gp, 1 lb.
+ - 7 trail rations, waterskin, 4.5gp, 11lb.
+ - Tent, bedroll, winter blanket, backpack, 12.6gp, 30lb.
+
+Spare cash: 0/2700gp
+Total load: 0/100 lb
+
+Shopping list:
+ * Nothing yet.
+
+Sources (which are not Core):
+- Unearthed Arcana (Battle Sorcerer class variant)
+- Complete Arcane (Battle Caster feat)
+
+
+Fluff
+Originally hailing from the north, from a somewhat savage tribe of Aesir worshippers, he left to wander the Earth and unlock the mysteries of his heritage. From family history, he is aware of the origin of the mild sorcerous powers he posseses, and is interested in learning more, as befitting a follower of Odin.
+
+Deity: Odin, god of a bunch of things including Wisdom and Sorcery
