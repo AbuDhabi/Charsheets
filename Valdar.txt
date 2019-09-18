@@ -1,11 +1,11 @@
 Name:  Valdar         | Race:      Human       | Age: 24 | Experience: 3 000/6 000
 Class: Bbn2/BatSor1   | Alignment: Neutral     | Size: M | Looks: Mighty
 
-Str: 18 (+4) | BAB: +2       | HP: 29+d8          | Attacks
-Dex: 17 (+3) | Ranged: +5    | AC: 18 (+2 shld)   | Battleaxe +7, 1d8+4 (+2 if 2H), crit x3
+Str: 18 (+4) | BAB: +2       | HP: 30             | Attacks
+Dex: 17 (+3) | Ranged: +5    | AC: 18 (+2 shld)   | Battleaxe +7, 1d8+4 (+2 2H), crit x3
 Con: 16 (+3) | Melee: +6     | Speed: 40' (30')   | Javelin +5, 1d6+4, 30'
-Int: 13 (+1) | Fortitude: +6 | Initiative: +7     | RAGING Battleaxe +9, 1d8+6 (+3 if 2H), crit x3
-Wis: 13 (+1) | Reflex: +3    | ACP: -3 (-1 shld)  | 
+Int: 13 (+1) | Fortitude: +6 | Initiative: +7     | RAGING Battleaxe +9, 1d8+6 (+3 2H), crit x3
+Wis: 13 (+1) | Reflex: +3    | ACP: -3 (-1 shld)  | LARGE RAGING B-axe +9, 2d6+7 (+3 2H), crit x3
 Cha: 12 (+1) | Will: +3      | ASF: 0% (15% shld) | 
 
 Features                                            Skills
