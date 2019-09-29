@@ -30,15 +30,21 @@ Immunities: Disease, Fear, Sleep, Paralysis, Fire         |
 Senses: LLV, Darkvision 60', Blindsense 60'               |
 Languages: Common, Draconic, Celestial, Infernal, Abyssal |
 
+Feats
+
+
 Spell Slots     | Spells Known
 0 - [######]    | 9 - DetMagic, Light, MgHand, Mend, Msg, ArcMark, DncLight, Presti, RdMagic
-1 - [########]  | 5 - 
-2 - [#######]   | 5 - 
-3 - [##########]| 4 - 
-4 - [########]  | 4 - 
-5 - [#########] | 4 - 
-6 - [#######]   | 3 - 
-7 - [#####]     | 2 - 
+1 - [CrtWater]  | All Paladin
+1 - [########]  | 5 - Alarm, RayOfEnfeeb, Shield, Grease, ProtFromX
+2 - [#######]   | 5 - Glitterdust, Web, BullStr, Shatter, DetThoughts
+3 - [##########]| 4 - DispMagic, RayOfExhaust, Haste, GrtMagicWeapon
+4 - [########]  | 4 - DimAnchor, Enervation, DimDoor, SolidFog
+5 - [#########] | 4 - ShadowEvoc, Feeblemind, WallOfStone, BalefulPoly
+6 - [#######]   | 3 - GrDispMagic, TrueSeeing, Disintegrate
+7 - [#####]     | 2 - GrtTeleport, EtherJaunt
+
+
 
 Gear
  - 2 Gauntlets (4gp, 1d3x2, 2lb.)
