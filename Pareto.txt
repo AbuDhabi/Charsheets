@@ -10,38 +10,51 @@ Int: 18 (+4) | Fort:   9     | Init: +4           |
 Wis: 16 (+3) | Refl:   5     | ACP:               | 
 Cha: 21 (+5) | Will:   9     | ASF: 0%            | 
 
-Features                                                  Skills
-Summon Familiar                                          |
-Aura of Good (strength 5)
-Detect Evil at-will (as the spell)
-Smite Evil 2/day (Su, Atk +ChaBo, Dmg +Paladin)
-Divine Grace (Su, +ChaBo to saves)
-Lay On Hands (Su, Paladin x ChaBo points)
-Aura of Courage (Su, immune to fear, in 10' +4 vs fear)
-Turn Undead (Su, 3+ChaBo/day, as Cleric-3)
-Special Mount
-Natural Armour Increase (+4)
-Ability Boost (+8 Str, +2 Con, +2 Int, +2 Cha)
-Breath Weapon (6d8 fire cone, DC 20 + Con mod)
-Wings (as land speed, average)
-Bonus spells (2x3rd, 1x4th, 2x5th, 1x6th, 1x7th)
-
+Features                                                   Skills
+Human Bonuses (+1 Skill Points/Level, +2 Spellcraft)      |
+Summon Familiar                                           |
+Aura of Good (strength Paladin)                           |
+Detect Evil at-will (as the spell)                        |
+Smite Evil 2/day (Su, Atk +ChaBo, Dmg +Paladin)           |
+Divine Grace (Su, +ChaBo to saves)                        |
+Lay On Hands (Su, Paladin x ChaBo points)                 |
+Aura of Courage (Su, immune to fear, in 10' +4 vs fear)   |
+Turn Undead (Su, 3+ChaBo/day, as Cleric-3)                |
+Special Mount                                             |
+Natural Armour Increase (+4)                              |
+Ability Boost (+8 Str, +2 Con, +2 Int, +2 Cha)            |
+Breath Weapon (6d8 fire cone, DC 20 + Con mod)            |
+Wings (as land speed, average)                            |
+Bonus spells (2x3rd, 1x4th, 2x5th, 1x6th, 1x7th)          |
+                                                          |
 Immunities: Disease, Fear, Sleep, Paralysis, Fire         |
 Senses: LLV, Darkvision 60', Blindsense 60'               |
 Languages: Common, Draconic, Celestial, Infernal, Abyssal |
 
 Feats
+Eschew Materials [4] no cheap material
+Still Spell [7] +1 level, no somatic
+Silent Spell [7] +1 level, no verbal 
+Quicken Spell [10] +3 levels, free action to cast
+Skill Focus (Spellcraft) [5] +3 Spellcraft
+Spell Focus (Transmutation) [7] +1 DC
+Spell Focus (Enchantment) [7] +1 DC
+Improved Initiative [8] +4 init
+Chain Spell [??] +3 levels, up to CL in secondary targets
+Arcane Strike [??] pay Xth slot for +X atk and +Xd4 dmg
+Elven Spell Lore [??] +2 to dispel, if prepared Disintegrate can pick damage type
+Arcane Preparation [??] can prepare like a wizard
+51
 
-
-Spell Slots     | Spells Known
+Spell Slots     | Spells Known (* Spell Focus)
 0 - [######]    | 9 - DetMagic, Light, MgHand, Mend, Msg, ArcMark, DncLight, Presti, RdMagic
 1 - [CrtWater]  | All Paladin
 1 - [########]  | 5 - Alarm, RayOfEnfeeb, Shield, Grease, ProtFromX
-2 - [#######]   | 5 - Glitterdust, Web, BullStr, Shatter, DetThoughts
-3 - [##########]| 4 - DispMagic, RayOfExhaust, Haste, GrtMagicWeapon
+2 - [#######]   | 5 - Glitterdust, Web, BullStr*, Shatter, DetThoughts
+3 - [##########]| 4 - DispMagic, RayOfExhaust, Haste*, GrtMagicWeapon
 4 - [########]  | 4 - DimAnchor, Enervation, DimDoor, SolidFog
-5 - [#########] | 4 - ShadowEvoc, Feeblemind, WallOfStone, BalefulPoly
-6 - [#######]   | 3 - GrDispMagic, TrueSeeing, Disintegrate
+5 - [#########] | 4 - ShadowEvoc, Feeblemind*, WallOfStone, BalefulPoly*
+6 - [#######]   | 3 - GrDispMagic, TrueSeeing, Disintegrate*
 7 - [#####]     | 2 - GrtTeleport, EtherJaunt
 
 
@@ -52,7 +65,7 @@ Gear
  - 7 trail rations, waterskin, 4.5gp, 11lb.
  - Tent, bedroll, winter blanket, backpack, 12.6gp, 30lb.
 
-Spare cash: 202k
+Spare cash: 227k
 Total load: 
 
 Shopping list:
