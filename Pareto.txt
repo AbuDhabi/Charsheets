@@ -1,0 +1,57 @@
+Name:  Pareto              | Race: Human | Feat Points: 88/88  | Experience: 111 000/120 000
+Alignment: Neutral Good | Size: M     | Age: 40             |  Looks: Golden-scaled
+Class: Sorcerer 15 // Paladin 5 / Dragon Disciple 10
+
+Str: 22 (+6) | BAB:   +12/+7 | HP: 245/245        | Attacks
+Dex: 18 (+4) | Range: +      | AC:                | 
+Con: 20 (+5) | Melee: +      | Speed: 30'         | 
+Int: 16 (+3) | Fort:   9     | Init: +4           | 
+Wis: 16 (+3) | Refl:   5     | ACP:               | 
+Cha: 19 (+4) | Will:   9     | ASF: 0%            | 
+
+Features                                            Skills
+                                                  |
+                                                  |
+Languages: Common, Draconic, Celestial, Infernal  |
+
+Spell Slots     | Spells Known
+0 - [######]    | 9 
+1 - [#######]   | 5
+2 - [#######]   | 5
+3 - [#######]   | 4
+4 - [#######]   | 4
+5 - [######]    | 4
+6 - [######]    | 3
+7 - [####]      | 2
+
+Gear
+ - 2 Gauntlets (4gp, 1d3x2, 2lb.)
+ - Dagger, 2gp, 1 lb.
+ - 7 trail rations, waterskin, 4.5gp, 11lb.
+ - Tent, bedroll, winter blanket, backpack, 12.6gp, 30lb.
+
+Spare cash: 202k
+Total load: 
+
+Shopping list:
+ * Nothing yet.
+
+Sources (which are not Core):
+
+
+Fluff
+
+
+Deity: 
+
+
+Point buy: Str 17, Dex 15, Con 17, Int 12, Wis 12, Cha 14.
+
+* Humanoid (Human)
+* Medium Size
+* Shells: 13-19
+* 30-Foot (6 square) Base Land Speed
+* +2 Bonus to any single physical ability score and again to any single mental ability score
+* *Skilled*: Humans gain a +2 bonus to any one skill, chosen at 1st level
+* *Adaptive Learning*: +1 Skill Points per level
+* *Bonus Feat*: Humans gain 8 bonus feat points at 1st level. You must meet all requirements for the feat to take it.
