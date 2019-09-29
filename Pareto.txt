@@ -1,28 +1,44 @@
-Name:  Pareto              | Race: Human | Feat Points: 88/88  | Experience: 111 000/120 000
-Alignment: Neutral Good | Size: M     | Age: 40             |  Looks: Golden-scaled
+Name:  Pareto              | Race: Human | Type: Dragon | Feat Points: 88/88  
+Alignment: Neutral Good    | Size: M     | Age: 40      | Experience: 111 000/120 000
 Class: Sorcerer 15 // Paladin 5 / Dragon Disciple 10
 
-Str: 22 (+6) | BAB:   +12/+7 | HP: 245/245        | Attacks
+                                                   Attacks
+Str: 30 (+10)| BAB:   +12/+7 | HP: 260/260        | 
 Dex: 18 (+4) | Range: +      | AC:                | 
-Con: 20 (+5) | Melee: +      | Speed: 30'         | 
-Int: 16 (+3) | Fort:   9     | Init: +4           | 
+Con: 22 (+6) | Melee: +      | Speed: 30'         | 
+Int: 18 (+4) | Fort:   9     | Init: +4           | 
 Wis: 16 (+3) | Refl:   5     | ACP:               | 
-Cha: 19 (+4) | Will:   9     | ASF: 0%            | 
+Cha: 21 (+5) | Will:   9     | ASF: 0%            | 
 
-Features                                            Skills
-                                                  |
-                                                  |
-Languages: Common, Draconic, Celestial, Infernal  |
+Features                                                  Skills
+Summon Familiar                                          |
+Aura of Good (strength 5)
+Detect Evil at-will (as the spell)
+Smite Evil 2/day (Su, Atk +ChaBo, Dmg +Paladin)
+Divine Grace (Su, +ChaBo to saves)
+Lay On Hands (Su, Paladin x ChaBo points)
+Aura of Courage (Su, immune to fear, in 10' +4 vs fear)
+Turn Undead (Su, 3+ChaBo/day, as Cleric-3)
+Special Mount
+Natural Armour Increase (+4)
+Ability Boost (+8 Str, +2 Con, +2 Int, +2 Cha)
+Breath Weapon (6d8 fire cone, DC 20 + Con mod)
+Wings (as land speed, average)
+Bonus spells (2x3rd, 1x4th, 2x5th, 1x6th, 1x7th)
+
+Immunities: Disease, Fear, Sleep, Paralysis, Fire         |
+Senses: LLV, Darkvision 60', Blindsense 60'               |
+Languages: Common, Draconic, Celestial, Infernal, Abyssal |
 
 Spell Slots     | Spells Known
-0 - [######]    | 9 
-1 - [#######]   | 5
-2 - [#######]   | 5
-3 - [#######]   | 4
-4 - [#######]   | 4
-5 - [######]    | 4
-6 - [######]    | 3
-7 - [####]      | 2
+0 - [######]    | 9 - DetMagic, Light, MgHand, Mend, Msg, ArcMark, DncLight, Presti, RdMagic
+1 - [########]  | 5 - 
+2 - [#######]   | 5 - 
+3 - [##########]| 4 - 
+4 - [########]  | 4 - 
+5 - [#########] | 4 - 
+6 - [#######]   | 3 - 
+7 - [#####]     | 2 - 
 
 Gear
  - 2 Gauntlets (4gp, 1d3x2, 2lb.)
