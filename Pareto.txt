@@ -41,20 +41,20 @@ Spell Focus (Transmutation) [7] +1 DC
 Spell Focus (Enchantment) [7] +1 DC
 Improved Initiative [8] +4 init
 Chain Spell [??] +3 levels, up to CL in secondary targets
-Arcane Strike [??] pay Xth slot for +X atk and +Xd4 dmg
+Arcane Strike [10] pay Xth slot for +X atk and +Xd4 dmg
 Elven Spell Lore [??] +2 to dispel, if prepared Disintegrate can pick damage type
 Arcane Preparation [??] can prepare like a wizard
-51
+61
 
 Spell Slots     | Spells Known (* Spell Focus)
 0 - [######]    | 9 - DetMagic, Light, MgHand, Mend, Msg, ArcMark, DncLight, Presti, RdMagic
 1 - [CrtWater]  | All Paladin
 1 - [########]  | 5 - Alarm, RayOfEnfeeb, Shield, Grease, ProtFromX
-2 - [#######]   | 5 - Glitterdust, Web, BullStr*, Shatter, DetThoughts
+2 - [########]  | 5 - Glitterdust, Web, BullStr*, Shatter, DetThoughts
 3 - [##########]| 4 - DispMagic, RayOfExhaust, Haste*, GrtMagicWeapon
 4 - [########]  | 4 - DimAnchor, Enervation, DimDoor, SolidFog
 5 - [#########] | 4 - ShadowEvoc, Feeblemind*, WallOfStone, BalefulPoly*
-6 - [#######]   | 3 - GrDispMagic, TrueSeeing, Disintegrate*
+6 - [########]  | 3 - GrDispMagic, TrueSeeing, Disintegrate*
 7 - [#####]     | 2 - GrtTeleport, EtherJaunt
 
 

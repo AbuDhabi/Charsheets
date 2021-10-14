@@ -15,7 +15,7 @@ Summon Familiar, Armoured casting (light w/o ASF) | Swim +3 [5] (-2 shld)
 Improved Initiative (+4 init), Eschew Materials   | Intimidate +6 [5] 
 Battle Caster (medium armour w/o ASF)             | Ride +4 [1]
                                                   | Survival +6 [5]
-                                                  | K:Arcana +2 [5]
+                                                  | K:Arcana +6 [5]
                                                   | Spellcraft +2 [1]
 Languages: Common, Draconic                       |
 

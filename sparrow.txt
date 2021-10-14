@@ -1,0 +1,79 @@
+Name:  Sparrow the Archer | Race:      Human       | Age: 20 | Experience: 64 500/66 000
+Class: Fighter 11         | Alignment: Lawful Good | Size: M | Looks: Prematurely aged
+
+Str: 22 (+6) | BAB: +11      | HP: 60nl1/71   | Attacks
+Dex: 22 (+6) | Ranged: +17   | AC: 22 (+1 Hst)| PE Bow +25/+20/+15, 1d8+13/x3 (+1 atk/dmg in 30')
+Con: 13 (+1) | Melee: +17    | Speed: 30'     | Hasted PE Bow +26/+26/+26/+21/+16, 1d8+13/x3 (+1 atk/dmg in 30')
+Int: 15 (+2) | Fortitude: +11| Initiative: +10| PE Bow +19, 3x1d8+14/x3 (<=30' only, 3 arrows)
+Wis: 14 (+2) | Reflex: +12   | ACP: 0         | Dagger +19, 1d4+8/19-20 (thrown only)
+Cha: 12 (+1) | Will: +8      | ASF: 10%       | Glaive +17, 1d10+8/x3 (silvered)
+
+Features                                            Skills
+Point Blank Shot (+1 atk/dmg within 30')          | Climb +19 [13]
+Precise Shot (no penalty shooting into melee)     | Jump +19 [13]
+Rapid Shot (extra attack, -2 to all, full action) | Swim +19 [13]
+Weapon Focus (Longbow, +1 atk)                    | Spot +6 [4cc] 
+Improved Initiative (+4 init)                     | Listen +6 [4cc]
+Weapon Specialization (Longbow, +2 dmg)           | Survival +5 [3cc]
+Track (can follow tracks harder that DC 10)       | K:Nature +2 [.5cc]
+Manyshot (2+ arrows/attack in 30')                | K:Nob&Roy +2 [.5cc]
+Ranged Weapon Mastery (PRC: +2 atk/dmg, +20' inc) | K:Arcana +2 [.5cc]
+Greater Weapon Focus (Longbow, +1 atk)            | K:Religion +2 [.5cc]
+Improved Rapid Shot (no -2s when rapid shooting)  |
+Languages: Common, Dwarven, Elven                 |
+
+Gear
+ - Efficient Quiver: Capacity of 60 arrows, 18 javelins (eq 90 arrows), 6 bows, 
+   functions as scabbard and quiver. Static weight. Moderate conjuration; 
+   CL 9th; Price 1,800 gp; Weight 2 lb.
+ - Gloves of Dexterity: +4 enhancement bonus to Dexterity. Moderate transmutation; 
+   CL 8th; Price 16,000 gp (+2).
+ - Boots of Speed: Free action to Haste for up to 10 rounds/day. Moderate transmutation;
+   CL 10th; Price 12,000 gp; Weight 1 lb. [XXXX      ]
+ - Ring of Resistance +3. 
+ - +1 Composite Longbow (+3), 2700gp, 3 lb. Stowed in quiver.
+ - +3 Snih-aligned Pale Elf Composite Longbow (Str +0): No strings! 3 lb. 20400 gp.
+ - +2 Mithral Chainshirt, 5100gp, ACP 0, ASF 10%, 12.5 lb.
+ - Belt of Giant Strength: +6 enhancement bonus to Strength. Moderate transmutation;
+   CL 10th; Price 36,000 gp. Weight 1 lb.
+ - Lesser Bracers of Archery: +1 competence bonus to attack rolls with bows. 
+   Faint transmutation; CL 4th; Price 5,000 gp;Weight 1 lb.
+ - Dagger, 2gp, 1 lb.
+ - 0 longbow arrows, in efficient quiver, 5gp.
+ - 37 cold iron arrows, in efficient quiver, 2gp.
+ - 31 silver arrows (-1 damage), in efficient quiver, (+2gp/arrow)
+ - 1 +1 Evil Outsider-Bane arrow, 166.02gp.
+ - 7 trail rations, waterskin, 4.5gp, 11lb.
+ - Tent, bedroll, winter blanket, backpack, 12.6gp, 30lb.
+ - Masterwork manacles w/ Average lock, 90gp, 2 lb.
+ - Masterwork silvered glaive, free from Sitri, in efficient quiver.
+ - Elixir of Hiding (+10 Hide for 1h), 250gp.
+ - 0x Potion of CLW, 50/2 gp.
+ - 2 tanglefoot bags, in efficient quiver.
+ - Pouch of Varrysa Controlling.
+
+Spare cash: 721.85gp
+Castle account: 1475gp
+Family account: 5000gp
+Total load: 63.5/76 lb
+
+Owes Sitri 5000gp for raise dead.
+Owes the priesthood of Ishtar one lesser restoration potion.
+
+Shopping list:
+ * Nothing yet.
+
+Alignment History:
++2 points towards evil for killing a retreating birdman.
+
+Fluff
+Sparrow was drafted into the armed forces under the hellish invasion, alongside his father and grandfather,
+both archery levies. He survived the war, where his ancestors did not. At one point, he was involved in some
+hush-hush operation behind enemy lines. 
+
+Special
+Rank: Ex-Corporal
+
+Hometown: Forsby
+Deity: Forun, goddess of Fire and Compassion
+
