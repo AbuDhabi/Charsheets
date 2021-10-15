@@ -51,7 +51,7 @@
     Item of rarity 7 or lower: Traveling Clothes. 
 17. How would your character’s parents describe them?
     As a relatively unremarkable middle child, in a big family.
-    Meditation 0.
+    Seafaring 0.
 18. Who was your character named to honor?
     The nearest common ancestor between the family and the Imperial Line.
     Imperial Heritage. +10 Status.
