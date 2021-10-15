@@ -16,47 +16,46 @@
     +1 Fitness, +1 Martial Arts [Unarmed], +1 Survival, +1 Theology.
     Honor 40.
     Techniques Available: Kihō (), Shūji (), Rituals ()
-    Kihō (choose one): Earthen Fist, Earth Needs No Eyes, Flame Fist, Ki Protection, Water Fist
-    Shūji: = Lord Togashi’s Insight
+    Kihō: Earthen Fist.
+    Shūji: Lord Togashi’s Insight
     Outfit: Common clothing, bo (staff), traveling pack.
 4. How does your character stand out within their school?
     Calm. +1 Earth.
 5. Who is your lord and what is your character's duty to them?
-    Some higher-ranking monk? IDK, let the GM think of something. 
+    Order Abbot. 
     Giri: Temple caretaker. Not happy about it.
 6. What does your character long for and how might this impede their duty?
     Ninjo: Wanderlust. Tries to get away whenever possible.
 7. What is your character's relationship with their clan?
     Upstanding. +5 Glory.
 8. What does your character think of Bushido?
-    Orthodox. +10 Honor.
+    Heterodox. +1 Survival.
 9. What is your character's greatest accomplishment so far?
-    Having told some boss-of-my-boss the truth about something. It wasn't flattering. 
+    Giving his honest opinion to some bigshot, in front of witnesses.
     Distinction: Famously Honest.
 10. What holds your character back the most in life?
-    As above.
     Adversity: Bluntness. 
 11. What activity most makes your character feel at peace?
-    Being on the road.
     Passion: Travel.
 12: What concern, fear, or foible troubles your character the most?
-    Lying.
     Anxiety: Painful Honesty.
 13. Who has your character learned the most from during their life?
-    Relationship:
-    Advantage or Disadvantage and 1 rank in skill.
+    Relationship: Grandfather, also a warrior-monk (joined when old). +1 Martial Arts [Unarmed].
+    Disadvantage: Softheartedness.
 14. What do people notice first upon encountering your character?
-    Personality, Habits and Quirks: 
+    Personality, Habits and Quirks: Casual failures of protocol.
 15. How does your character react to stressful situations?
-    Personality, Habits and Quirks: 
+    Personality, Habits and Quirks: Indecisively, hoping the problem goes away.
 16. What are your character’s preexisting relationships with other clans, families, organizations, and traditions?
-    Item of rarity 7 or lower:
+    Gets along well with Crabs, not so well with Scorpions and Cranes. 
+    Item of rarity 7 or lower: Traveling Clothes. 
 17. How would your character’s parents describe them?
-    Kid #6. 
+    As a relatively unremarkable middle child, in a big family.
 18. Who was your character named to honor?
+    The nearest common ancestor between the family and the Imperial Line.
     Imperial Heritage. +10 Status.
     Advantage: Blessed Lineage.
 19. What is your character’s personal name?
-    
+    Masahide. Same as official name.
 20. How should your character die?
-    
+    Standing up for truth.
