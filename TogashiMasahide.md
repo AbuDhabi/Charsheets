@@ -1,7 +1,7 @@
 # Identity, Social and Experience
 | Name | Player | Clan | Family | School Rank | Roles | Heritage  | Honor | Glory| Status | Total XP | Unspent XP |
 | ---- | ------ | ---- | ------ | ----------- | ----- |---------- | ------ | ---- | ----- | -------- | ---------- |
-| Masahide | AbuDhabi | Dragon | Togashi | ??? | Monk |  Imperial |   40    |  50   |  40   |    0    |     0     |
+| Masahide | AbuDhabi | Dragon | Togashi | 1 | Monk |  Imperial |   40    |  50   |  40   |    0    |     0     |
 
 Ninjo: Wanderlust. Tries to get away whenever possible.
 
@@ -17,6 +17,10 @@ Quirks: Casually breaches protocol. Indecisive when stressed.
 | ------ | ---- | ----- | --- | ---- | ---- |
 |        |  1   |   3   |  1  |  2   |   3  |
 | Stance | Perform a second action on your turn that does not require a check or share a type with your first action. | Others cannot spend Opportunity to inflict critical strikes or conditions on you. | +1 to TN of Attack and Scheme checks targeting you (+2 at rank 4+). | If you succeed, +1 bonus success per Strife symbol. | You do not receive strife from Strife symbols on checks. |
+
+| Focus | Vigilance | Endurance | Fatigue | Composure | Strife |
+|-|-|-|-|-|-|
+|   3   |     1     |    10     |         |     8     |        |
 
 # Skills
 
@@ -83,6 +87,18 @@ Quirks: Casually breaches protocol. Indecisive when stressed.
 |-|
 |If given the choice to kill someone or show mercy, you always spare their life, even if it is not in your interest to let them live.|
 |After performing a check that addresses or involves killing others or letting them die (such as a Government [Fire] check to estimate the burden a war would place on the common people or a Martial Arts [Ranged] [Fire] check to shoot to kill), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.|
+
+# Equipment
+
+* Common clothes
+* Traveling clothes
+* Bo
+* Traveling pack
+* 3 koku
+
+# Techniques
+
+TODO
 
 # Twenty Questions 
 1. What clan does your character belong to?
