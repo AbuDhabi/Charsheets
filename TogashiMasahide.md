@@ -1,7 +1,11 @@
-# Identity and Social
-| Name | Player | Clan | Family | School Rank | Roles | Honor | Glory| Status | 
-| ---- | ------ | ---- | ------ | ----------- | ----- | ------ | ---- | ----- | 
-| Masahide | AbuDhabi | Dragon | Togashi | ??? | Monk |  40    |  50   |  40   | 
+# Identity, Social and Experience
+| Name | Player | Clan | Family | School Rank | Roles | Honor | Glory| Status | Total XP | Unspent XP |
+| ---- | ------ | ---- | ------ | ----------- | ----- | ------ | ---- | ----- | -------- | ---------- |
+| Masahide | AbuDhabi | Dragon | Togashi | ??? | Monk |  40    |  50   |  40   |    0    |     0     |
+
+Ninjo: Wanderlust. Tries to get away whenever possible.
+
+Giri: Temple caretaker. Not happy about it.
 
 Titles: 
 
@@ -11,6 +15,37 @@ Titles:
 | ------ | ---- | ----- | --- | ---- | ---- |
 |        |  1   |   3   |  1  |  2   |   3  |
 | Stance | Perform a second action on your turn that does not require a check or share a type with your first action. | Others cannot spend Opportunity to inflict critical strikes or conditions on you. | +1 to TN of Attack and Scheme checks targeting you (+2 at rank 4+). | If you succeed, +1 bonus success per Strife symbol. | You do not receive strife from Strife symbols on checks. |
+
+# Skills
+
+|Skill | Rank | Approach |
+| ------ | ---- | ----- | 
+|Aesthetics|  0   |   Refine A   | 
+|Composition |  0   |   Restore E   | 
+|Design|  0   |   Invent F   | 
+|Smithing|  0   |   Adapt W   | 
+|        |     |   Attune V   | 
+|Fitness|  2   |   Feint A   | 
+|MA [Melee] |  0   |   Withstand E   | 
+|MA [Ranged] |  0   |   Overwhelm F   | 
+|MA [Unarmed]|  2   |   Shift W   | 
+|Meditation |  1   |   Sacrifice V   | 
+|Tactics|  0   |      | 
+|Culture|     |   Analyze A  | 
+|Government|  0   |   Recall E   | 
+|Medicine|  0   |   Theorize F   | 
+|Sentiment|  0   |   Survey W   | 
+|Theology|  2   |   Sense V   | 
+|Command|  0   |   Trick A | 
+|Courtesy|  0   |   Reason E | 
+|Games|  0   |   Incite F | 
+|Performance|  0   |   Charm W | 
+|        |     |   Enlighten V   | 
+|Commerce|  0   |   Con A   | 
+|Labor| 0   |   Produce E   | 
+|Seafaring|  1   |   Innovate F   | 
+|Skullduggery|  0   |   Exchange W   | 
+|Survival|  2   |   Subsist V   | 
 
 # Twenty Questions 
 1. What clan does your character belong to?
