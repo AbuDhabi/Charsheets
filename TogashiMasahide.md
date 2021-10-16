@@ -1,7 +1,7 @@
 # Identity and Social
-| Name | Player | Clan | Family | School Rank | Roles || Honor | Glory| Status | 
-| ---- | ------ | ---- | ------ | ----------- | ----- || ------ | ---- | ----- | 
-| Masahide | AbuDhabi | Dragon | Togashi | ??? | Monk ||  40    |  50   |  40   | 
+| Name | Player | Clan | Family | School Rank | Roles | Honor | Glory| Status | 
+| ---- | ------ | ---- | ------ | ----------- | ----- | ------ | ---- | ----- | 
+| Masahide | AbuDhabi | Dragon | Togashi | ??? | Monk |  40    |  50   |  40   | 
 
 Titles: 
 
