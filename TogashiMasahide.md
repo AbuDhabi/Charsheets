@@ -1,7 +1,9 @@
-# Identity
-| Name | Player | Clan | Family | School Rank | Roles |
-| ---- | ------ | ---- | ------ | ----------- | ----- |
-| Masahide | AbuDhabi | Dragon | Togashi | ??? | Monk |
+# Identity and Social
+| Name | Player | Clan | Family | School Rank | Roles || Honor | Glory| Status | 
+| ---- | ------ | ---- | ------ | ----------- | ----- || ------ | ---- | ----- | 
+| Masahide | AbuDhabi | Dragon | Togashi | ??? | Monk ||  40    |  50   |  40   | 
+
+Titles: 
 
 # Rings
 
@@ -9,13 +11,6 @@
 | ------ | ---- | ----- | --- | ---- | ---- |
 |        |  1   |   3   |  1  |  2   |   3  |
 | Stance | Perform a second action on your turn that does not require a check or share a type with your first action. | Others cannot spend Opportunity to inflict critical strikes or conditions on you. | +1 to TN of Attack and Scheme checks targeting you (+2 at rank 4+). | If you succeed, +1 bonus success per Strife symbol. | You do not receive strife from Strife symbols on checks. |
-
-# Social
-| Honor | Glory| Status | 
-| ------ | ---- | ----- | 
-|  40    |  50   |  40   | 
-
-Titles: 
 
 # Twenty Questions 
 1. What clan does your character belong to?
