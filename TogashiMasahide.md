@@ -50,29 +50,35 @@ Titles:
 # Advantages and Disadvantages
 ## Distinctions
 | Famously Honest A |
+|-|
 | Other people have heard of you for your honesty, and they believe you by default unless given evidence to the contrary. |
 | When performing a check for which you can leverage your reputation for telling the truth (such as a Command [Air] check to convince someone of a statement’s veracity, or a Commerce [Air] check to sell an item at an inflated price), you may reroll up to two dice. |
 
 |Blessed Lineage V |
+|-|
 |Characters with status of 50 or higher understand that they might suffer a loss of prestige if they harm you, and thus do not choose to kill you as their first option, even if you are a political obstacle they would otherwise eliminate without hesitation.|
 |When performing a check for which your esteemed lineage is a benefit (such as a Command [Void] check to challenge someone’s perception of a situation or a Government [Void] check to know the likelihood of a political eventuality), you may reroll up to two dice.|
 
 ## Adversities
 | Bluntness A |
+|-|
 | You have difficulty expressing things indirectly, and you overlook insinuations and implications in the statements of others unless they are pointed out to you directly. |
 | When you make a check to create or interpret subtext (such as a Design [Air] check to select a wardrobe that conveys the proper subtle message to your intended recipient or a Sentiment [Air] check to read someone’s unstated feelings), you must choose and reroll two dice containing  or . After resolving the check, if you failed, you gain 1 Void point. |
 
 ## Passions
 | Travel W |
+|-|
 |You are not unsettled by foreign customs, and you can comfortably fit in even in strange environments.|
 |After performing a check to travel to a new location or interact with a novel thing (such as a Survival [Water] check to try to identify a new plant, animal, or phenomenon, or a Seafaring [Water] check to travel by boat), you remove 3 strife.|
 
 ## Anxieties
 |Painful Honesty A|
+|-|
 |You are tormented by internal conflict when you lie or allow a lie to pass. You cannot make claims you know to be false, although you can say technically truthful things that imply untruths, if politeness or circumstances demand it.|
 |After you make a check to mislead someone else (such as a Courtesy [Air] check to falsely besmirch someone’s reputation or a Command [Air] check to manipulate an underling), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.|
 
 | Softheartedness F |
+|-|
 |If given the choice to kill someone or show mercy, you always spare their life, even if it is not in your interest to let them live.|
 |After performing a check that addresses or involves killing others or letting them die (such as a Government [Fire] check to estimate the burden a war would place on the common people or a Martial Arts [Ranged] [Fire] check to shoot to kill), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.|
 
