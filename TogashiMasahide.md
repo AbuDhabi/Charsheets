@@ -1,5 +1,6 @@
 # Identity
 | Name | Player | Clan | Family | School Rank | Roles |
+| ---- | ------ | ---- | ------ | ----------- | ----- |
 | Masahide | AbuDhabi | Dragon | Togashi | ??? | Monk |
 
 # Rings
