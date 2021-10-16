@@ -9,6 +9,8 @@ Giri: Temple caretaker. Not happy about it.
 
 Titles: 
 
+Quirks: Casually breaches protocol. Indecisive when stressed.
+
 # Rings and Derived Attributes
 
 |        | Water| Earth | Air | Fire | Void |
