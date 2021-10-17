@@ -1,15 +1,16 @@
 # Identity, Social and Experience
-| Name     | Player   | Clan   | Family  | School Rank | Roles | Heritage  | |Honor | Glory| Status | | Total XP | Unspent XP |
-| ----     | ------   | ----   | ------  | ----------- | ----- |---------- |-|------| ---- | -----  |-| -------- | ---------- |
-| Masahide | AbuDhabi | Dragon | Togashi | 1           | Monk  |  Imperial | |40    |  50  |  40    | |    0     |      0     |
+| Name     | Player   | Clan   | Family  | School Rank | Roles | Heritage  | |Honor | Glory| Status |
+| ----     | ------   | ----   | ------  | ----------- | ----- |---------- |-|------| ---- | -----  |
+| Masahide | AbuDhabi | Dragon | Togashi | 1           | Monk  |  Imperial | |40    |  50  |  40    |
 
-Ninjo: Wanderlust. Tries to get away whenever possible.
+|       | Description |
+|------ | ----------- |
+| Ninjo | Wanderlust. Tries to get away whenever possible. |
+| Giri  | Temple caretaker. Not happy about it. |
+| Titles| |
+| Quirks| Casually breaches protocol. Indecisive when stressed. |
 
-Giri: Temple caretaker. Not happy about it.
-
-Titles: 
-
-Quirks: Casually breaches protocol. Indecisive when stressed.
+XP: 0/0
 
 # Rings and Derived Attributes
 
