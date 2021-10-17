@@ -1,7 +1,7 @@
 # Identity, Social and Experience
-| Name | Player | Clan | Family | School Rank | Roles | Heritage  | Honor | Glory| Status | Total XP | Unspent XP |
-| ---- | ------ | ---- | ------ | ----------- | ----- |---------- | ------ | ---- | ----- | -------- | ---------- |
-| Masahide | AbuDhabi | Dragon | Togashi | 1 | Monk |  Imperial |   40    |  50   |  40   |    0    |     0     |
+| Name     | Player   | Clan   | Family  | School Rank | Roles | Heritage  | |Honor | Glory| Status | | Total XP | Unspent XP |
+| ----     | ------   | ----   | ------  | ----------- | ----- |---------- |-|------| ---- | -----  |-| -------- | ---------- |
+| Masahide | AbuDhabi | Dragon | Togashi | 1           | Monk  |  Imperial | |40    |  50  |  40    |-|    0     |      0     |
 
 Ninjo: Wanderlust. Tries to get away whenever possible.
 
