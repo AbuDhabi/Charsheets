@@ -103,21 +103,27 @@ Available: Kiho, Shuji, Rituals
 
 | Lord Togashi's Insight (Shuji) |
 |-|
-|  |
+| Activation: Once per game session as an action, you may make a TN 2 Meditation (Void) check to seek cosmic wisdom regarding a quandary in front of you.|
+| Effects: If you succeed, you receive a brief vision or hear the voice of Togashi providing a hint regarding one way you might proceed (which the GM should furnish). This hint should not be the full answer, but it should help you move forward toward a solution or at least formulate a plan of action. |
+| New Opportunities: Void: Reduce the TN of your first check to overcome the problem you are facing by your school rank (to a minimum of 1). |
 
 | Earthen Fist (Kiho) |
 |-|
-|  |
+| Activation: As an Attack and Support action, you may make a TN 1 Martial Arts [Unarmed] (Earth) check to empower your unarmed blows. When you perform this action, you may choose a character at range 0–1 as the target for the burst effect. |
+| Enhancement Effect: While this kihō is active, treat the base damage of your unarmed punch and kick profiles (see page 237) as being increased by your Earth Ring. While this kihō is active, increase your physical resis tance by 1. |
+|Burst Effect: If you succeed with two or more bonus successes, you deal physical damage to the target equal to your Earth Ring, and your target must resist with a TN 4 Fitness check (Air 2, Water 5) or suffer the Prone condition. |
 | Tattoo: Boulders on right fist. Add bonus successes equal to school rank on successful activation. |
 
 | Earth Needs No Eyes (Kiho) |
 |-|
-|  |
+| Activation: As a Support action, you may activate this kihō. When you do so, you may make a TN 1 Meditation (Earth) check to gain an awareness of your surroundings. |
+| Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, you can use vibrations through the earth to “see” a number of range bands in all directions equal to your Earth Ring. While this kihō is active, increase your vigilance by your Earth Ring.|
+| Burst Effect: If you succeed with three or more bonus successes, you instantly become aware of all living creatures and objects touching the ground within a number of range bands equal to your Earth Ring plus your bonus successes. |
 
 # Twenty Questions 
 1. What clan does your character belong to?
     Dragon. 
-    +1 Fire, +1 Medidation, Status 30.
+    +1 Fire, +1 Meditation, Status 30.
     - General awareness of Dragon politics.
     - Knowledge about monastic life.
     - Knowledge of edible mountain plants.
@@ -125,16 +131,15 @@ Available: Kiho, Shuji, Rituals
     Bushido: Sincerity focus. 
 2. What family does your character belong to?
     Togashi Order.
-    +1 Void, +1 Fitness, +1 Theology, Glody 45, Wealth 3.
+    +1 Void, +1 Fitness, +1 Theology, Glory 45, Wealth 3.
 3. What is your character's school, and what roles does that school fall into?
     Togashi Tattooed Order. Monk. 
     +1 Earth, +1 Void. 
     +1 Fitness, +1 Martial Arts [Unarmed], +1 Survival, +1 Theology.
     Honor 40.
-    Techniques Available: Kihō (), Shūji (), Rituals ()
-    Kihō: Earthen Fist.
-    Shūji: Lord Togashi’s Insight
-    Outfit: Common clothing, bo (staff), traveling pack.
+    Kiho: Earth Needs No Eyes (starter), Earthen Fist (via first Tattoo).
+    Shuji: Lord Togashi’s Insight.
+    Outfit: Common clothing, bo, traveling pack.
 4. How does your character stand out within their school?
     Calm. +1 Earth.
 5. Who is your lord and what is your character's duty to them?
