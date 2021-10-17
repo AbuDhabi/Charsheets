@@ -99,7 +99,20 @@ XP: 0/0
 
 # Techniques
 
-TODO
+Available: Kiho, Shuji, Rituals
+
+| Lord Togashi's Insight (Shuji) |
+|-|
+|  |
+
+| Earthen Fist (Kiho) |
+|-|
+|  |
+| Tattoo: Boulders on right fist. Add bonus successes equal to school rank on successful activation. |
+
+| Earth Needs No Eyes (Kiho) |
+|-|
+|  |
 
 # Twenty Questions 
 1. What clan does your character belong to?
@@ -140,7 +153,7 @@ TODO
     Adversity: Bluntness. 
 11. What activity most makes your character feel at peace?
     Passion: Travel.
-12: What concern, fear, or foible troubles your character the most?
+12. What concern, fear, or foible troubles your character the most?
     Anxiety: Painful Honesty.
 13. Who has your character learned the most from during their life?
     Relationship: Grandfather, also a warrior-monk (joined when old). +1 Martial Arts [Unarmed].
