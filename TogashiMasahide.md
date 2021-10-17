@@ -3,7 +3,7 @@
 | ----     | ------   | ----   | ------  | :---------: | ----- |---------- |-|------| ---- | -----  |
 | Masahide | AbuDhabi | Dragon | Togashi |       1     | Monk  |  Imperial | |40    |  50  |  40    |
 
-|       | Description |
+|       |  |
 |------ | ----------- |
 | Ninjo | Wanderlust. Tries to get away whenever possible. |
 | Giri  | Temple caretaker. Not happy about it. |
@@ -91,15 +91,16 @@ XP: 0/0
 
 # Equipment
 
-* Common clothes
-* Traveling clothes
-* Bo
-* Traveling pack
-* 3 koku
+| Name | Properties |
+|-|-|
+| Common clothes | Mundane, Physical 1 |
+| Traveling clothes | Durable, Mundane, Subtle, Physical 2 |
+| Sanctified Robes | Ceremonial, Physical 1, Supernatural 3 |
+| Bo | Range 1-2, Damage 6, Deadliness 2 |
+|Traveling pack | |
+| 2 koku, 3 bu | |
 
 # Techniques
-
-Available: Kiho, Shuji, Rituals
 
 | Lord Togashi's Insight (Shuji) |
 |-|
@@ -169,7 +170,7 @@ Available: Kiho, Shuji, Rituals
     Personality, Habits and Quirks: Indecisively, hoping the problem goes away.
 16. What are your character’s preexisting relationships with other clans, families, organizations, and traditions?
     Gets along well with Crabs, not so well with Scorpions and Cranes. Pressured into joining the Order to prevent intelligence leaks.
-    Item of rarity 7 or lower: Traveling Clothes. 
+    Item of rarity 7 or lower: Sanctified Robes. 
 17. How would your character’s parents describe them?
     As a relatively unremarkable middle child, in a big family. Can't keep a secret to save his life, or keep his feet from wandering, though.
     Seafaring +1.
