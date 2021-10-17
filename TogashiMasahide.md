@@ -1,7 +1,7 @@
 # Identity, Social and Experience
 | Name     | Player   | Clan   | Family  | School Rank | Roles | Heritage  | |Honor | Glory| Status |
-| ----     | ------   | ----   | ------  | ----------- | ----- |---------- |-|------| ---- | -----  |
-| Masahide | AbuDhabi | Dragon | Togashi | 1           | Monk  |  Imperial | |40    |  50  |  40    |
+| ----     | ------   | ----   | ------  | :---------: | ----- |---------- |-|------| ---- | -----  |
+| Masahide | AbuDhabi | Dragon | Togashi |       1     | Monk  |  Imperial | |40    |  50  |  40    |
 
 |       | Description |
 |------ | ----------- |
@@ -25,34 +25,34 @@ XP: 0/0
 
 # Skills
 
-|Skill | Rank | Approach |
+|Skill       | Rank |   Approach   |
 | ------ | ---- | ----- | 
-|Aesthetics|  0   |   Refine A   | 
-|Composition |  0   |   Restore E   | 
-|Design|  0   |   Invent F   | 
-|Smithing|  0   |   Adapt W   | 
-|        |     |   Attune V   | 
-|Fitness|  2   |   Feint A   | 
-|MA [Melee] |  0   |   Withstand E   | 
-|MA [Ranged] |  0   |   Overwhelm F   | 
-|MA [Unarmed]|  2   |   Shift W   | 
-|Meditation |  1   |   Sacrifice V   | 
-|Tactics|  0   |      | 
-|Culture|  0  |   Analyze A  | 
-|Government|  0   |   Recall E   | 
-|Medicine|  0   |   Theorize F   | 
-|Sentiment|  0   |   Survey W   | 
-|Theology|  2   |   Sense V   | 
-|Command|  0   |   Trick A | 
-|Courtesy|  0   |   Reason E | 
-|Games|  0   |   Incite F | 
-|Performance|  0   |   Charm W | 
-|        |     |   Enlighten V   | 
-|Commerce|  0   |   Con A   | 
-|Labor| 0   |   Produce E   | 
-|Seafaring|  1   |   Innovate F   | 
-|Skullduggery|  0   |   Exchange W   | 
-|Survival|  2   |   Subsist V   | 
+|Aesthetics  |  0   |   Refine A   | 
+|Composition |  0   |   Restore E  | 
+|Design      |  0   |   Invent F   | 
+|Smithing    |  0   |   Adapt W    | 
+|            |      |   Attune V   | 
+|Fitness     |  2   |   Feint A    | 
+|MA [Melee]  |  0   |   Withstand E| 
+|MA [Ranged] |  0   |   Overwhelm F| 
+|MA [Unarmed]|  2   |   Shift W    | 
+|Meditation  |  1   |   Sacrifice V| 
+|Tactics     |  0   |              | 
+|Culture     |  0   |   Analyze A  | 
+|Government  |  0   |   Recall E   | 
+|Medicine    |  0   |   Theorize F | 
+|Sentiment   |  0   |   Survey W   | 
+|Theology    |  2   |   Sense V    | 
+|Command     |  0   |   Trick A    | 
+|Courtesy    |  0   |   Reason E   | 
+|Games       |  0   |   Incite F   | 
+|Performance |  0   |   Charm W    | 
+|            |      |   Enlighten V| 
+|Commerce    |  0   |   Con A      | 
+|Labor       |  0   |   Produce E  | 
+|Seafaring   |  1   |   Innovate F | 
+|Skullduggery|  0   |   Exchange W | 
+|Survival    |  2   |   Subsist V  | 
 
 # Advantages and Disadvantages
 ## Distinctions
@@ -70,7 +70,7 @@ XP: 0/0
 | Bluntness A |
 |-|
 | You have difficulty expressing things indirectly, and you overlook insinuations and implications in the statements of others unless they are pointed out to you directly. |
-| When you make a check to create or interpret subtext (such as a Design [Air] check to select a wardrobe that conveys the proper subtle message to your intended recipient or a Sentiment [Air] check to read someone’s unstated feelings), you must choose and reroll two dice containing  or . After resolving the check, if you failed, you gain 1 Void point. |
+| When you make a check to create or interpret subtext (such as a Design [Air] check to select a wardrobe that conveys the proper subtle message to your intended recipient or a Sentiment [Air] check to read someone’s unstated feelings), you must choose and reroll two dice containing Success or Explosive Success. After resolving the check, if you failed, you gain 1 Void point. |
 
 ## Passions
 | Travel W |
@@ -163,11 +163,11 @@ Available: Kiho, Shuji, Rituals
 15. How does your character react to stressful situations?
     Personality, Habits and Quirks: Indecisively, hoping the problem goes away.
 16. What are your character’s preexisting relationships with other clans, families, organizations, and traditions?
-    Gets along well with Crabs, not so well with Scorpions and Cranes. 
+    Gets along well with Crabs, not so well with Scorpions and Cranes. Pressured into joining the Order to prevent intelligence leaks.
     Item of rarity 7 or lower: Traveling Clothes. 
 17. How would your character’s parents describe them?
-    As a relatively unremarkable middle child, in a big family.
-    Seafaring 0.
+    As a relatively unremarkable middle child, in a big family. Can't keep a secret to save his life, or keep his feet from wandering, though.
+    Seafaring +1.
 18. Who was your character named to honor?
     The nearest common ancestor between the family and the Imperial Line.
     Imperial Heritage. +10 Status.
