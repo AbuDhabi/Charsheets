@@ -1,3 +1,5 @@
+!(Togashi Masahide, Tatooed Monk)[https://github.com/AbuDhabi/Charsheets/raw/master/TogashiMasahide.jpg]
+
 # Identity, Social and Experience
 | Name     | Player   | Clan   | Family  | School Rank | Roles | Heritage  | |Honor | Glory| Status |
 | ----     | ------   | ----   | ------  | :---------: | ----- |---------- |-|------| ---- | -----  |
