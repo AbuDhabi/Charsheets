@@ -1,4 +1,4 @@
-!(Togashi Masahide, Tatooed Monk)[/TogashiMasahide.jpg]
+![Togashi Masahide, Tatooed Monk](TogashiMasahide.jpg)
 
 # Identity, Social and Experience
 | Name     | Player   | Clan   | Family  | School Rank | Roles | Heritage  | |Honor | Glory| Status |
