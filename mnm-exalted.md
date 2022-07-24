@@ -43,7 +43,7 @@ PL8 150PP
 | Equipment 2       | Jade Lamellar Armour (P4), Bow (dmg 3). |
 | Luck 18           | Plot armour. |
 
-26pp
+24pp
 
 | | Create Firs R15 |
 |-|----------------|
