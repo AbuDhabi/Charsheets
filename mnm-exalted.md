@@ -17,13 +17,16 @@ PL8 150PP
 |   4 |  4      |  4  |    4    |  4 |
 
 0pp
-
-Expertise (Wood industry) +8
-Insight	+8
-Investigation	+8
-Perception +8
-Treatment +8
-Vehicles +8
+| Skills |
+|--------|
+| Expertise (Wood industry) +8, Insight	+8, Investigation	+8, Perception +8, Treatment +8, Vehicles +8 |
 
 12pp
+
+| Advantages | |
+|------------|-|
+| Benefit: Status | Dragon-Blooded. |
+| Benefit: Wealth 3 | Noble estate, forestry business. |
+
+4pp
 
