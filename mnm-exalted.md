@@ -14,25 +14,36 @@ PL8 150PP
 
 |DODGE|FORTITUDE|PARRY|TOUGHNESS|WILL|
 |-----|---------|-----|---------|----|
-|   4 |  4      |  4  |    4    |  4 |
+|   8 |  4      |  4  |  4 (8)  |  8 |
 
-| INITTIATIVE | RANGED | MELEE | 
-|-------------|--------|-------|
-|     +4      |   +4   |  +4   |
+| INITTIATIVE | Bow    | Unarmed | 
+|-------------|--------|---------|
+|     +4      |   atk +12, dmg 3  |  atk +4, dmg +4   |
 
-0pp
+8pp
+
 | Skills |
 |--------|
-| Expertise (Wood industry) +8, Insight	+8, Investigation	+8, Perception +8, Treatment +8, Vehicles +8 |
+|Expertise (Wood industry) +12 |
+|Expertise (Wilderness survival) +12 |
+|Insight	+12 |
+|Investigation	+12 | 
+|Perception +12 | 
+|Ranged Attack (Bows) +12 |
+|Stealth +12 |
+|Treatment +12 |
+|Vehicles +12  |
 
-12pp
+36pp
 
 | Advantages        | |
 |-------------------|-|
 | Benefit: Status   | Dragon-Blooded. |
 | Benefit: Wealth 3 | Noble estate, forestry business. |
+| Equipment 2       | Jade Lamellar Armour (P4), Bow (dmg 3). |
+| Luck 18           | Plot armour. |
 
-4pp
+26pp
 
 | | Create Firs R15 |
 |-|----------------|
