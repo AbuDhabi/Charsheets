@@ -34,7 +34,7 @@ PL8 150PP
 
 4pp
 
-| | Create Firs R8 |
+| | Create Firs R15 |
 |-|----------------|
 | Base        | Create Object |
 | Descriptors | Wood, Plant, Dragon-Blooded |
@@ -43,9 +43,9 @@ PL8 150PP
 | Duration    | Permanent |
 | Cost        | 1pp/rank +3 |
 | Extras      | Permanent (+0), Subtle (1pp), Precise (1pp), Innate (1pp), Limited (-1). |
-| Notes       | This power creates fir trees in locations plausibly capable of supporting them (ie. minimally adequate soil). |
+| Notes       | This power creates fir trees in locations plausibly capable of supporting them (ie. minimally adequate soil and support). |
 
-11pp
+18pp
 
 | Complications | |
 |---------------|-|
