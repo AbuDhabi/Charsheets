@@ -16,6 +16,10 @@ PL8 150PP
 |-----|---------|-----|---------|----|
 |   4 |  4      |  4  |    4    |  4 |
 
+| INITTIATIVE | RANGED | MELEE | 
+|-|-|-|
+| +4 | +4 | +4|
+
 0pp
 | Skills |
 |--------|
@@ -35,5 +39,13 @@ PL8 150PP
 | Motivation: Noblesse oblige | Zhuliya feels an obligation to help her lessers, especially her dependents. |
 | Weakness: Fear | Zhuliya fears dying, and supernatural fear effects are especially hard to resist. |
 
-
+| Create Firs | Base: Create Object |
+|-|-|
+| Descriptors | Wood, Plant |
+| Action | Standard |
+| Range  | Ranged |
+| Duration | Permanent |
+| Cost | 3pp/rank +2 |
+| Extras | Permanent (+0), Subtle (1pp), Precise (1pp), Innate (+1)  |
+| Notes | This power creates fir trees in locations plausibly capable of supporting them (ie. minimally adequate soil). |
 
