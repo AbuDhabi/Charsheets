@@ -1,4 +1,4 @@
-PL8 150PP
+![Simisi Zhuliya, AKA Firball](zhuliya-sm.png)
 
 | Name | Splat | Aspect | PL / PP |
 |-|-|-|-|
