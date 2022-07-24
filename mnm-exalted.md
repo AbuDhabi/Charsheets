@@ -18,3 +18,12 @@ PL8 150PP
 
 0pp
 
+Expertise (Wood industry) +8
+Insight	+8
+Investigation	+8
+Perception +8
+Treatment +8
+Vehicles +8
+
+12pp
+
