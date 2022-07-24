@@ -30,3 +30,10 @@ PL8 150PP
 
 4pp
 
+| Complications | |
+|-|-|
+| Motivation: Noblesse oblige | Zhuliya feels an obligation to help her lessers, especially her dependents. |
+| Weakness: Fear | Zhuliya fears dying, and supernatural fear effects are especially hard to resist. |
+
+
+
