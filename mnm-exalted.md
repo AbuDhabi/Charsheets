@@ -17,8 +17,8 @@ PL8 150PP
 |   4 |  4      |  4  |    4    |  4 |
 
 | INITTIATIVE | RANGED | MELEE | 
-|-|-|-|
-| +4 | +4 | +4|
+|-------------|--------|-------|
+|     +4      |   +4   |  +4   |
 
 0pp
 | Skills |
@@ -27,26 +27,27 @@ PL8 150PP
 
 12pp
 
-| Advantages | |
-|------------|-|
-| Benefit: Status | Dragon-Blooded. |
+| Advantages        | |
+|-------------------|-|
+| Benefit: Status   | Dragon-Blooded. |
 | Benefit: Wealth 3 | Noble estate, forestry business. |
 
 4pp
 
+| | Create Firs R8 |
+|-|----------------|
+| Base        | Create Object |
+| Descriptors | Wood, Plant, Dragon-Blooded |
+| Action      | Standard |
+| Range       | Ranged |
+| Duration    | Permanent |
+| Cost        | 1pp/rank +3 |
+| Extras      | Permanent (+0), Subtle (1pp), Precise (1pp), Innate (1pp), Limited (-1). |
+| Notes       | This power creates fir trees in locations plausibly capable of supporting them (ie. minimally adequate soil). |
+
+11pp
+
 | Complications | |
-|-|-|
+|---------------|-|
 | Motivation: Noblesse oblige | Zhuliya feels an obligation to help her lessers, especially her dependents. |
 | Weakness: Fear | Zhuliya fears dying, and supernatural fear effects are especially hard to resist. |
-
-|  | Create Firs R8 |
-|-|-|
-| Base| Create Object |
-| Descriptors | Wood, Plant |
-| Action | Standard |
-| Range  | Ranged |
-| Duration | Permanent |
-| Cost | 4pp/rank +2 |
-| Extras | Permanent (+0), Subtle (1pp), Precise (1pp), Innate (+1), Area (+1), Selective (+1), Limited (-1).  |
-| Notes | This power creates fir trees in locations plausibly capable of supporting them (ie. minimally adequate soil). |
-
