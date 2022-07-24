@@ -1,8 +1,13 @@
-SOLAR PL12 90PP
+PL8 150PP
 
-| STRENGTH | AGILITY   | FIGHTING  | AWARENESS |
+| Name | Splat | Aspect | PL / PP |
+|-|-|-|-|
+|  Simisi "Firball" Zhuliya | Dragon-Blooded | Wood | 8 / 150 |
+
+|||||
 |----------|-----------|-----------|-----------|
-|      0   |   0       |     0     |    0      |
+| STRENGTH | AGILITY   | FIGHTING  | AWARENESS |
+|      0   |   0       |     0     |    4      |
 | STAMINA  | DEXTERITY | INTELLECT |  PRESENCE |
-|      0   |    0      |     0     |    0      |
+|      0   |    0      |     2     |    0      |
 
