@@ -2,7 +2,7 @@
 
 | Name | Splat | Aspect | PL / PP |
 |-|-|-|-|
-|  Simisi "Firball" Zhuliya | Dragon-Blooded | Wood | 8 / 150 |
+|  Simisi "Firball" Zhuliya | Dragon-Blooded | Wood | 8 / 150 (+5) |
 
 | STRENGTH | AGILITY   | FIGHTING  | AWARENESS |
 |----------|-----------|-----------|-----------|
