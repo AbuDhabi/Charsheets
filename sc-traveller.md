@@ -16,6 +16,14 @@ Seafarer 0 (HW)
 Social Science 0
 Language 0
 
+Basic training:
+Pilot 0
+Battle Dress 0
+Zero-G 0
+Gunner 0
+Mechanic 0
+Gun Combat 0
+
 
 
 
@@ -23,3 +31,5 @@ Language 0
 Chargen
 Rolls: 5, 6, 11, 9, 4, 8.
 abudhabi Request: [2d6+1] Roll: [5, 3] Result: 9 Reason: qualify for navy
+Line/Crew
+
