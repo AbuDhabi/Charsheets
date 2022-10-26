@@ -10,6 +10,7 @@ Int 11 +1
 Edu 12 +2
 Soc 9  +1
 
+Age: 46.
 Homeworld: Pridewater.
 Nationality: Confederate. (+1 GC at end of chargen, a gun of my choosing from p.99)
 
@@ -30,6 +31,29 @@ Navigation 1
 Sensors 1
 Melee (blade) 3
 Leadership 1
+
+Relations:
+Rival
+Wife
+Contact
+
+Equipment:
+50k
+Weapon
+6 ship shares
+Ship's boat
+TAS membership
+
+SUMMARY
+
+Navy - diplomatic mission
+Navy - gain rival
+Navy - military engagement
+Navy - gain wife, no advance
+Navy - diplomatic mission, contact
+Navy - CO takes interest, commision
+Navy - advanced training, boring
+Muster out due to health
 
 
 CHARGEN
