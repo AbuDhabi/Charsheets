@@ -5,7 +5,7 @@ Dex 6  +0
 End 9  +1
 Int 10 +1
 Edu 11 +1
-Soc 4  -1
+Soc 5  -1
 
 Homeworld: Pridewater. (Low Tech, Water World.)
 Nationality: Confederate. (+1 GC at end of chargen, a gun of my choosing from p.99)
@@ -32,6 +32,13 @@ End +1
 Navigation +1
 Rival +1
 Int +1
+Battle Dress 1
+Engineer (J) +1
+Sensors 1
+Melee (blade) +1
+Wife +1
+Gunner (turret) +1
+Contact +1
 
 Final skills:
 Survival 0
@@ -39,15 +46,16 @@ Seafarer 0
 Social Science 0
 Language 0
 Pilot 0
-Battle Dress 0
+Battle Dress 1
 Zero-G 0
-Gunner 0
+Gunner (turret) 1
 Mechanic 1
 Gun Combat 0
-Engineer (J) 1
+Engineer (J) 2
 Recon 1
 Navigation 1
-
+Sensors 1
+Melee (blade) 1
 
 Rolls: 5, 6, 11, 9, 4, 8.
 Age 18
@@ -69,4 +77,31 @@ abudhabi Request: [2d6] Roll: [5, 3] Result: 8 Reason: life event
 Betrayal: The character is betrayed in some fashion by a friend.
 Gaining a Rival
 abudhabi Request: [2d6+1] Roll: [6, 5] Result: 12 Reason: advancement 7+
+Rank 2
 abudhabi Request: [1d6] Roll: [4] Result: 4 Reason: personal dev
+Age 26
+Line/crew
+abudhabi Request: [1d6] Roll: [3] Result: 3 Reason: advanced education
+abudhabi Request: [2d6+1] Roll: [4, 2] Result: 7 Reason: survival 5+
+abudhabi Request: [2d6] Roll: [4, 1] Result: 5 Reason: event
+Your vessel participates in a notable military engagement. Gaining Sensors 1.
+abudhabi Request: [2d6+1] Roll: [5, 4] Result: 10 Reason: advancement 7+
+Rank 3
+abudhabi Request: [1d6] Roll: [6] Result: 6 Reason: personal dev
+Age 30
+Line/crew
+abudhabi Request: [1d6] Roll: [5] Result: 5 Reason: crew
+abudhabi Request: [2d6+1] Roll: [4, 3] Result: 8 Reason: survival 5+
+abudhabi Request: [2d6] Roll: [4, 3] Result: 7 Reason: event
+abudhabi Request: [2d6] Roll: [4, 1] Result: 5 Reason: life event
+Improved Relationship: A romantic relationship involving the character deepens, possibly leading to marriage or some other
+emotional commitment.
+Wife GET
+abudhabi Request: [2d6+1] Roll: [3, 1] Result: 5 Reason: advancement 7+
+Fail to advance, but stay in service.
+Age 34
+abudhabi Request: [2d6-4] Roll: [5, 4] Result: 5 Reason: aging
+Line/crew
+abudhabi Request: [1d6] Roll: [4] Result: 4 Reason: service skills
+abudhabi Request: [2d6] Roll: [6, 2] Result: 8 Reason: event
+Your vessel participates in a diplomatic mission. Gaining a Contact.
