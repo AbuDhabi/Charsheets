@@ -1,4 +1,7 @@
-
+TODO:
+- connections
+- equipment
+- gun combat from nationality
 
 Str 4  -1
 Dex 6  +0
@@ -8,9 +11,9 @@ Edu 12 +2
 Soc 9  +1
 
 Homeworld: Pridewater.
-Nationality: Confederate. (+1 GC at end of chargen, a gun of my choosing from p.99. NOT INCLUDED YET)
+Nationality: Confederate. (+1 GC at end of chargen, a gun of my choosing from p.99)
 
-Final skills:
+Skills:
 Survival 0
 Seafarer 0
 Social Science 0
@@ -27,6 +30,9 @@ Navigation 1
 Sensors 1
 Melee (blade) 3
 Leadership 1
+
+
+CHARGEN
 
 Background skills:
 Survival 0 (HW)
