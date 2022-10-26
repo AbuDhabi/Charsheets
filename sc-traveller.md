@@ -3,12 +3,30 @@
 Str 4  -1
 Dex 6  +0
 End 7  +0
-Int 10 +1
+Int 11 +1
 Edu 12 +2
-Soc 5  -1
+Soc 9  +1
 
-Homeworld: Pridewater. (Low Tech, Water World.)
-Nationality: Confederate. (+1 GC at end of chargen, a gun of my choosing from p.99)
+Homeworld: Pridewater.
+Nationality: Confederate. (+1 GC at end of chargen, a gun of my choosing from p.99. NOT INCLUDED YET)
+
+Final skills:
+Survival 0
+Seafarer 0
+Social Science 0
+Language 0
+Pilot 0
+Battle Dress 1
+Zero-G 0
+Gunner (turret) 1
+Mechanic 1
+Gun Combat (slug) 1
+Engineer (J) 2
+Recon 1
+Navigation 1
+Sensors 1
+Melee (blade) 3
+Leadership 1
 
 Background skills:
 Survival 0 (HW)
@@ -48,27 +66,18 @@ Melee (blade) +1
 +1 Dex
 Leadership 1
 Melee (blade) +1
-
-Final skills:
-Survival 0
-Seafarer 0
-Social Science 0
-Language 0
-Pilot 0
-Battle Dress 1
-Zero-G 0
-Gunner (turret) 1
-Mechanic 1
-Gun Combat (slug) 1
-Engineer (J) 2
-Recon 1
-Navigation 1
-Sensors 1
-Melee (blade) 3
-Leadership 1
 -1 Str
 -1 Dex
 -2 End
+50k
+Int +1
+Weapon
+Soc +2
+Ship shares +2
+Ship's boat
+TAS membership
+Ship shares +2
+Ship shares +2
 
 Rolls: 5, 6, 11, 9, 4, 8.
 Age 18
@@ -143,4 +152,14 @@ abudhabi Request: [1d6] Roll: [4] Result: 4 Reason: officer
 Age 46
 abudhabi Request: [2d6-7] Roll: [3, 1] Result: -3 Reason: aging
 -1 Str, -1 Dex, -2 End
-
+For purposes of retirement, I'm rank 6 (4 NCO, 2 officer). I have 7 rolls from terms, plus 3 from rank, and a +1 bonus on all of them.
+abudhabi Request: [1d6+1] Roll: [5] Result: 6 Reason: cash 1
+abudhabi Request: [1d6+1] Roll: [1] Result: 2 Reason: benefits
+abudhabi Request: [1d6+1] Roll: [3] Result: 4 Reason: benefits
+abudhabi Request: [1d6+1] Roll: [6] Result: 7 Reason: benefits
+abudhabi Request: [1d6+1] Roll: [2] Result: 3 Reason: benefits
+abudhabi Request: [1d6+1] Roll: [5] Result: 6 Reason: benefits
+abudhabi Request: [1d6+1] Roll: [6] Result: 7 Reason: benefits
+abudhabi Request: [1d6+1] Roll: [4] Result: 5 Reason: benefits
+abudhabi Request: [1d6+1] Roll: [4] Result: 5 Reason: benefits
+abudhabi Request: [1d6+1] Roll: [4] Result: 5 Reason: benefits
