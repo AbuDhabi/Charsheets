@@ -44,13 +44,13 @@ Relations
 Equipment
 --------
 
-|Name          |    Properties       |
-|--------------|---------------------|
-|Cash          | 50k                 |
-|Weapon        |                     |
-|6 ship shares |                     |
-|Ship's boat   |                     |
-|TAS membership|                     |
+|Name          | TL | Value | Notes                            |
+|--------------|----|-------|----------------------------------|
+|Cash          | 1  |50k    | Benefit                          |
+|Gauss Pistol  | 13 | 500/20| Benefit. Damage 3d6, Auto 4, Rec -1, 0.5kg, 40 mag.|
+|6 ship shares | 1  | Priceless| Benefits.                     |
+|Ship's boat   | 8  | 16M   | Benefit.                         |
+|TAS membership| 9  | Priceless| Benefit                       |
 
 SUMMARY
 -------
