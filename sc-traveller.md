@@ -59,6 +59,7 @@ Equipment
 Passive Income
 --------------
 - Pension: 14000/yr
+- TAS: 1 high passage/2mo
 
 
 SUMMARY
