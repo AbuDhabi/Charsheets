@@ -5,6 +5,7 @@ TODO:
 - connections
 - gun combat from nationality (+1 GC at end of chargen)
 - contacts
+- retirement pay
 
 
 
