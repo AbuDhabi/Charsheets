@@ -8,4 +8,4 @@
 |Navy - gain wife, no advance         |Agent - almost die                 |Scholar - govt interference, gain enemy|
 |Navy - diplomatic mission, contact   |Rogue - crime lord protege         |Scholar - prestigious prize|
 |Navy - CO takes interest, commision  |Rogue - relationship (new?)        |Scholar - advanced training|
-|Navy - advanced training             |Rogue - crime pays off, gain enemy |Scholar - unethical psionics |
+|Navy - advanced training             |Rogue - crime pays off, gain enemy |Psion - unethical psionics |
