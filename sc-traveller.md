@@ -41,7 +41,7 @@ Relations
 ---------
 - Rival, an ambitious junior naval officer
 - Wife
-- Contact
+- Contact, a merchant marine captain
 
 Equipment
 --------
@@ -59,7 +59,9 @@ Equipment
 |Hand Computer | 12 | 1k    | Computer/3, 0.5kg.               |
 |Software      | 11 | 2.1k  | Expert (J-drive) 1, Astrogation 1, Intelligent Interface 1.|
 
-
+Passive Income
+--------------
+- Pension: 14000/yr
 
 
 SUMMARY
