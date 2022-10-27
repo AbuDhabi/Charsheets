@@ -1,14 +1,15 @@
+= Lt. Warren Garfield =
+
 TODO:
 - connections
 - equipment
 - gun combat from nationality
 
-Str 4  -1
-Dex 6  +0
-End 7  +0
-Int 11 +1
-Edu 12 +2
-Soc 9  +1
+
+
+| Str | Dex | End | Int | Edu | Soc |
+|-----|-----|-----|-----|-----|-----|
+|  -1 |  +0 |  +0 |  +1 |  +2 |  +1 |
 
 Age: 46.
 Homeworld: Pridewater.
