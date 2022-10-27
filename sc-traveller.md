@@ -1,4 +1,5 @@
-= Lt. Warren Garfield =
+Lt. Warren Garfield
+===================
 
 TODO:
 - connections
