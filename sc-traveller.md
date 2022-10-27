@@ -2,8 +2,9 @@ Lt. Warren Garfield
 ===================
 
 TODO:
-- connections
-- contacts
+- connections (1 more, get computers)
+- wife
+- portrait
 
 
 
