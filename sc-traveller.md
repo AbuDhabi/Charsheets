@@ -8,6 +8,7 @@ TODO:
 
 | Str | Dex | End | Int | Edu | Soc |
 |-----|-----|-----|-----|-----|-----|
+|   4 |   6 |   7 |  11 |  12 |   9 |
 |  -1 |  +0 |  +0 |  +1 |  +2 |  +1 |
 
 | Age | Homeworld   | Nationality  |
