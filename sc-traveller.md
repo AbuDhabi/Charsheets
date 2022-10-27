@@ -3,9 +3,7 @@ Lt. Warren Garfield
 
 TODO:
 - connections
-- gun combat from nationality (+1 GC at end of chargen)
 - contacts
-- retirement pay
 
 
 
@@ -20,10 +18,10 @@ TODO:
 Skills
 ------
 - Melee (blade) 3
+- Gun Combat (slug) 2
 - Engineer (J) 2
 - Battle Dress 1
 - Comms 1
-- Gun Combat (slug) 1
 - Gunner (turret) 1
 - Leadership 1
 - Mechanic 1
