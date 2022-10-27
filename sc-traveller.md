@@ -1,12 +1,10 @@
 Lt. Warren Garfield
 ===================
+![](warren.png)
 
 TODO:
 - connections (1 more, get computers)
 - wife
-- portrait
-
-
 
 | Str | Dex | End | Int | Edu | Soc |
 |-----|-----|-----|-----|-----|-----|
