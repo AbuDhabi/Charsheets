@@ -16,7 +16,8 @@ TODO:
 |-----|-------------|--------------|
 | 46  |  Pridewater |  Confederate |
 
-Skills:
+Skills
+------
 - Melee (blade) 3
 - Engineer (J) 2
 - Battle Dress 1
@@ -34,12 +35,18 @@ Skills:
 - Social Science 0
 - Zero-G 0
 
-Relations:
-Rival
-Wife
-Contact
+Relations
+---------
+- Rival, an ambitious junior naval officer
+- Wife
+- Contact
 
-Equipment:
+Equipment
+--------
+
+|aoeoa|oaeao|
+|aoeoa|oaeao|
+
 50k
 Weapon
 6 ship shares
@@ -47,7 +54,7 @@ Ship's boat
 TAS membership
 
 SUMMARY
-
+-------
 Navy - diplomatic mission
 Navy - gain rival
 Navy - military engagement
@@ -59,6 +66,7 @@ Muster out due to health
 
 
 CHARGEN
+-------
 
 Background skills:
 Survival 0 (HW)
