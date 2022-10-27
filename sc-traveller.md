@@ -83,6 +83,7 @@ Int +1
 Battle Dress 1
 Engineer (J) +1
 Sensors 1
+Soc +1
 Melee (blade) +1
 Wife +1
 Gunner (turret) +1
@@ -105,6 +106,7 @@ Weapon
 Soc +2
 Ship shares +2
 Ship's boat
+Soc +2
 TAS membership
 Ship shares +2
 Ship shares +2
