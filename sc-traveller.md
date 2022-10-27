@@ -55,7 +55,7 @@ Equipment
 |Vacc Suit     | 14 | 13.1k | Protection 8, 4kg, Skill 0. Mag Grapples.|
 |Neural Comm   | 12 | 5k    | Implant. Audio-video, Computer/0.|
 |Hand Computer | 12 | 1k    | Computer/3, 0.5kg.               |
-|Software      | Var| 2.1k  | Expert (J-drive) 1, Astrogation 1, Intelligent Interface 1.|
+|Software      | 11 | 2.1k  | Expert (J-drive) 1, Astrogation 1, Intelligent Interface 1.|
 
 
 
