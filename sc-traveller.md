@@ -3,8 +3,7 @@ Lt. Warren Garfield
 
 TODO:
 - connections
-- equipment
-- gun combat from nationality (+1 GC at end of chargen, a gun of my choosing from p.99)
+- gun combat from nationality (+1 GC at end of chargen)
 
 
 
