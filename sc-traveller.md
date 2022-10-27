@@ -44,25 +44,24 @@ Relations
 Equipment
 --------
 
-|aoeoa|oaeao|
-|aoeoa|oaeao|
-
-50k
-Weapon
-6 ship shares
-Ship's boat
-TAS membership
+|Name          |    Properties       |
+|--------------|---------------------|
+|Cash          | 50k                 |
+|Weapon        |                     |
+|6 ship shares |                     |
+|Ship's boat   |                     |
+|TAS membership|                     |
 
 SUMMARY
 -------
-Navy - diplomatic mission
-Navy - gain rival
-Navy - military engagement
-Navy - gain wife, no advance
-Navy - diplomatic mission, contact
-Navy - CO takes interest, commision
-Navy - advanced training, boring
-Muster out due to health
+- Navy - diplomatic mission
+- Navy - gain rival
+- Navy - military engagement
+- Navy - gain wife, no advance
+- Navy - diplomatic mission, contact
+- Navy - CO takes interest, commision
+- Navy - advanced training, boring
+- Muster out due to health
 
 
 CHARGEN
