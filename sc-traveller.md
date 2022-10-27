@@ -37,9 +37,9 @@ Skills
 
 Relations
 ---------
-- Rival, an ambitious junior naval officer
+- Rival, an ambitious junior naval officer, acquired early in service
 - Wife
-- Contact, a merchant marine captain
+- Contact, a merchant marine captain, met on a diplomatic mission
 
 Equipment
 --------
