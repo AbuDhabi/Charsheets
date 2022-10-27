@@ -130,8 +130,8 @@ TAS membership
 Ship shares +2
 Ship shares +2
 
-Connections:
-- term 1, gain Comms +1
+Connections: 
+term 1, gain Comms +1
 
 Rolls: 5, 6, 11, 9, 4, 8.
 Age 18
