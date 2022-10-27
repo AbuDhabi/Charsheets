@@ -4,7 +4,7 @@ Lt. Warren Garfield
 TODO:
 - connections
 - equipment
-- gun combat from nationality
+- gun combat from nationality (+1 GC at end of chargen, a gun of my choosing from p.99)
 
 
 
@@ -12,27 +12,27 @@ TODO:
 |-----|-----|-----|-----|-----|-----|
 |  -1 |  +0 |  +0 |  +1 |  +2 |  +1 |
 
-Age: 46.
-Homeworld: Pridewater.
-Nationality: Confederate. (+1 GC at end of chargen, a gun of my choosing from p.99)
+| Age | Homeworld   | Nationality  |
+|-----|-------------|--------------|
+| 46  |  Pridewater |  Confederate |
 
 Skills:
-Survival 0
-Seafarer 0
-Social Science 0
-Language 0
-Pilot 0
-Battle Dress 1
-Zero-G 0
-Gunner (turret) 1
-Mechanic 1
-Gun Combat (slug) 1
-Engineer (J) 2
-Recon 1
-Navigation 1
-Sensors 1
-Melee (blade) 3
-Leadership 1
+- Melee (blade) 3
+- Engineer (J) 2
+- Battle Dress 1
+- Gun Combat (slug) 1
+- Gunner (turret) 1
+- Leadership 1
+- Mechanic 1
+- Navigation 1
+- Recon 1
+- Sensors 1
+- Language 0
+- Pilot 0
+- Survival 0
+- Seafarer 0
+- Social Science 0
+- Zero-G 0
 
 Relations:
 Rival
