@@ -54,7 +54,7 @@ Equipment
 |Cutlass       | 2  | 100   | Benefit. Damage 2d6+4, Heft -1, 1kg.|
 |Cloth armour  | 10 | 500   | Protection 5, 1kg.               |
 |Neural Comm   | 10 | 1k    | Implant. Audio only.             |
-|Hand Computer | 12 | 1k    | Computer/3, 0.5kg.               |
+|Hand Computer | 12 | 2k    | Computer/3, 0.5kg.               |
 |Software      | 11 | 2.1k  | Expert (J-drive) 1, Astrogation 1, Intelligent Interface 1.|
 |Breather Mask | 8  | 150   | Filter + respirator.
 
