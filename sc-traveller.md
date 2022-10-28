@@ -46,7 +46,7 @@ Equipment
 
 |Name          | TL | Value | Notes                            |
 |--------------|----|-------|----------------------------------|
-|Cash          | 1  |45.4k  | Benefit                          |
+|Cash          | 1  |45.25k | Benefit                          |
 |Gauss Pistol  | 13 | 500/20| From nationality. Damage 3d6, Auto 4, Rec -1, 0.5kg, 40 mag.|
 |6 ship shares | 1  | Priceless| Benefits.                     |
 |Ship's boat   | 8  | 16M   | Benefit.                         |
@@ -56,6 +56,7 @@ Equipment
 |Neural Comm   | 10 | 1k    | Implant. Audio only.             |
 |Hand Computer | 12 | 1k    | Computer/3, 0.5kg.               |
 |Software      | 11 | 2.1k  | Expert (J-drive) 1, Astrogation 1, Intelligent Interface 1.|
+|Breather Mask | 8  | 150   | Filter + respirator.
 
 Passive Income
 --------------
