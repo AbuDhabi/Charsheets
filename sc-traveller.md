@@ -19,6 +19,7 @@ Skills
 - Melee (blade) 3
 - Gun Combat (slug) 2
 - Engineer (J) 2
+- Astrogation
 - Battle Dress 1
 - Comms 1
 - Computer 1
@@ -136,6 +137,9 @@ Connections:
 term 1, gain Comms +1
 term 7, gain Computer +1
 
+Skill package: Astrogation 1 from Explorer pack
+
+Career:
 Rolls: 5, 6, 11, 9, 4, 8.
 Age 18
 abudhabi Request: [2d6+1] Roll: [5, 3] Result: 9 Reason: qualify for navy
