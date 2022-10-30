@@ -21,8 +21,8 @@ Unnamed Lab Ship
 |Extras           |15 Probe drones |               |3     |  1 500 000   |
 |                 |Laboratory space |              |70    |              |
 |                 |Ship's Locker  |                |      |              |
-|                 |Pinnace    |                    |40    | 20 000 000   |
-|                 |Ship's Boat|Warren's            |30    | 16 000 000   |
+|                 |Pinnace    | 23 dtons cargo     |40    | 20 000 000   |
+|            |Ship's Boat|Warren's, 13 dtons cargo |30    | 16 000 000   |
 |Software         |Jump Control/2 |                |      |    200 000   |
 |                 |Maneuvre/0 |                    |      |              |
 |                 |Library/0  |                    |      |              |
