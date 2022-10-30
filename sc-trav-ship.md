@@ -32,6 +32,7 @@ Unnamed Lab Ship
 |Total tonnage and cost  |    |                    |  400 |       |
 
 | Age | Purchase Price | Monthly mortgage |
+|-----|----------------|------------------|
 | 30y | TBD            | TBD              |
 
 Quirks
