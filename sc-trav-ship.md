@@ -1,4 +1,4 @@
-Unnamed Lab Ship
+Padma
 ----------------
 
 | Laboratory Ship |           |                    | Tons | Price        |
