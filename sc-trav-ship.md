@@ -31,7 +31,7 @@ Padma
 |Life support cost (monthly) | |                   |      |     40 000   |
 |Total tonnage and cost  |    |                    |  400 |141 874 000   |
 |                |            |                    |      |              |
-|Purchase price  |            | 30y old            |      | 85 594 320   |
+|Purchase price  |32 shares   | 30y old            |      | 85 594 320   |
 |Monthly mortgage|            |                    |      |    356 643   |
 
 Quirks
