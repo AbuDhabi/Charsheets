@@ -3,7 +3,6 @@ Lt. Warren Garfield
 ![](warren.png)
 
 TODO:
-- connections (1 more, get computers)
 - wife
 
 | Str | Dex | End | Int | Edu | Soc |
@@ -22,6 +21,7 @@ Skills
 - Engineer (J) 2
 - Battle Dress 1
 - Comms 1
+- Computer 1
 - Gunner (turret) 1
 - Leadership 1
 - Mechanic 1
@@ -134,6 +134,7 @@ Ship shares +2
 
 Connections: 
 term 1, gain Comms +1
+term 7, gain Computer +1
 
 Rolls: 5, 6, 11, 9, 4, 8.
 Age 18
