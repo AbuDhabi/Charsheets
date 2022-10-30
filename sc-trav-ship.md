@@ -27,8 +27,8 @@ Unnamed Lab Ship
 |                 |Maneuvre/0 |                    |      |       |
 |                 |Library/0  |                    |      |       |
 |                 |           |                    |      |       |
-|Maintenance cost |           |                    |TBD   |TBD    |
-|Lifet support cost |         |                    |TBD   |TBD    |
+|Maintenance cost |           |                    |TBD   |11823  |
+|Life support cost |          |                    |TBD   |40000  |
 |Total tonnage and cost  |    |                    |  400 |141.874M |
 |                |            |                    |      |       |
 |Purchase price  |            | 30y old            |      | TBD   |
