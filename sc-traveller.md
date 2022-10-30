@@ -2,9 +2,6 @@ Lt. Warren Garfield
 ===================
 ![](warren.png)
 
-TODO:
-- wife
-
 | Str | Dex | End | Int | Edu | Soc |
 |-----|-----|-----|-----|-----|-----|
 |   4 |  6  |  7  |  11 |  12 |  9  |
