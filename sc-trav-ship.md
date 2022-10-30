@@ -30,10 +30,10 @@ Unnamed Lab Ship
 |Maintenance cost |           |                    |TBD   |TBD    |
 |Lifet support cost |         |                    |TBD   |TBD    |
 |Total tonnage and cost  |    |                    |  400 |       |
+|                |            |                    |      |       |
+|Purchase price  |            | 30y old            |      | TBD   |
+|Monthly mortgage|            |                    |      | TBD   |
 
-| Age | Purchase Price | Monthly mortgage |
-|-----|----------------|------------------|
-| 30y | TBD            | TBD              |
 
 Quirks
 ------
