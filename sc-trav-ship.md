@@ -31,4 +31,11 @@ Unnamed Lab Ship
 |Lifet support cost |         |                    |TBD   |TBD    |
 |Total tonnage and cost  |    |                    |  400 |       |
 
-Damaged thrusters and Damaged sensors and one secret modifier.
+| Age | Purchase Price | Monthly mortgage |
+| 30y | TBD            | TBD              |
+
+Quirks
+------
+- Damaged thrusters
+- Damaged sensors
+- Secret modifier
