@@ -27,8 +27,8 @@ Unnamed Lab Ship
 |                 |Maneuvre/0 |                    |      |       |
 |                 |Library/0  |                    |      |       |
 |                 |           |                    |      |       |
-|                 |           |                    |      |       |
-|                 |           |                    |      |       |
-|                 |           |                    |      |       |
+|Maintenance cost |           |                    |TBD   |TBD    |
+|Lifet support cost |         |                    |TBD   |TBD    |
+|Total tonnage and cost  |    |                    |  400 |       |
 
 Damaged thrusters and Damaged sensors and one secret modifier.
