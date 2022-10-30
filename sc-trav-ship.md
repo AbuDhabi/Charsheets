@@ -6,11 +6,11 @@ Unnamed Lab Ship
 |Hull             |400 tons   | Hull 8, Structure 8|      | 16 000 000   |
 |Armour           |None       |                    |      | 40 000 000   |
 |Jump Drive D     |           |Jump 2              |25    | 16 000 000   |
-|Manoeuvre Drive D|           |Thrust 2            |7     | 32 000 000   |
+|Manoeuvre Drive D|        |Thrust 2 (-1 DM quirk) |7     | 32 000 000   |
 |Power Plant D    |           |                    |13    |  2 000 000   |
 |Bridge           |           |                    |20    |    160 000   |
 |Computer         |Model 2    |Rating 10           |      |  2 000 000   |
-|Electronics      |Advanced Sensors|+1 DM          |3     |              |
+|Electronics    |Advanced Sensors|+1 DM (-1 quirk) |3     |              |
 |                 |           |                    |      |              |
 |Weapons          |None       |                    |      |              |
 |                 |           |                    |      |              |
