@@ -36,7 +36,7 @@ Skills
 Relations
 ---------
 - Rival, an ambitious junior naval officer, acquired early in service
-- Wife, Crystal, an accountant on Pridewater, issue by:
+- Wife, Crystal, 41, an accountant on Pridewater, issue by:
   * Brian, 19
   * Denise, 16
   * Ashlyn, 16
