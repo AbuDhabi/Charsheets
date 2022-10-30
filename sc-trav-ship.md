@@ -10,7 +10,7 @@ Unnamed Lab Ship
 |Power Plant D    |           |                    |13    |  2 000 000   |
 |Bridge           |           |                    |20    |    160 000   |
 |Computer         |Model 2    |Rating 10           |      |  2 000 000   |
-|Electronics    |Advanced Sensors|+1 DM (-1 quirk) |3     |              |
+|Electronics |Advanced Sensors|+1 DM (-1 DM quirk) |3     |              |
 |                 |           |                    |      |              |
 |Weapons          |None       |                    |      |              |
 |                 |           |                    |      |              |
