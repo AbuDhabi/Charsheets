@@ -37,6 +37,6 @@ Unnamed Lab Ship
 
 Quirks
 ------
-- Damaged thrusters
-- Damaged sensors
+- Damaged thrusters (-1 to pilot checks)
+- Damaged sensors (-1 to sensors checks)
 - Secret modifier
