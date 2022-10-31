@@ -15,11 +15,11 @@ Padma
 |Weapons          |None       |                    |      |              |
 |                 |           |                    |      |              |
 |Fuel             |88 tons    | One Jump–2 and 2wk ops|88 |              |
-|Cargo            |21 tons    | Plus small craft bays|21  |              |
+|Cargo            |71 tons    | Plus small craft bays|71  |              |
 |20 Staterooms    |           |                    |      | 10 000 000   |
 |                 |           |                    |      |              |
 |Extras           |15 Probe drones |               |3     |  1 500 000   |
-|                 |Laboratory space |              |70    |              |
+|                 |Laboratory space |              |20    |              |
 |                 |Ship's Locker  |                |      |              |
 |                 |Pinnace    | 23 dtons cargo     |40    | 20 000 000   |
 |            |Ship's Boat|Warren's, 13 dtons cargo |30    | 16 000 000   |
