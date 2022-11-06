@@ -45,18 +45,36 @@
 
 24pp
 
-| | Create Firs R15 |
-|-|----------------|
-| Base        | Create Object |
-| Descriptors | Wood, Plant, Dragon-Blooded |
-| Action      | Standard |
-| Range       | Ranged |
-| Duration    | Permanent |
-| Cost        | 1pp/rank +3 |
-| Extras      | Permanent (+0), Subtle (1pp), Precise (1pp), Innate (1pp), Limited (-1). |
-| Notes       | This power creates fir trees in locations plausibly capable of supporting them (ie. minimally adequate soil and support). |
+| ARRAY ANCHOR | Create Firs R15 |
+|--------------|-----------------|
+| Base         | Create Object |
+| Descriptors  | Wood, Plant, Dragon-Blooded |
+| Action       | Standard |
+| Range        | Ranged |
+| Duration     | Permanent |
+| Cost         | 1pp/rank +3 |
+| Extras       | Permanent (+0), Subtle (1pp), Precise (1pp), Innate (1pp), Limited (-1). |
+| Notes        | This power creates fir trees in locations plausibly capable of supporting them (ie. minimally adequate soil and support). |
 
 18pp
+
+(PROPOSED POWER)
+
+| DYNAMIC ALTERNATE EFFECT  | Sudden Fir Attack R8    |
+|---------------------------|-------------------------|
+| Base         | Damage                      |
+| Descriptors  | Wood, Plant, Dragon-Blooded |
+| Action       | Standard                    |
+| Range        | Ranged                      |
+| Duration     | Instant                     |
+| Cost         | 2pp/rank                    |
+| Extras       | Increased Range (+1).       |
+| Notes        | First grow aggressively, damaging target. Amount of firs is reduced to R7. |
+
+2pp
+
+(END PROPOSED POWER)
+
 
 | Complications | |
 |---------------|-|
