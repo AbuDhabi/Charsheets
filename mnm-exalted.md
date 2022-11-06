@@ -58,6 +58,16 @@
 
 18pp
 
+| Complications | |
+|---------------|-|
+| Motivation: Noblesse oblige | Zhuliya feels an obligation to help her lessers, especially her dependents. |
+| Weakness: Fear | Zhuliya fears dying, and supernatural fear effects are especially hard to resist. |
+
+|Sidequests|
+|----------|
+|Tell them that the venerable Yanxiu Qimeng-Zhe wishes to restore the old rites and I will once again bless my descendants if they once again gather to sacrifice to me and my household, so the living may later join us in good standing and wealth.|
+|Conclude card game with the Crossroads God. She owes me 5pp of good luck!|
+
 (PROPOSED POWER)
 
 | DYNAMIC ALTERNATE EFFECT  | Sudden Fir Attack R8    |
@@ -68,20 +78,9 @@
 | Range        | Ranged                      |
 | Duration     | Instant                     |
 | Cost         | 2pp/rank                    |
-| Extras       | Increased Range (+1), Limited (-1).       |
+| Extras       | Linked (to anchor power), Increased Range (+1), Limited (-1).       |
 | Notes        | First grow aggressively, damaging target. Same limitations apply as for normal fir creation. Amount of firs is reduced to R7. |
 
 2pp + 2pp for 4 skill points in Ranged Attack (Tree)
 
 (END PROPOSED POWER)
-
-
-| Complications | |
-|---------------|-|
-| Motivation: Noblesse oblige | Zhuliya feels an obligation to help her lessers, especially her dependents. |
-| Weakness: Fear | Zhuliya fears dying, and supernatural fear effects are especially hard to resist. |
-
-|Sidequests|
-|----------|
-|Tell them that the venerable Yanxiu Qimeng-Zhe wishes to restore the old rites and I will once again bless my descendants if they once again gather to sacrifice to me and my household, so the living may later join us in good standing and wealth.|
-|Conclude card game with the Crossroads God. She owes me 5pp of good luck!|
