@@ -1,7 +1,7 @@
-![](zhuliya-sm.png)
-
 Simisi Zhuliya, AKA Firball
 ---------------------------
+
+![](zhuliya-sm.png)
 
 | Name | Splat | Aspect | PL / PP |
 |-|-|-|-|
