@@ -66,3 +66,4 @@
 |Sidequests|
 |----------|
 |Tell them that the venerable Yanxiu Qimeng-Zhe wishes to restore the old rites and I will once again bless my descendants if they once again gather to sacrifice to me and my household, so the living may later join us in good standing and wealth.|
+|Conclude card game with the Crossroads God. She owes me 5pp of good luck!|
