@@ -68,8 +68,8 @@
 | Range        | Ranged                      |
 | Duration     | Instant                     |
 | Cost         | 2pp/rank                    |
-| Extras       | Increased Range (+1).       |
-| Notes        | First grow aggressively, damaging target. Amount of firs is reduced to R7. |
+| Extras       | Increased Range (+1), Limited (-1).       |
+| Notes        | First grow aggressively, damaging target. Same limitations apply as for normal fir creation. Amount of firs is reduced to R7. |
 
 2pp + 2pp for 4 skill points in Ranged Attack (Tree)
 
