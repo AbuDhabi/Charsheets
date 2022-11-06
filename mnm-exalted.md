@@ -71,7 +71,7 @@
 | Extras       | Increased Range (+1).       |
 | Notes        | First grow aggressively, damaging target. Amount of firs is reduced to R7. |
 
-2pp
+2pp + 2pp for 4 skill points in Ranged Attack (Tree)
 
 (END PROPOSED POWER)
 
