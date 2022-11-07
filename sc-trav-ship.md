@@ -4,13 +4,13 @@ Padma
 | Laboratory Ship |           |                    | Tons | Price        |
 |-----------------|-----------|--------------------|------|--------------|
 |Hull             |400 tons   | Hull 8, Structure 8|      | 16 000 000   |
-|Armour           |None       |                    |      | 40 000 000   |
-|Jump Drive D     |           |Jump 2              |25    | 16 000 000   |
-|Manoeuvre Drive D|        |Thrust 2 (-1 DM quirk) |7     | 32 000 000   |
-|Power Plant D    |           |                    |13    |  2 000 000   |
-|Bridge           |           |                    |20    |    160 000   |
-|Computer         |Model 2    |Rating 10           |      |  2 000 000   |
-|Electronics |Advanced Sensors|+1 DM (-1 DM quirk) |3     |              |
+|Armour           |None       |                    |      |              |
+|Jump Drive D     |           |Jump 2              |25    | 40 000 000   |
+|Manoeuvre Drive D|        |Thrust 2 (-1 DM quirk) |7     | 16 000 000   |
+|Power Plant D    |           |                    |13    | 32 000 000   |
+|Bridge           |           |                    |20    |  2 000 000   |
+|Computer         |Model 2    |Rating 10           |      |    160 000   |
+|Electronics |Advanced Sensors|+1 DM (-1 DM quirk) |3     |  2 000 000   |
 |                 |           |                    |      |              |
 |Weapons          |None       |                    |      |              |
 |                 |           |                    |      |              |
