@@ -71,8 +71,8 @@ Simisi Zhuliya, AKA Firball
 |Tell them that the venerable Yanxiu Qimeng-Zhe wishes to restore the old rites and I will once again bless my descendants if they once again gather to sacrifice to me and my household, so the living may later join us in good standing and wealth.|
 |Conclude card game with the Crossroads God. She owes me 5pp of good luck!|
 
-Powers to get
--------------
+Stuff to get
+------------
 
 | DYNAMIC ALTERNATE EFFECT  | Sudden Fir Attack R8    |
 |---------------------------|-------------------------|
@@ -86,3 +86,5 @@ Powers to get
 | Notes        | First grow aggressively, damaging target. Same limitations apply as for normal fir creation. Fir creation is limited by this power's cost. |
 
 2pp + 2pp for 4 skill points in Ranged Attack (Tree)
+
+Complication: Something to do with the Balance draw.
