@@ -33,6 +33,8 @@ Skills
 - Social Science 0
 - Zero-G 0
 
+Training: Mechanic (2/19)
+
 Relations
 ---------
 - Rival, an ambitious junior naval officer, acquired early in service
