@@ -83,6 +83,6 @@ Powers to get
 | Duration     | Instant                     |
 | Cost         | 2pp/rank                    |
 | Extras       | Linked (to anchor power), Increased Range (+1), Limited (-1).       |
-| Notes        | First grow aggressively, damaging target. Same limitations apply as for normal fir creation. Amount of firs is reduced to R7. |
+| Notes        | First grow aggressively, damaging target. Same limitations apply as for normal fir creation. Fir creation is limited by this power's cost. |
 
 2pp + 2pp for 4 skill points in Ranged Attack (Tree)
