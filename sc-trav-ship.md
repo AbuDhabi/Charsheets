@@ -10,7 +10,7 @@ Padma
 |Power Plant D    |           |                    |13    | 32 000 000   |
 |Bridge           |           |                    |20    |  2 000 000   |
 |Computer         |Model 2    |Rating 10           |      |    160 000   |
-|Electronics |Advanced Sensors|+1 DM (-1 DM quirk) |3     |  2 000 000   |
+|Electronics      |Advanced Sensors|  +1 DM        |3     |  2 000 000   |
 |                 |           |                    |      |              |
 |Weapons          |None       |                    |      |              |
 |                 |           |                    |      |              |
