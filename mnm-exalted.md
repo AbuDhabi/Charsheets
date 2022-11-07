@@ -87,4 +87,6 @@ Stuff to get
 
 2pp + 2pp for 4 skill points in Ranged Attack (Tree)
 
-Complication: Something to do with the Balance draw.
+| Complications | |
+|---------------|-|
+| Balance: Malevolence | Zhuliya normally prefers conciliatory and diplomatic solutions, but the final draw messed up her head a bit. She'll still take obvious or superior diplomatic outcomes over fighting, but toss-ups will get to roll initiative. |
