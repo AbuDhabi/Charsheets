@@ -15,8 +15,8 @@ Skills
 ------
 - Melee (blade) 3
 - Gun Combat (slug) 2
-- Engineer (J) 2
-- Astrogation 1
+- Engineer (J) 2 [+1]
+- Astrogation 1 [+1]
 - Battle Dress 1
 - Comms 1
 - Computer 1
