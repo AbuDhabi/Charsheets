@@ -44,3 +44,7 @@ Small craft
 -----------
 ![](pinnace.png)
 ![](shipsboat.png)
+
+Cargo (107 dtons max)
+---------------------
+- 2 dtons Spare Parts
