@@ -6,7 +6,7 @@ Padma
 |Hull             |400 tons   | Hull 8, Structure 8|      | 16 000 000   |
 |Armour           |None       |                    |      |              |
 |Jump Drive D     |           |Jump 2              |25    | 40 000 000   |
-|Manoeuvre Drive D|        |Thrust 2 (-1 DM quirk) |7     | 16 000 000   |
+|Manoeuvre Drive D|           |Thrust 2            |7     | 16 000 000   |
 |Power Plant D    |           |                    |13    | 32 000 000   |
 |Bridge           |           |                    |20    |  2 000 000   |
 |Computer         |Model 2    |Rating 10           |      |    160 000   |
@@ -36,7 +36,6 @@ Padma
 
 Quirks
 ------
-- Damaged thrusters (-1 to pilot checks)
 - Secret modifier
 
 Small craft
