@@ -15,7 +15,7 @@ Padma
 |Weapons          |None       |                    |      |              |
 |                 |           |                    |      |              |
 |Fuel             |88 tons    | One Jump–2 and 2wk ops|88 |              |
-|Cargo            |71 tons    | Plus small craft bays|71  |              |
+|Cargo            |71 tons    | 107 w/ small craft bays|71  |            |
 |20 Staterooms    |           |                    |80    | 10 000 000   |
 |                 |           |                    |      |              |
 |Extras           |15 Probe drones |               |3     |  1 500 000   |
