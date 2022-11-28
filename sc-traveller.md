@@ -33,7 +33,7 @@ Skills
 - Social Science 0
 - Zero-G 0
 
-Training: Mechanic (2/19)
+Training: Mechanic (8/19)
 
 Relations
 ---------
@@ -67,7 +67,8 @@ Other Assets
 Passive Income
 --------------
 - Pension: 14000/yr
-- TAS: 1 high passage/2mo
+- TAS: 1 high passage/2mo (worth 6000 each)
+ - Accumulated: 1
 
 
 SUMMARY
