@@ -69,7 +69,7 @@ Simisi Zhuliya, AKA Firball
 | Duration     | Instant                     |
 | Cost         | 2pp/rank                    |
 | Extras       | Linked (to anchor power), Increased Range (+1), Limited (-1).       |
-| Notes        | First grow aggressively, damaging target. Same limitations apply as for normal fir creation. Fir creation is limited by this power's cost. |
+| Notes        | Firs grow aggressively, damaging target. Same limitations apply as for normal fir creation. Fir creation is limited by this power's cost. |
 
 20pp 
 
