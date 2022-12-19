@@ -11,6 +11,13 @@ Lt. Warren Garfield
 |-----|-------------|--------------|
 | 46  |  Pridewater |  Confederate |
 
+Common Rolls
+------------
+- Divert Power +5
+- Comms +3
+- Sensors +3
+- Mechanic +3
+
 Skills
 ------
 - Melee (blade) 3
@@ -33,7 +40,9 @@ Skills
 - Social Science 0
 - Zero-G 0
 
-Training: Mechanic (8/19)
+Training: Mechanic (14ish?/19)
+
+History: none
 
 Relations
 ---------
