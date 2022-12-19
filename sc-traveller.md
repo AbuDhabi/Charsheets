@@ -40,7 +40,7 @@ Skills
 - Social Science 0
 - Zero-G 0
 
-Training: Mechanic (14ish?/19)
+Training: Mechanic (14ish?/19, done May 13th)
 
 History: none
 
