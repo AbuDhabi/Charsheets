@@ -45,4 +45,4 @@ Small craft
 
 Cargo (107 dtons max)
 ---------------------
-- 1 dtons Spare Parts
+- 2 dtons Spare Parts
