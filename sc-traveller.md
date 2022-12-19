@@ -68,6 +68,7 @@ Equipment
 |Hand Computer | 12 | 2k    | Computer/3, 0.5kg.               |
 |Software      | 11 | 2.1k  | Expert (J-drive) 1, Astrogation 1, Intelligent Interface 1.|
 |Breather Mask | 8  | 150   | Filter + respirator.|
+|CMC-300       | 9  | Loaned | 220/9 kg, +5 Str, requires BD 1. |
 
 Other Assets
 ------------
