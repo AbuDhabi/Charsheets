@@ -12,10 +12,10 @@ Padma
 |Computer         |Model 2    |Rating 10           |      |    160 000   |
 |Electronics      |Advanced Sensors|  +1 DM        |3     |  2 000 000   |
 |                 |           |                    |      |              |
-|Weapons          |None       |                    |      |              |
+|Weapons          |Double Turret| 2 Beam Lasers    |1     |  2 500 000   |
 |                 |           |                    |      |              |
 |Fuel             |88 tons    | One Jump–2 and 2wk ops|88 |              |
-|Cargo            |71 tons    | 107 w/ small craft bays|71  |            |
+|Cargo            |70 tons    | 106 w/ small craft bays|70  |            |
 |20 Staterooms    |           |                    |80    | 10 000 000   |
 |                 |           |                    |      |              |
 |Extras           |15 Probe drones |               |3     |  1 500 000   |
@@ -27,12 +27,12 @@ Padma
 |                 |Maneuvre/0 |                    |      |              |
 |                 |Library/0  |                    |      |              |
 |                 |           |                    |      |              |
-|Maintenance cost (monthly) | |                    |      |     11 823   |
+|Maintenance cost (monthly) | |                    |      |     12 010   |
 |Life support cost (monthly) | |                   |      |     40 000   |
-|Total tonnage and cost  |    |                    |  400 |141 874 000   |
+|Total tonnage and cost  |    |                    |  400 |144 374 000   |
 |                |            |                    |      |              |
 |Purchase price  |32 shares   | 30y old            |      | 85 594 320   |
-|Monthly mortgage|            |                    |      |    356 643   |
+|Monthly mortgage|            |                    |      |    366 018   |
 
 Quirks
 ------
@@ -43,6 +43,6 @@ Small craft
 ![](pinnace.png)
 ![](shipsboat.png)
 
-Cargo (107 dtons max)
+Cargo (106 dtons max)
 ---------------------
 - 2 dtons Spare Parts
