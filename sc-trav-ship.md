@@ -3,7 +3,7 @@ Padma
 
 | Laboratory Ship |           |                    | Tons | Price        |
 |-----------------|-----------|--------------------|------|--------------|
-|Hull             |400 tons   | Hull 7/8, Stru 8/8 |      | 16 000 000   |
+|Hull             |400 tons   | Hull 8/8, Stru 8/8 |      | 16 000 000   |
 |Armour           |None       |                    |      |              |
 |Jump Drive D     |           |Jump 2              |25    | 40 000 000   |
 |Manoeuvre Drive D|           |Thrust 2            |7     | 16 000 000   |
