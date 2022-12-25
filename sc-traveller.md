@@ -15,7 +15,7 @@ Common Rolls
 ------------
 - Divert Power +5
 - Comms +3
-- Sensors +3
+- Sensors +3 (Padma +4)
 - Mechanic +3
 
 Skills
