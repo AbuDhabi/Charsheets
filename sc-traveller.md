@@ -58,7 +58,7 @@ Equipment
 
 |Name          | TL | Value | Notes                            |
 |--------------|----|-------|----------------------------------|
-|Cash          | 1  |43.25k | Benefit                          |
+|Cash          | 1  |243.25k| Benefit                          |
 |Gauss Pistol  | 13 | 500/20| From nationality. Damage 3d6, Auto 4, Rec -1, 0.5kg, 40 mag.|
 |Ship's boat   | 8  | 16M   | Benefit.                         |
 |TAS membership| 9  | Priceless| Benefit.                      |
@@ -72,7 +72,7 @@ Equipment
 
 Other Assets
 ------------
-- 6 ship shares
+- 6 ship shares in Padma, plus shareholder status
 
 Passive Income
 --------------
