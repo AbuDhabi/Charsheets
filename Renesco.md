@@ -1,12 +1,18 @@
 Renesco
 =======
+Concept: Ex-military street samurai.
 
-| Physical | Mental | Special | Initiative | Limits |
-|----------|--------|---------|------------|--------|
-|Bod 5     | Cha 2  | Edg 7/7 | 12+3d6     | Phy 9  |
-|Agi 7 (10)| Int 5  | Ess 0.11|            | Men 5  |
-|Rea 5 (7) | Log 3  |         |            | Soc 3  |
-|Str 4 (7) | Wil 3  |         |            | Ast 5  |
+Description: A middle-aged man, of which there are scads everywhere. Shave off the neglected stubble and put him in a monkey suit, and you've got a perfectly bland salaryman. He's generally quiet and keeps to himself.
+
+Background: Former UCAS infantryman. No dependents, no future, but has a drinking problem.
+
+
+| Physical | Mental | Special | Initiative | Limits | Health       |
+|----------|--------|---------|------------|--------|--------------|
+|Bod 5     | Cha 2  | Edg 7/7 | 12+3d6     | Phy 9  | Stun     0/10|
+|Agi 7 (10)| Int 5  | Ess 0.11|            | Men 5  | Physical 0/11|
+|Rea 5 (7) | Log 3  |         |            | Soc 3  | Overflow 0/5 |
+|Str 4 (7) | Wil 3  |         |            | Ast 5  |              |
 
 | Active Skills                  | Rating | Pool | Knowledge Skills               | Rating | Pool |
 |--------------------------------|--------|------|--------------------------------|--------|------|
