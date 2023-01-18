@@ -8,26 +8,26 @@ Renesco
 |Rea 5 (7) | Log 3  |         |            | Soc 3  |
 |Str 4 (7) | Wil 3  |         |            | Ast 5  |
 
-| Active Skills                  | Rating | Pool |
-|--------------------------------|--------|------|
-|Perception INT                  | 6      | 11   |
-|Automatics AGI                  | 5      | 15   | 
-|Heavy Weapons AGI               | 5      | 15   | 
-|Longarms AGI                    | 5      | 15   | 
-|Pistols AGI                     | 5      | 15   | 
-|Unarmed Combat AGI              | 5      | 15   | 
-|Etiquette CHA                   | 3      | 5    |
-|(Infiltration)                  |        | 7    |  
-|Armorer LOG                     | 2      | 5    |
-|Blades AGI                      | 2      | 12   |
-|Computer LOG                    | 2      | 5    |
-|First Aid LOG                   | 2      | 5    |
-|Gymnastics AGI                  | 2      | 12   |
-|Pilot Ground Craft REA          | 2      | 9    |
-|Running STR                     | 2      | 9    |
-|Sneaking AGI                    | 2      | 12   |
-|Survival WIL                    | 2      | 5    |
-|Swimming STR                    | 2      | 9    |
-|Throwing Weapons AGI            | 2      | 12   |
-|Demolitions LOG                 | 1      | 4    |
-|Instruction CHA                 | 1      | 3    |
+| Active Skills                  | Rating | Pool | Knowledge Skills               | Rating | Pool |
+|--------------------------------|--------|------|--------------------------------|--------|------|
+|Perception INT                  | 6      | 11   |English INT                     | Native |      |
+|Automatics AGI                  | 5      | 15   |Philosophy LOG                  | 6      | 9    |
+|Heavy Weapons AGI               | 5      | 15   |Megacorp Law (Street) INT       | 4      | 9    |
+|Longarms AGI                    | 5      | 15   |Gangs INT                       | 3      | 8    |
+|Pistols AGI                     | 5      | 15   |Magical Theory (Academic) LOG   | 3      | 6    |
+|Unarmed Combat AGI              | 5      | 15   |Military LOG                    | 3      | 6    |
+|Etiquette CHA                   | 3      | 5    |Politics: UCAS LOG              | 3      | 6    |
+|(Infiltration)                  |        | 7    |Area Knowledge: Seattle INT     | 2      | 7    |
+|Armorer LOG                     | 2      | 5    |Aztlan LOG                      | 2      | 5    |
+|Blades AGI                      | 2      | 12   |Desert Wars LOG                 | 2      | 5    |
+|Computer LOG                    | 2      | 5    |Police Procedures (Street) INT  | 2      | 7    |
+|First Aid LOG                   | 2      | 5    |Smuggler Routes INT             | 2      | 7    |
+|Gymnastics AGI                  | 2      | 12   |Spanish INT                     | 2      | 7    |
+|Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 1      | 6    |
+|Running STR                     | 2      | 9    ||||
+|Sneaking AGI                    | 2      | 12   ||||
+|Survival WIL                    | 2      | 5    ||||
+|Swimming STR                    | 2      | 9    ||||
+|Throwing Weapons AGI            | 2      | 12   ||||
+|Demolitions LOG                 | 1      | 4    ||||
+|Instruction CHA                 | 1      | 3    ||||
