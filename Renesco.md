@@ -34,3 +34,11 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 |Throwing Weapons AGI            | 2      | 12   ||||
 |Demolitions LOG                 | 1      | 4    ||||
 |Instruction CHA                 | 1      | 3    ||||
+
+Qualities
+---------
+
+- Addiction (Moderate): Ethanol
+- Blandness
+- Exceptional Attribute: AGI
+- SINner (National)
