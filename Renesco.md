@@ -1,4 +1,4 @@
-![](renesco anime scar.png)
+![](renesco anime with scar.jpg)
 Renesco
 =======
 Concept: Ex-military street samurai.
