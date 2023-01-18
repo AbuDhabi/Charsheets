@@ -1,6 +1,6 @@
-![](renesco%20anime%20with%20scar.jpg)
 Renesco
 =======
+![](renesco%20anime%20with%20scar.jpg)
 Concept: Ex-military street samurai.
 
 Description: A middle-aged man, of which there are scads everywhere. Shave off the neglected stubble and put him in a monkey suit, and you've got a perfectly bland salaryman. He's generally quiet and keeps to himself.
