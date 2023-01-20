@@ -82,13 +82,13 @@ Weapons
 
 | Ranged                | Pool     | Acc | Damage | AP   |   Mode   | RC | Mag | Notes |
 |-----------------------|----------|----------|--------|------|----------|----|----------|-------|
-| Ares Alpha (AR)       | 15 (17)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | Gas-Vent 3 System; Internal Smarlink; Underbarrel launcher.|
+| Ares Alpha (AR)       | 15 (17)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | Gas-Vent 3, Smart(I), Launcher(U).|
 | Alpha Grenade Launcher| 15 (17)  | 6     | 16P (-2/m)| -2   | SS       | 4  | 6(c)     | HE minigrenade.        |
 | Aztechnology Striker  | 15       | 5    | 23P(f) (-1/m)| +5 | SS       | 4  | 1(ml)    | Fragmentation missile. |  
 | Colt America L36      | 15 (17)  | 7 (9)    | 7P     |      | SA       | 4  | 11(c)    | Smartgun System, External. |
-| Ingram Smartgun X     | 15 (17)  | 4 (6)    | 8P     |      | BF/FA    | 4  | 32(c)    | Gas-Vent 2 System; Internal Smartlink; Sound Suppressor.|
-| Ruger 101             | 15 (17)  | 6 (8)    | 11P    |      | SA       |4(5)| 8(m)     | Imaging Scope; Shock Pad; External Smartlink.|
-| Ruger Super Warhawk   | 15 (17)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smartgun System, External.|
+| Ingram Smartgun X     | 15 (17)  | 4 (6)    | 8P     |      | BF/FA    | 4  | 32(c)    | Gas-Vent 2, Smart(I), Suppressor.|
+| Ruger 101             | 15 (17)  | 6 (8)    | 11P    |      | SA       |4(5)| 8(m)     | Scope, Shock Pad; Smart(E).|
+| Ruger Super Warhawk   | 15 (17)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
 | Grenade: High Ex      | 12       | 9      | 16P(-2/m)| -2   |          |    | 6(c)     |       |
 
 Equipment
