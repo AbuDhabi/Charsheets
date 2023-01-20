@@ -92,11 +92,16 @@ Equipment
 | SR Ammo |           | 42 | HE Grenade |         | 4 | Ingram Clip |        | 1 |
 | +1 AR Ammo |         | 0 | Medkit | 4 | 1           | Ruger Loader |       | 1 |
 | Optical Binocs |     | 1 | HE Minigrenade |     | 4 | Survival Kit |       | 1 |
+| +6 Rad Jacket |12 (+6)|1 | Actioneer Suit | 8   | 1 | Armor Vest |   9     | 1 |
+| +6 Rad Helmet |+2 (+6)|1 | +1 Elec Jacket |12 (+1)|1| Chameleon Suit | 9   | 1 |
+| Helmet             |+2|1 | Cheap Clothes       |  |1| Medium Clothes |     | 1 |
+| Pricy Clothes      |  |1 |                     |  | |                |     |   |
 
 Notes:
 
 * Footman SIN has licenses. Fake License rating 4 (Concealed Carry Permit), Fake License rating 4 (Pistol License), Fake License rating 4 (Smartlink License), Fake License rating 4 (Driving License)
 * Catski license is probably burnt, utilize caution.
+* Chameleon suit raises Physical limit for Sneaking by 2. Must be visible.
 
 
 Vehicles
