@@ -11,12 +11,12 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 Attributes
 ----------
 
-| Physical | Mental | Special | Initiative | Limits | Health       |
-|----------|--------|---------|------------|--------|--------------|
-|Bod 5     | Cha 2  | Edg 7/7 | 12+3d6     | Phy 9  | Stun     0/10|
-|Agi 7 (10)| Int 5  | Ess 0.11|            | Men 5  | Physical 0/11|
-|Rea 5 (7) | Log 3  |         |            | Soc 3  | Overflow 0/5 |
-|Str 4 (7) | Wil 3  |         |            | Ast 5  |              |
+| Physical | Mental | Special | Initiative | Limits | Health                 | Damage Resistance |
+|----------|--------|---------|------------|--------|------------------------|-------------------|
+|Bod 5     | Cha 2  | Edg 7/7 | 12+3d6     | Phy 9  | Stun 000001112D        | 26 (most)         |
+|Agi 7 (10)| Int 5  | Ess 0.11|            | Men 5  |                        |                   |
+|Rea 5 (7) | Log 3  |         |            | Soc 3  | Phys 0000011122D OOOOO |                   |
+|Str 4 (7) | Wil 3  |         |            | Ast 5  |                        |                   |
 
 Skills
 ------
@@ -48,7 +48,7 @@ Skills
 Qualities
 ---------
 
-- Addiction (Moderate): Ethanol
+- Addiction (Moderate): Ethanol, (physical addiction pool: 8, psychological addiction pool: 6)
 - Blandness
 - Exceptional Attribute: AGI
 - SINner (National)
