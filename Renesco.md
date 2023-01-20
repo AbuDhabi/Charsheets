@@ -4,9 +4,9 @@ Renesco
 
 A middle-aged man, of which there are scads everywhere. Shave off the neglected stubble and put him in a monkey suit, and you've got a perfectly bland salaryman. He's generally quiet and keeps to himself. Ex-military street samurai. Former UCAS infantryman. No dependents, no future, but has a drinking problem. 
 
-| Karma | Career Karma | Street Cred | Nuyen      | 
-|-------|--------------|-------------|------------|
-| 13    | 238          | 24          | 12 504.97  |
+| Karma | Career Karma | Street Cred | Notoriety | Nuyen      | 
+|-------|--------------|-------------|-----------|------------|
+| 13    | 238          | 24          | 1         | 12 504.97  |
 
 | Physical | Mental | Special | Initiative | Limits | Health       |
 |----------|--------|---------|------------|--------|--------------|
