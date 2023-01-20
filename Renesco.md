@@ -80,9 +80,12 @@ Implants
 
 
 
+Vehicles
+--------
 
-
-
+| Craft       | Type | Vehicle     | Hand | Spd | Acc | Bod | Arm | Plt | Sens | Seat |
+|-------------|------|-------------|------|-----|-----|-----|-----|-----|------|------|
+| Groundcraft | Bike | Dodge Scoot | 4/3  | 3   | 1   | 4   | 4   | 1   | 1    | 1    |
 
 Lifestyles
 ----------
