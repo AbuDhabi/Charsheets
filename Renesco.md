@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | 
 |-------|--------------|-------------|-----------|------------|
-| 13    | 238          | 24          | 1         | 12 504.97  |
+| 21    | 247          | 25          | 1         | 27 504.97  |
 
 | Physical | Mental | Special | Initiative | Limits | Health       |
 |----------|--------|---------|------------|--------|--------------|
@@ -31,7 +31,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 |First Aid LOG                   | 2      | 5    |Smuggler Routes INT             | 2      | 7    |
 |Gymnastics AGI                  | 2      | 12   |Spanish INT                     | 2      | 7    |
 |Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 1      | 6    |
-|Running STR                     | 2      | 9    ||||
+|Running STR                     | 2      | 9    |Feng Shui (Academic) LOG        | 3      | 6    |
 |Sneaking AGI                    | 2      | 12   ||||
 |Survival WIL                    | 2      | 5    ||||
 |Swimming STR                    | 2      | 9    ||||
