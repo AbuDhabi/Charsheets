@@ -83,15 +83,15 @@ Equipment
 
 | Name | Rating | Quantity | Name | Rating | Quantity | Name | Rating | Quantity |
 |------|--------|----------|------|--------|----------|------|--------|----------|
-| SMG Gel Ammo |     | 200 | Climbing Gear |      | 1 | Name | Rating | Quantity |
-| SMG Gel Ammo |     | 100 | Fake SIN (Footman)  |4 |1| Name | Rating | Quantity |
-| HP Ammo |          | 100 | Fake SIN (Catski) | 4| 1 | Name | Rating | Quantity |
-| LP Ammo |           | 39 | Flashlight |         | 1 | Name | Rating | Quantity |
-| SMG Ammo |         | 188 | Gas Mask |           | 1 | Name | Rating | Quantity |
-| AR Ammo |          | 132 | Goggles (LL, thermo)|2 |1| Name | Rating | Quantity |
-| SR Ammo |           | 42 | HE Grenade |         | 4 | Name | Rating | Quantity |
-| +1 AR Ammo |         | 0 | Medkit | 4 | 1           | Name | Rating | Quantity |
-| Optical Binocs |     | 1 | HE Minigrenade |     | 4 | Name | Rating | Quantity |
+| SMG Gel Ammo |     | 200 | Climbing Gear |      | 1 | Frag Missile |       | 0 |
+| SMG Gel Ammo |     | 100 | Fake SIN (Footman)  |4 |1| Trauma Patch |       | 2 |
+| HP Ammo |          | 100 | Fake SIN (Catski) | 4| 1 | Sony Emperor |       | 1 |
+| LP Ammo |           | 39 | Flashlight |         | 1 | Colt Clip |          | 1 |
+| SMG Ammo |         | 188 | Gas Mask |           | 1 | Ruger Clip |         | 1 |
+| AR Ammo |          | 132 | Goggles (LL, thermo)|2 |1| Alpha Clip |         | 1 |
+| SR Ammo |           | 42 | HE Grenade |         | 4 | Ingram Clip |        | 1 |
+| +1 AR Ammo |         | 0 | Medkit | 4 | 1           | Ruger Loader |       | 1 |
+| Optical Binocs |     | 1 | HE Minigrenade |     | 4 | Survival Kit |       | 1 |
 
 Notes:
 
