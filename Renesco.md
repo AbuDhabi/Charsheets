@@ -78,6 +78,12 @@ Implants
 
 
 
+Equipment
+---------
+
+| Name | Rating | Quantity | Name | Rating | Quantity | Name | Rating | Quantity |
+|------|--------|----------|------|--------|----------|------|--------|----------|
+| Name | Rating | Quantity | Name | Rating | Quantity | Name | Rating | Quantity |
 
 
 Vehicles
