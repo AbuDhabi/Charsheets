@@ -8,6 +8,9 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 |-------|--------------|-------------|-----------|------------|
 | 21    | 247          | 25          | 1         | 27 504.97  |
 
+Attributes
+----------
+
 | Physical | Mental | Special | Initiative | Limits | Health       |
 |----------|--------|---------|------------|--------|--------------|
 |Bod 5     | Cha 2  | Edg 7/7 | 12+3d6     | Phy 9  | Stun     0/10|
@@ -15,7 +18,10 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 |Rea 5 (7) | Log 3  |         |            | Soc 3  | Overflow 0/5 |
 |Str 4 (7) | Wil 3  |         |            | Ast 5  |              |
 
-| Active Skills                  | Rating | Pool | Knowledge Skills               | Rating | Pool |
+Skills
+------
+
+| Active Skill                   | Rating | Pool | Knowledge Skill                | Rating | Pool |
 |--------------------------------|--------|------|--------------------------------|--------|------|
 |Perception INT                  | 6      | 11   |English INT                     | Native |      |
 |Automatics AGI                  | 5      | 15   |Philosophy LOG                  | 6      | 9    |
@@ -47,7 +53,10 @@ Qualities
 - Exceptional Attribute: AGI
 - SINner (National)
 
-| Implants                  | Rating | Essence | Grade    |
+Implants
+--------
+
+| Implant                   | Rating | Essence | Grade    |
 |---------------------------|--------|---------|----------|
 | Bone Density Augmentation | 4      | 0.84    | Betaware |
 | Damage Compensators       | 3      | 0.30    | Standard |
