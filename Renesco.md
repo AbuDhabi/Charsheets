@@ -83,7 +83,17 @@ Equipment
 
 | Name | Rating | Quantity | Name | Rating | Quantity | Name | Rating | Quantity |
 |------|--------|----------|------|--------|----------|------|--------|----------|
-| Name | Rating | Quantity | Name | Rating | Quantity | Name | Rating | Quantity |
+| SMG Gel Ammo |     | 200 | Climbing Gear |      | 1 | Name | Rating | Quantity |
+| SMG Gel Ammo |     | 100 | Fake SIN (Footman)* |4 |1| Rating | Quantity | Name | Rating | Quantity |
+| HP Ammo |          | 100 | Name | Rating | Quantity | Name | Rating | Quantity |
+| LP Ammo |           | 39 | Name | Rating | Quantity | Name | Rating | Quantity |
+| SMG Ammo |         | 188 | Name | Rating | Quantity | Name | Rating | Quantity |
+| AR Ammo |          | 132 | Name | Rating | Quantity | Name | Rating | Quantity |
+| SR Ammo |           | 42 | Name | Rating | Quantity | Name | Rating | Quantity |
+| +1 AR Ammo |         | 0 | Name | Rating | Quantity | Name | Rating | Quantity |
+| Optical Binocs |     | 1 | Name | Rating | Quantity | Name | Rating | Quantity |
+
+* Fake License rating 4 (Concealed Carry Permit), Fake License rating 4 (Pistol License), Fake License rating 4 (Smartlink License), Fake License rating 4 (Driving License)
 
 
 Vehicles
