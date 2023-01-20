@@ -46,3 +46,35 @@ Qualities
 - Blandness
 - Exceptional Attribute: AGI
 - SINner (National)
+
+| Implants                  | Rating | Essence | Grade    |
+|---------------------------|--------|---------|----------|
+| Bone Density Augmentation | 4      | 0.84    | Betaware |
+| Damage Compensators       | 3      | 0.30    | Standard |
+| Datajack w/ USB           |        | 0.08    | Alphaware|
+| Essence Hole              |        | 1.39    |          |
+| Muscle Augmentation       | 3      | 0.42    | Betaware |
+| Muscle Toner              | 3      | 0.42    | Betaware |
+| Orthoskin                 | 4      | 0.80    | Alphaware|
+| Platelet Factories        |        | 0.20    | Standard |
+| Smartlink                 |        | 0.16    | Alphaware|
+| Synaptic Booster          | 2      | 1.00    | Standard |
+| Toxin Extractor           | 2      | 0.28    | Betaware |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
