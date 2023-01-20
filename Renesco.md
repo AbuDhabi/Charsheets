@@ -80,7 +80,7 @@ Weapons
 | Survival Knife        | 12       | 5        | 9P     | -1   | 0      |
 | Unarmed               | 15       | 9        | 10P    |      | 0      |
 
-| Ranged                | Pool     | Accuracy | Damage | AP   |   Mode   | RC | Magazine | Notes |
+| Ranged                | Pool     | Acc | Damage | AP   |   Mode   | RC | Mag | Notes |
 |-----------------------|----------|----------|--------|------|----------|----|----------|-------|
 | Ares Alpha (AR)       | 15 (17)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | Gas-Vent 3 System; Internal Smarlink; Underbarrel launcher.|
 | Alpha Grenade Launcher| 15 (17)  | 6     | 16P (-2/m)| -2   | SS       | 4  | 6(c)     | HE minigrenade.        |
