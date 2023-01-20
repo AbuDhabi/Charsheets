@@ -87,3 +87,14 @@ Implants
 
 
 
+Contacts
+--------
+
+| Name                  | Location      | Archetype           | Connection | Loyalty |
+|-----------------------|---------------|---------------------|------------|---------|
+| Butch's Shadow Clinic | Seattle       | Street Doc          | 6          | 3       |
+| Doc "Painless"        | Seattle       | Male Ork Street Doc | 3          | 3       |
+| Local Gang Leader     | Renesco's Hood| Gang Leader         | 3          | 4       |
+| Mr Hands              | Seattle       | Fixer               | 6          | 1       |
+| Wilbert Horton        | Seattle       | Weapons Dealer      | 2          | 2       |
+| Your Name             | Seattle       | Fixer               | 5          | 2       |
