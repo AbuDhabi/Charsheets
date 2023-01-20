@@ -84,16 +84,19 @@ Equipment
 | Name | Rating | Quantity | Name | Rating | Quantity | Name | Rating | Quantity |
 |------|--------|----------|------|--------|----------|------|--------|----------|
 | SMG Gel Ammo |     | 200 | Climbing Gear |      | 1 | Name | Rating | Quantity |
-| SMG Gel Ammo |     | 100 | Fake SIN (Footman)* |4 |1| Rating | Quantity | Name | Rating | Quantity |
-| HP Ammo |          | 100 | Name | Rating | Quantity | Name | Rating | Quantity |
-| LP Ammo |           | 39 | Name | Rating | Quantity | Name | Rating | Quantity |
-| SMG Ammo |         | 188 | Name | Rating | Quantity | Name | Rating | Quantity |
-| AR Ammo |          | 132 | Name | Rating | Quantity | Name | Rating | Quantity |
-| SR Ammo |           | 42 | Name | Rating | Quantity | Name | Rating | Quantity |
-| +1 AR Ammo |         | 0 | Name | Rating | Quantity | Name | Rating | Quantity |
-| Optical Binocs |     | 1 | Name | Rating | Quantity | Name | Rating | Quantity |
+| SMG Gel Ammo |     | 100 | Fake SIN (Footman)  |4 |1| Name | Rating | Quantity |
+| HP Ammo |          | 100 | Fake SIN (Catski) | 4| 1 | Name | Rating | Quantity |
+| LP Ammo |           | 39 | Flashlight |         | 1 | Name | Rating | Quantity |
+| SMG Ammo |         | 188 | Gas Mask |           | 1 | Name | Rating | Quantity |
+| AR Ammo |          | 132 | Goggles (LL, thermo)|2 |1| Name | Rating | Quantity |
+| SR Ammo |           | 42 | HE Grenade |         | 4 | Name | Rating | Quantity |
+| +1 AR Ammo |         | 0 | Medkit | 4 | 1           | Name | Rating | Quantity |
+| Optical Binocs |     | 1 | HE Minigrenade |     | 4 | Name | Rating | Quantity |
 
-* Fake License rating 4 (Concealed Carry Permit), Fake License rating 4 (Pistol License), Fake License rating 4 (Smartlink License), Fake License rating 4 (Driving License)
+Notes:
+
+* Footman SIN has licenses. Fake License rating 4 (Concealed Carry Permit), Fake License rating 4 (Pistol License), Fake License rating 4 (Smartlink License), Fake License rating 4 (Driving License)
+* Catski license is probably burnt, utilize caution.
 
 
 Vehicles
