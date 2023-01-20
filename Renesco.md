@@ -2,7 +2,7 @@ Renesco
 =======
 ![](renesco%20anime%20with%20scar.jpg)
 
-A middle-aged man, of which there are scads everywhere. Shave off the neglected stubble and put him in a monkey suit, and you've got a perfectly bland salaryman. He's generally quiet and keeps to himself. Ex-military street samurai. Former UCAS infantryman. No dependents, no future, but has a drinking problem. 
+A middle-aged man, of which there are scads everywhere. Shave off the neglected stubble and put him in a monkey suit, and you've got a perfectly bland salaryman. He's generally quiet and keeps to himself. Ex-military street samurai. Former UCAS infantryman. No dependents, no future, but has a drinking problem. Real name: Kevin Mullins.
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | 
 |-------|--------------|-------------|-----------|------------|
