@@ -82,7 +82,7 @@ Weapons
 
 | Ranged                | Pool     | Acc | Damage | AP   |   Mode   | RC | Mag | Notes |
 |-----------------------|----------|----------|--------|------|----------|----|----------|-------|
-| Ares Alpha (AR)       | 15 (17)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U).|
+| Ares Alpha            | 15 (17)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U).|
 | Grenade Launcher      | 15 (17)  | 6      | 16P(-2/m)| -2   | SS       | 4  | 6(c)     | HE minigrenade.        |
 | Aztechnology Striker  | 15       | 5   | 23P(f)(-1/m)| +5   | SS       | 4  | 1(ml)    | Fragmentation missile. |  
 | Colt America L36      | 15 (17)  | 7 (9)    | 7P     |      | SA       | 4  | 11(c)    | Smartgun System, External. |
