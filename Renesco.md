@@ -84,8 +84,12 @@ Implants
 
 
 
+Lifestyles
+----------
 
-
+| Name         | Level    | Cost     | Properties   |
+|--------------|----------|----------|--------------|
+| Dave Footman | Low      | 2,216.67 | Dangerous Area; DocWagon Contract, Basic; Obscure/Difficult to Find;|
 
 Contacts
 --------
