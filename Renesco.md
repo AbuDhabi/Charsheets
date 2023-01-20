@@ -70,10 +70,15 @@ Implants
 | Synaptic Booster          | 2      | 1.00    | Standard |
 | Toxin Extractor           | 2      | 0.28    | Betaware |
 
+Weapons
+-------
 
-
-
-
+| Melee                 | Pool     | Accuracy | Damage | AP   | Reach  |
+|-----------------------|----------|----------|--------|------|--------|
+| Combat Knife          | 12       | 6        | 9P     | -3   | 0      |
+| Survival Kit Knife    | 12       | 5        | 8P     | -1   | 0      |
+| Survival Knife        | 12       | 5        | 9P     | -1   | 0      |
+| Unarmed               | 15       | 9        | 10P    |      | 0      |
 
 
 
