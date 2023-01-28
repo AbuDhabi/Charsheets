@@ -142,3 +142,10 @@ Contacts
 | Mr Hands              | Seattle       | Fixer               | 6          | 1       |
 | Wilbert Horton        | Seattle       | Weapons Dealer      | 2          | 2       |
 | Your Name             | Seattle       | Fixer               | 5          | 2       |
+
+Wishlist
+--------
+
+* Suprathyroid Gland (very expensive)
+* Upgrade Damage Compensators (higher grade!) or replace with Pain Editor (expensive)
+* Sleep Regulator (affordable, legal)
