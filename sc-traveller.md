@@ -75,6 +75,7 @@ Equipment
 Other Assets
 ------------
 - 6 ship shares in Padma, plus shareholder status
+- Impressive Title: Defender of Amphila
 
 Passive Income
 --------------
