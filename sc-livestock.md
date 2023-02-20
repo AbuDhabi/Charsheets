@@ -30,7 +30,7 @@
 |53|mink|
 |54|fox|
 |55|salmon|
-|56|goose|
+|56|snail|
 |61|exotic amphibian|
 |62|exotic fish|
 |63|exotic bird|
