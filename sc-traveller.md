@@ -23,13 +23,13 @@ Skills
 - Melee (blade) 3
 - Gun Combat (slug) 2
 - Engineer (J) 2 [+1]
+- Mechanic 2
 - Astrogation 1 [+1]
 - Battle Dress 1
 - Comms 1
 - Computer 1
 - Gunner (turret) 1
 - Leadership 1
-- Mechanic 1
 - Navigation 1
 - Recon 1
 - Sensors 1
@@ -40,7 +40,7 @@ Skills
 - Social Science 0
 - Zero-G 0
 
-Training: Mechanic (14ish?/19, done May 13th)
+Training: Mechanic (19/19, done May 13th)
 
 History: none
 
