@@ -15,7 +15,7 @@
 |26|camel|
 |31|bee|
 |32|horse|
-|33|silkmoth|
+|33|carp|
 |34|pigeon|
 |35|goose|
 |36|yak|
@@ -29,8 +29,8 @@
 |52|alpaca|
 |53|mink|
 |54|fox|
-|55|hedgehog|
-|56|canary|
+|55|salmon|
+|56|goose|
 |61|exotic amphibian|
 |62|exotic fish|
 |63|exotic bird|
