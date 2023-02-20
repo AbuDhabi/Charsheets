@@ -8,7 +8,7 @@
 |15|cattle|
 |16|cat|
 |21|chicken|
-|22|cavy|
+|22|deer|
 |23|donkey|
 |24|duck|
 |25|buffalo|
