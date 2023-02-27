@@ -40,7 +40,7 @@ Skills
 - Social Science 0
 - Zero-G 0
 
-Training: Mechanic (19/19, done May 13th)
+Training: Pilot (small craft) (0/19, started May 14th)
 
 History: none
 
