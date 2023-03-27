@@ -4,7 +4,7 @@ Lt. Warren Garfield
 
 | Str | Dex | End | Int | Edu | Soc |
 |-----|-----|-----|-----|-----|-----|
-|   4 |  6  |  7  |  11 |  12 |  9  |
+|   5 |  6  |  7  |  11 |  12 |  9  |
 |  -1 |  +0 |  +0 |  +1 |  +2 |  +1 |
 
 | Age | Homeworld   | Nationality  |
@@ -58,7 +58,7 @@ Equipment
 
 |Name          | TL | Value | Notes                            |
 |--------------|----|-------|----------------------------------|
-|Cash          | 1  |535 060| Benefit                          |
+|Cash          | 1  |355 060| Benefit                          |
 |Gauss Pistol  | 13 | 500/20| From nationality. Damage 3d6, Auto 4, Rec -1, 0.5kg, 40 mag.|
 |Ship's boat   | 8  | 16M   | Benefit.                         |
 |TAS membership| 9  | Priceless| Benefit.                      |
