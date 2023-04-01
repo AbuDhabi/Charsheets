@@ -146,6 +146,7 @@ Contacts
 Wishlist
 --------
 
-* Suprathyroid Gland (very expensive)
-* Upgrade Damage Compensators (higher grade!) or replace with Pain Editor (expensive)
-* Sleep Regulator (affordable, legal)
+* Suprathyroid Gland (140,000¥)
+* Replace Damage Compensators with Pain Editor (48,000¥ minus 6000¥ refund)
+* Sleep Regulator (12,000¥, legal)
+* See http://adragon202.no-ip.org/Shadowrun/index.php/SR5:Gear_Lists:Cyberware in general
