@@ -91,6 +91,8 @@ Weapons
 | Ruger Super Warhawk   | 15 (17)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
 | Grenade: High Ex      | 12       | 9      | 16P(-2/m)| -2   |          |    | 6(c)     |       |
 
+* Team also has the Gauss Rifle, see: http://adragon202.no-ip.org/Shadowrun/index.php/SR5:Weapons:Assault_Cannons
+
 Equipment
 ---------
 
