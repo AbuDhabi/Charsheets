@@ -42,7 +42,7 @@ Skills
 
 Training: Pilot (small craft) (0/19, started May 14th, completes September 24th)
 
-History: none
+History: Mechanic 1->2
 
 Relations
 ---------
