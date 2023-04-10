@@ -40,7 +40,7 @@ Skills
 - Social Science 0
 - Zero-G 0
 
-Training: Pilot (small craft) (0/19, started May 14th)
+Training: Pilot (small craft) (0/19, started May 14th, completes September 24th)
 
 History: none
 
