@@ -251,7 +251,6 @@ WORDS
 pace
 pain
 posture
-precedent
 provincial
 patch
 plant
@@ -335,7 +334,6 @@ drawing
 destruction
 dawn
 door
-dismiss
 dignity
 deprivation
 deter
