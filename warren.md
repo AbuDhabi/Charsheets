@@ -4,7 +4,7 @@ Lt. Warren Garfield
 
 | Str | Dex | End | Int | Edu | Soc |
 |-----|-----|-----|-----|-----|-----|
-|   5 |  6  |  7  |  11 |  12 |  9  |
+|   3/5 |  6  |  0/7  |  11 |  12 |  9  |
 |  -1 |  +0 |  +0 |  +1 |  +2 |  +1 |
 
 | Age | Homeworld   | Nationality  |
