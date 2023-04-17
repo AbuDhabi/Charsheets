@@ -59,7 +59,7 @@ Equipment
 |Name          | TL | Value | Notes                            |
 |--------------|----|-------|----------------------------------|
 |Cash          | 1  |355 060| Benefit                          |
-|Gauss Pistol  | 13 | 500/20| From nationality. Damage 3d6, Auto 4, Rec -1, 0.5kg, 40 mag.|
+|Gauss Pistol  | 13 | 500/20| From nationality. Damage 3d6, Auto 4, Rec -1, 0.5kg, 40 mag. 11 bullets left.|
 |Ship's boat   | 8  | 16M   | Benefit.                         |
 |TAS membership| 9  | Priceless| Benefit.                      |
 |Cutlass       | 2  | 100   | Benefit. Damage 2d6+4, Heft -1, 1kg.|
