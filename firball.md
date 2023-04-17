@@ -5,7 +5,7 @@ Simisi Zhuliya, AKA Firball
 
 | Name | Splat | Aspect | PL / PP |
 |-|-|-|-|
-|  Simisi "Firball" Zhuliya | Dragon-Blooded | Wood | 8 / 154 (+6) |
+|  Simisi "Firball" Zhuliya | Dragon-Blooded | Wood | 8 / 157 (+3) |
 
 | STRENGTH | AGILITY   | FIGHTING  | AWARENESS |
 |----------|-----------|-----------|-----------|
@@ -46,8 +46,9 @@ Simisi Zhuliya, AKA Firball
 | Benefit: Wealth 3 | Noble estate, forestry business. |
 | Equipment 2       | Jade Lamellar Armour (P4), Bow (dmg 3). |
 | Luck 18           | Plot armour. |
+| Languages 3       | Flametongue, Foresttongue, Riverspeak, Low Realm, Guild Cant. |
 
-24pp
+27pp
 
 | ARRAY ANCHOR | Create Firs R15 |
 |--------------|-----------------|

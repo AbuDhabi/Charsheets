@@ -4,7 +4,7 @@ Lt. Warren Garfield
 
 | Str | Dex | End | Int | Edu | Soc |
 |-----|-----|-----|-----|-----|-----|
-|   4 |  6  |  7  |  11 |  12 |  9  |
+|   5 |  6  |  7  |  11 |  12 |  9  |
 |  -1 |  +0 |  +0 |  +1 |  +2 |  +1 |
 
 | Age | Homeworld   | Nationality  |
@@ -16,20 +16,20 @@ Common Rolls
 - Divert Power +5
 - Comms +3
 - Sensors +3 (Padma +4)
-- Mechanic +3
+- Mechanic +4
 
 Skills
 ------
 - Melee (blade) 3
 - Gun Combat (slug) 2
 - Engineer (J) 2 [+1]
+- Mechanic 2
 - Astrogation 1 [+1]
 - Battle Dress 1
 - Comms 1
 - Computer 1
 - Gunner (turret) 1
 - Leadership 1
-- Mechanic 1
 - Navigation 1
 - Recon 1
 - Sensors 1
@@ -40,9 +40,9 @@ Skills
 - Social Science 0
 - Zero-G 0
 
-Training: Mechanic (14ish?/19, done May 13th)
+Training: Pilot (small craft) (0/19, started May 14th, completes September 24th)
 
-History: none
+History: Mechanic 1->2
 
 Relations
 ---------
@@ -58,7 +58,7 @@ Equipment
 
 |Name          | TL | Value | Notes                            |
 |--------------|----|-------|----------------------------------|
-|Cash          | 1  |17 240 | Benefit                          |
+|Cash          | 1  |355 060| Benefit                          |
 |Gauss Pistol  | 13 | 500/20| From nationality. Damage 3d6, Auto 4, Rec -1, 0.5kg, 40 mag.|
 |Ship's boat   | 8  | 16M   | Benefit.                         |
 |TAS membership| 9  | Priceless| Benefit.                      |
@@ -70,10 +70,13 @@ Equipment
 |Breather Mask | 8  | 150   | Filter + respirator.|
 |Combat Armour | 12 |226 010| Protection 14. 10kg, requires BD 0. Computer weave (rating 1), eye protection, 6h life support, mag grapples. |
 |CMC-300       | 9  | Loaned| Protection 11. 220/9 kg, +5 Str, requires BD 1. Comms, eye protection, magnetic boots, NBC shielding, drug injector, air filtering, one hour of life support in vacuum, visor HUD, computer-0 system. |
+|Investor swag |    | Priceless| Gold-fringed ceremonial uniform to award to Warren. Amphila CMC 50% voucher.|
+|Magic sword   |    | 300cr| Glows blue when elves are around, red for dwarfs, and green for orcs. Mass 0.5kg, 2d6+1 dmg.|
 
 Other Assets
 ------------
 - 6 ship shares in Padma, plus shareholder status
+- Impressive Title: Defender of Amphila
 
 Passive Income
 --------------
@@ -241,3 +244,106 @@ abudhabi Request: [1d6+1] Roll: [6] Result: 7 Reason: benefits
 abudhabi Request: [1d6+1] Roll: [4] Result: 5 Reason: benefits
 abudhabi Request: [1d6+1] Roll: [4] Result: 5 Reason: benefits
 abudhabi Request: [1d6+1] Roll: [4] Result: 5 Reason: benefits
+
+WORDS
+-----
+
+pace
+pain
+posture
+provincial
+patch
+plant
+proud
+policeman
+personal
+parachute
+plaintiff
+president
+production
+pocket
+pioneer
+process
+prediction
+pay
+private
+principle
+prospect
+provision
+profound
+page
+powder
+provoke
+paradox
+penny
+peak
+path
+prayer
+peanut
+proclaim
+passive
+penalty
+position
+plead
+plan
+plane
+pony
+present
+palm
+pray
+pop
+population
+pity
+planet
+point
+precede
+
+debut
+diplomatic
+demonstration
+deprive
+district
+defend
+dressing
+disk
+delicate
+dose
+dilemma
+drill
+due
+dance
+delete
+dribble
+disagreement
+demonstrate
+damage
+disclose
+dozen
+domestic
+diagram
+deport
+demand
+doctor
+discount
+dirty
+digital
+distributor
+distribute
+dome
+drawing
+destruction
+dawn
+door
+dignity
+deprivation
+deter
+dream
+dilute
+deal
+decline
+detective
+dip
+devote
+division
+discourage
+decide

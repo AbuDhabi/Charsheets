@@ -6,14 +6,14 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | 
 |-------|--------------|-------------|-----------|------------|
-| 21    | 247          | 25          | 1         | 27 504.97  |
-
+| 32    | 263          | 26          | 1         | 61 904.97  |
+                                                   
 Attributes
 ----------
 
 | Physical | Mental | Special | Initiative | Limits | Health                 | Damage Resistance |
 |----------|--------|---------|------------|--------|------------------------|-------------------|
-|Bod 5     | Cha 2  | Edg 7/7 | 12+3d6     | Phy 9  | Stun 000001112D        | 26 (most)         |
+|Bod 5     | Cha 2  | Edg 6/7 | 12+3d6     | Phy 9  | Stun 000001112D        | 26 (most)         |
 |Agi 7 (10)| Int 5  | Ess 0.11|            | Men 5  |                        |                   |
 |Rea 5 (7) | Log 3  |         |            | Soc 3  | Phys 0000011122D OOOOO |                   |
 |Str 4 (7) | Wil 3  |         |            | Ast 5  |                        |                   |
@@ -83,13 +83,15 @@ Weapons
 | Ranged                | Pool     | Acc | Damage | AP   |   Mode   | RC | Mag | Notes |
 |-----------------------|----------|----------|--------|------|----------|----|----------|-------|
 | Ares Alpha            | 15 (17)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U).|
-| Grenade Launcher      | 15       | 6      | 16P(-2/m)| -2   | SS       | 4  | 6(c)     | HE minigrenade.        |
+| Grenade Launcher      | 15 (17)  | 6 (8)    | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
 | Aztechnology Striker  | 15       | 5   | 23P(f)(-1/m)| +5   | SS       | 4  | 1(ml)    | Fragmentation missile. |  
 | Colt America L36      | 15 (17)  | 7 (9)    | 7P     |      | SA       | 4  | 11(c)    | Smartgun System, External. |
 | Ingram Smartgun X     | 15 (17)  | 4 (6)    | 8P     |      | BF/FA    | 4  | 32(c)    | GasV 2, Smart(I), Suppressor.|
 | Ruger 101             | 15 (17)  | 6 (8)    | 11P    |      | SA       |4(5)| 8(m)     | Scope, Shock Pad; Smart(E).|
 | Ruger Super Warhawk   | 15 (17)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
 | Grenade: High Ex      | 12       | 9      | 16P(-2/m)| -2   |          |    | 6(c)     |       |
+
+* Team also has the Gauss Rifle, see: http://adragon202.no-ip.org/Shadowrun/index.php/SR5:Weapons:Assault_Cannons
 
 Equipment
 ---------
@@ -142,3 +144,12 @@ Contacts
 | Mr Hands              | Seattle       | Fixer               | 6          | 1       |
 | Wilbert Horton        | Seattle       | Weapons Dealer      | 2          | 2       |
 | Your Name             | Seattle       | Fixer               | 5          | 2       |
+
+Wishlist
+--------
+
+* Suprathyroid Gland (140,000¥)
+* Replace Damage Compensators with Pain Editor (48,000¥ minus 6000¥ refund)
+* Sleep Regulator (12,000¥, legal)
+* See http://adragon202.no-ip.org/Shadowrun/index.php/SR5:Gear_Lists:Cyberware in general
+* Knowledge skill specialization Classical ie. while drunk
