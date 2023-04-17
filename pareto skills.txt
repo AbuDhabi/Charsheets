@@ -7,22 +7,22 @@ DC 9/evil
 ACP -1*. +2 racial Initiative. Belt of Battle +2 Init.
 +5 Concentration from vest.
                                         CS SF RK
-Animal Kinship [Handle Animal] (Cha +9) +3     1   +14 
-Bluff [Bluff + Disguise]       (Cha +9) +3         +13
+Animal Kinship [Handle Animal] (Cha +A) +3     1   +15 
+Bluff [Bluff + Disguise]       (Cha +A) +3         +14
 Cheat [DDevice + OLock + SoH]  (Dex +5)            +6
 Concentration                  (Con +8) +3     4   +21
 Craft                          (Int +4) +3         +5
-Device Use [UMD + UPD]         (Cha +9)            +10
+Device Use [UMD + UPD]         (Cha +A)            +11
 Fly                            (Dex +5)    +3 10   +18*
 Grace [Bal. + EA + Ride + Tmb] (Dex +5) +3     1   +9*
-Initiative                     (Dex +5)    +4 19   +33
-Intimidate                     (Cha +9)        4   +14
+Initiative                     (Dex +5)    +4 20   +34
+Intimidate                     (Cha +A)        4   +15
 Know: Dungeon [Dungeon + A&E]  (Int +4) +3     1   +9
 Know: Geo [Geo + Planes]       (Int +4) +3     6   +14
 Know: History [His + Loc +N&R] (Int +4) +3     6   +14
 Know: Nature                   (Int +4) +3     1   +9
-Know: Occult [Arc + Psi]       (Int +4) +3    19   +27
-Know: Religion                 (Int +4) +3    19   +27
+Know: Occult [Arc + Psi]       (Int +4) +3    20   +28
+Know: Religion                 (Int +4) +3    20   +28
 Linguistics                    (Int +4) +3         +8
 Magecraft: Arcane              (Wis +3) +3     5   +12
 Magecraft: Religion            (Wis +3) +3     5   +12
@@ -31,15 +31,15 @@ Magecraft: Psionics            (Wis +3) +3     5   +12
 Magecraft: Shaping             (Wis +3) +3     5   +12
 Martial Lore                   (Int +4) +3     5   +13
 Meditation [AutoH + Iaijutsu]  (Con +8)            +9
-Mobility [Climb + Jump + Swim] (Str+10) +3         +12*
-Perception [Lis + Sear + Spot] (Int +4) +3    19   +29
-Perform                        (Cha +9)            +10
+Mobility [Climb + Jump + Swim] (Str +A) +3         +12*
+Perception [Lis + Sear + Spot] (Int +4) +3    20   +30
+Perform                        (Cha +A)            +11
 Profession                     (Wis +3) +3         +7
 Replicate                      (Wis +3)            +4
-Sense Motive                   (Wis +3) +3     5   +12
-Socialize [Dip + Gather Inf.]  (Cha +9) +3     5   +18
+Sense Motive                   (Wis +3) +3     7   +14
+Socialize [Dip + Gather Inf.]  (Cha +A) +3     7   +21
 Stealth [Hide + MS]            (Dex +5)            +5*
 Study [Appr. + DecS + Forge.]  (Int +4)        1   +6
 Survival [Heal + Surv + URope] (Wis +3) +3     1   +8
 -------------------------------------------------------
-                                              152/152
+                                              160/160
