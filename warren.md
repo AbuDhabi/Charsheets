@@ -52,6 +52,7 @@ Relations
   * Denise, 16
   * Ashlyn, 16
 - Contact, a merchant marine captain, met on a diplomatic mission
+- Contact, Ricken Mire (criminal)
 
 Equipment
 --------
