@@ -20,8 +20,7 @@ Padma
 |                 |           |                    |      |              |
 |Extras           |15 Probe drones |               |3     |  1 500 000   |
 |                 |Laboratory space |              |20    |              |
-|                 |Ship's Locker  |                |      |              |
-|                 |Laser guns in locker|           |      |    200 000   |
+|                 |Ship's Locker  | w/ laser guns  |      |    200 000   |
 |                 |Pinnace    | 23 dtons cargo     |40    | 20 000 000   |
 |            |Ship's Boat|Warren's, 13 dtons cargo |30    | 16 000 000   |
 |                 |Fuel processors | 20 dt/d       |1     |     50 000   |
@@ -39,6 +38,7 @@ Padma
 Quirks
 ------
 - Secret modifier
+- Laser guns in locker
 
 Small craft
 -----------
