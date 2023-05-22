@@ -21,6 +21,7 @@ Padma
 |Extras           |15 Probe drones |               |3     |  1 500 000   |
 |                 |Laboratory space |              |20    |              |
 |                 |Ship's Locker  |                |      |              |
+|                 |Laser guns in locker|           |      |    200 000   |
 |                 |Pinnace    | 23 dtons cargo     |40    | 20 000 000   |
 |            |Ship's Boat|Warren's, 13 dtons cargo |30    | 16 000 000   |
 |                 |Fuel processors | 20 dt/d       |1     |     50 000   |
@@ -28,9 +29,9 @@ Padma
 |                 |Maneuvre/0 |                    |      |              |
 |                 |Library/0  |                    |      |              |
 |                 |           |                    |      |              |
-|Maintenance cost (monthly) | |                    |      |     12 035   |
+|Maintenance cost (monthly) | |                    |      |     12 052   |
 |Life support cost (monthly) | |                   |      |     40 000   |
-|Total tonnage and cost  |    |                    |  400 |144 424 000   |
+|Total tonnage and cost  |    |                    |  400 |144 624 000   |
 |                |            |                    |      |              |
 |Purchase price  |32 shares   | 30y old            |      | 85 594 320   |
 |Monthly mortgage|            |                    |      |    366 018   |
