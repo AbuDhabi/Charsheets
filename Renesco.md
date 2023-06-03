@@ -148,7 +148,7 @@ Contacts
 Wishlist
 --------
 
-* Suprathyroid Gland (140,000¥)
+* Suprathyroid Gland (140,000¥, 168k if alphaware)
 * Replace Damage Compensators with Pain Editor (48,000¥ minus 6000¥ refund)
 * Sleep Regulator (12,000¥, legal)
 * See http://adragon202.no-ip.org/Shadowrun/index.php/SR5:Gear_Lists:Cyberware in general
