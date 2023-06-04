@@ -42,7 +42,7 @@ Skills
 |Survival WIL                    | 2      | 5    ||||
 |Swimming STR                    | 2      | 9    ||||
 |Throwing Weapons AGI            | 2      | 12   ||||
-|Ex. R. Weapon (Dart Pistol)     | 2      | 12   ||||
+|Ex. R. Weapon (Dart Pistol) AGI | 2      | 12   ||||
 |Demolitions LOG                 | 1      | 5    ||||
 |Instruction CHA                 | 1      | 3    ||||
 
