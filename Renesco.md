@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | 
 |-------|--------------|-------------|-----------|------------|
-| 36    | 272          | 27          | 1         | 107 188.30 |
+| 8     | 272          | 27          | 1         | 109 188.30 |
                                                    
 Attributes
 ----------
@@ -14,8 +14,8 @@ Attributes
 | Physical | Mental | Special | Initiative | Limits | Health                 | Damage Resistance |
 |----------|--------|---------|------------|--------|------------------------|-------------------|
 |Bod 5     | Cha 2  | Edg 3/7 | 12+3d6     | Phy 9  | Stun 000001112D        | 26 (most)         |
-|Agi 7 (10)| Int 5  | Ess 0.11|            | Men 5  |                        |                   |
-|Rea 5 (7) | Log 3  |         |            | Soc 3  | Phys 0000011122D OOOOO |                   |
+|Agi 7 (10)| Int 5  | Ess 0.11|            | Men 6  |                        |                   |
+|Rea 5 (7) | Log 4  |         |            | Soc 3  | Phys 0000011122D OOOOO |                   |
 |Str 4 (7) | Wil 3  |         |            | Ast 5  |                        |                   |
 
 Skills
@@ -24,25 +24,26 @@ Skills
 | Active Skill                   | Rating | Pool | Knowledge Skill                | Rating | Pool |
 |--------------------------------|--------|------|--------------------------------|--------|------|
 |Perception INT                  | 6      | 11   |English INT                     | Native |      |
-|Automatics AGI                  | 5      | 15   |Philosophy LOG                  | 6      | 9    |
+|Automatics AGI                  | 5      | 15   |Philosophy LOG                  | 7      | 11   |
 |Heavy Weapons AGI               | 5      | 15   |Megacorp Law (Street) INT       | 4      | 9    |
 |Longarms AGI                    | 5      | 15   |Gangs INT                       | 3      | 8    |
-|Pistols AGI                     | 5      | 15   |Magical Theory (Academic) LOG   | 3      | 6    |
-|Unarmed Combat AGI              | 5      | 15   |Military LOG                    | 3      | 6    |
-|Etiquette CHA                   | 3      | 5    |Politics: UCAS LOG              | 3      | 6    |
-|(Infiltration)                  |        | 7    |Area Knowledge: Seattle INT     | 2      | 7    |
-|Armorer LOG                     | 2      | 5    |Aztlan LOG                      | 2      | 5    |
-|Blades AGI                      | 2      | 12   |Desert Wars LOG                 | 2      | 5    |
-|Computer LOG                    | 2      | 5    |Police Procedures (Street) INT  | 2      | 7    |
-|First Aid LOG                   | 2      | 5    |Smuggler Routes INT             | 2      | 7    |
+|Pistols AGI                     | 5      | 15   |Magical Theory (Academic) LOG   | 3      | 7    |
+|Unarmed Combat AGI              | 5      | 15   |Military LOG                    | 3      | 7    |
+|Etiquette CHA                   | 3      | 5    |Politics: UCAS LOG              | 3      | 7    |
+|(Infiltration +2)               |        | 7    |Area Knowledge: Seattle INT     | 2      | 7    |
+|Armorer LOG                     | 2      | 6    |Aztlan LOG                      | 2      | 6    |
+|Blades AGI                      | 2      | 12   |Desert Wars LOG                 | 2      | 6    |
+|Computer LOG                    | 2      | 6    |Police Procedures (Street) INT  | 2      | 7    |
+|First Aid LOG                   | 2      | 6    |Smuggler Routes INT             | 2      | 7    |
 |Gymnastics AGI                  | 2      | 12   |Spanish INT                     | 2      | 7    |
 |Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 1      | 6    |
-|Running STR                     | 2      | 9    |Feng Shui (Academic) LOG        | 3      | 6    |
+|Running STR                     | 2      | 9    |Feng Shui (Academic) LOG        | 3      | 7    |
 |Sneaking AGI                    | 2      | 12   ||||
 |Survival WIL                    | 2      | 5    ||||
 |Swimming STR                    | 2      | 9    ||||
 |Throwing Weapons AGI            | 2      | 12   ||||
-|Demolitions LOG                 | 1      | 4    ||||
+|Ex. R. Weapon (Dart Pistol)     | 2      | 12   ||||
+|Demolitions LOG                 | 1      | 5    ||||
 |Instruction CHA                 | 1      | 3    ||||
 
 Qualities
@@ -105,11 +106,12 @@ Equipment
 | SMG Ammo |         | 189 | Gas Mask |           | 1 | Ruger Clip |         | 1 |
 | AR Ammo |          | 167 | Goggles (LL, thermo)|2 |1| Alpha Clip |         | 1 |
 | SR Ammo |           | 46 | HE Grenade |         | 4 | Ingram Clip |        | 1 |
-| +1 AR Ammo |         | 0 | Medkit | 4 | 1           | Ruger Loader |       | 1 |
-| Optical Binocs |     | 1 | HE Minigrenade |     | 4 | Survival Kit |       | 1 |
-| +6 Rad Jacket |12 (+6)|1 | Actioneer Suit | 8   | 1 | Armor Vest |   9     | 1 |
-| +6 Rad Helmet |+2 (+6)|1 | +1 Elec Jacket |12 (+1)|1| Chameleon Suit | 9   | 1 |
-| Helmet             |+2|1 | Cheap Clothes       |  |1| Medium Clothes |     | 1 |
+| +1 AR Ammo |       | 100 | Medkit | 4 | 1           | Ruger Loader |       | 1 |
+| +1 SMG Ammo |      | 100 | HE Minigrenade |     | 4 | Survival Kit |       | 1 |
+| Optical Binocs |     | 1 | Actioneer Suit | 8   | 1 | Armor Vest |   9     | 1 |
+| +6 Rad Jacket |12 (+6)|1 | +1 Elec Jacket |12 (+1)|1| Chameleon Suit | 9   | 1 |
+| +6 Rad Helmet |+2 (+6)|1 | Cheap Clothes       |  |1| Medium Clothes |     | 1 |
+| Helmet             |+2|1 |                     |  | |                |     |   | 
 | Pricy Clothes      |  |1 |                     |  | |                |     |   |
 
 Notes:
