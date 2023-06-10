@@ -13,7 +13,7 @@ Attributes
 
 | Physical | Mental | Special | Initiative | Limits | Health                 | Damage Resistance |
 |----------|--------|---------|------------|--------|------------------------|-------------------|
-|Bod 5     | Cha 2  | Edg 3/7 | 12+3d6     | Phy 9  | Stun 000001112D        | 26 (most)         |
+|Bod 5     | Cha 2  | Edg 7/7 | 12+3d6     | Phy 9  | Stun 000001112D        | 26 (most)         |
 |Agi 7 (10)| Int 5  | Ess 0.11|            | Men 6  |                        |                   |
 |Rea 5 (7) | Log 4  |         |            | Soc 3  | Phys 0000011122D OOOOO |                   |
 |Str 4 (7) | Wil 3  |         |            | Ast 5  |                        |                   |
