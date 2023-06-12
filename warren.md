@@ -282,7 +282,6 @@ prayer
 peanut
 proclaim
 passive
-penalty
 position
 plead
 plan
@@ -336,7 +335,6 @@ door
 dignity
 deprivation
 deter
-dream
 dilute
 deal
 decline
