@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | 
 |-------|--------------|-------------|-----------|------------|
-| 10    | 274          | 27          | 1         | 115 188.30 |
+| 10    | 274          | 27          | 1         | 114 788.30 |
                                                    
 Attributes
 ----------
@@ -112,7 +112,7 @@ Equipment
 | Optical Binocs |     | 1 | Actioneer Suit | 8   | 1 | Armor Vest |   9     | 1 |
 | +6 Rad Jacket |12 (+6)|1 | +1 Elec Jacket |12 (+1)|1| Chameleon Suit | 9   | 1 |
 | +6 Rad Helmet |+2 (+6)|1 | Cheap Clothes       |  |1| Medium Clothes |     | 1 |
-| Helmet             |+2|1 |                     |  | |                |     |   | 
+| Helmet             |+2|1 | Gauss Ammo          | |10|                |     |   | 
 | Pricy Clothes      |  |1 |                     |  | |                |     |   |
 
 Notes:
