@@ -91,8 +91,9 @@ Weapons
 | Ruger 101             | 15 (17)  | 6 (8)    | 11P    |      | SA       |4(5)| 8(m)     | Scope, Shock Pad; Smart(E).|
 | Ruger Super Warhawk   | 15 (17)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
 | Grenade: High Ex      | 12       | 9      | 16P(-2/m)| -2   |          |    | 6(c)     |       |
+| Ares Thunderstruck GR | 15       | 7 (8)    | 15P    | -8   | SA       | (1)|10(e)+E   | Laser sight, shock pad.|
 
-* Team also has the Gauss Rifle, see: http://adragon202.no-ip.org/Shadowrun/index.php/SR5:Weapons:Assault_Cannons
+* Gauss Rifle is team property. I get to pay for ammo.
 
 Equipment
 ---------
