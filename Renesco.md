@@ -105,10 +105,10 @@ Equipment
 | HP Ammo |          | 100 | Fake SIN (Catski) | 4| 1 | Sony Emperor |       | 1 |
 | LP Ammo |           | 40 | Flashlight |         | 1 | Colt Clip |          | 1 |
 | SMG Ammo |         | 189 | Gas Mask |           | 1 | Ruger Clip |         | 1 |
-| AR Ammo |          | 167 | Goggles (LL, thermo)|2 |1| Alpha Clip |         | 1 |
+| AR Ammo |          | 157 | Goggles (LL, thermo)|2 |1| Alpha Clip |         | 1 |
 | SR Ammo |           | 46 | HE Grenade |         | 4 | Ingram Clip |        | 1 |
 | +1 AR Ammo |       | 100 | Medkit | 4 | 1           | Ruger Loader |       | 1 |
-| +1 SMG Ammo |      | 100 | HE Minigrenade |     | 4 | Survival Kit |       | 1 |
+| +1 SMG Ammo |      | 100 | HE Minigrenade |     | 3 | Survival Kit |       | 1 |
 | Optical Binocs |     | 1 | Actioneer Suit | 8   | 1 | Armor Vest |   9     | 1 |
 | +6 Rad Jacket |12 (+6)|1 | +1 Elec Jacket |12 (+1)|1| Chameleon Suit | 9   | 1 |
 | +6 Rad Helmet |+2 (+6)|1 | Cheap Clothes       |  |1| Medium Clothes |     | 1 |
