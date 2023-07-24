@@ -295,7 +295,6 @@ pray
 pop
 population
 pity
-planet
 point
 precede
 
@@ -317,7 +316,6 @@ delete
 dribble
 disagreement
 demonstrate
-damage
 disclose
 dozen
 domestic
