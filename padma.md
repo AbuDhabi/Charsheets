@@ -48,3 +48,4 @@ Small craft
 Cargo (105 dtons max)
 ---------------------
 - 2 dtons Spare Parts
+- 1 dton prototype Computer/5
