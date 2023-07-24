@@ -34,7 +34,7 @@ Skills
 - Recon 1
 - Sensors 1
 - Language 0
-- Pilot 0
+- Pilot 0 [+1]
 - Survival 0
 - Seafarer 0
 - Social Science 0
@@ -59,13 +59,15 @@ Equipment
 
 |Name          | TL | Value | Notes                            |
 |--------------|----|-------|----------------------------------|
-|Cash          | 1  |453 060| Benefit                          |
+|Cash          | 1  |253 060| Benefit                          |
 |Gauss Pistol  | 13 | 500/20| From nationality. Damage 3d6, Auto 4, Rec -1, 0.5kg, 40 mag. 11 bullets left.|
 |Ship's boat   | 8  | 16M   | Benefit.                         |
 |TAS membership| 9  | Priceless| Benefit.                      |
 |Cutlass       | 2  | 100   | Benefit. Damage 2d6+4, Heft -1, 1kg.|
 |Cloth armour  | 10 | 500   | Protection 5, 1kg.               |
 |Neural Comm   | 10 | 1k    | Implant. Audio only.             |
+|Subdermal Armour|11| 100k  | Implant. Subtle. +3 armour.      |
+|Pilot augment | 12 | 50k  | Implant. +1 pilot rolls.         |
 |Hand Computer | 12 | 2k    | Computer/3, 0.5kg.               |
 |Software      | 11 | 2.1k  | Expert (J-drive) 1, Astrogation 1, Intelligent Interface 1.|
 |Breather Mask | 8  | 150   | Filter + respirator.|
