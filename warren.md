@@ -59,7 +59,7 @@ Equipment
 
 |Name          | TL | Value | Notes                            |
 |--------------|----|-------|----------------------------------|
-|Cash          | 1  |253 060| Benefit                          |
+|Cash          | 1  |209 460| Benefit                          |
 |Gauss Pistol  | 13 | 500/20| From nationality. Damage 3d6, Auto 4, Rec -1, 0.5kg, 40 mag. 11 bullets left.|
 |Ship's boat   | 8  | 16M   | Benefit.                         |
 |TAS membership| 9  | Priceless| Benefit.                      |
@@ -71,7 +71,7 @@ Equipment
 |Hand Computer | 12 | 2k    | Computer/3, 0.5kg.               |
 |Software      | 11 | 2.1k  | Expert (J-drive) 1, Astrogation 1, Intelligent Interface 1.|
 |Breather Mask | 8  | 150   | Filter + respirator.|
-|Combat Armour | 12 |226 010| Protection 14. 10kg, requires BD 0. Computer weave (rating 1), eye protection, 6h life support, mag grapples. |
+|Combat Armour | 12 |266 010| Protection 14. 10kg, requires BD 0. Computer weave (rating 1), eye protection, 6h life support, mag grapples, psionic shield. |
 |CMC-300       | 9  | Loaned| Protection 11. 220/9 kg, +5 Str, requires BD 1. Comms, eye protection, magnetic boots, NBC shielding, drug injector, air filtering, one hour of life support in vacuum, visor HUD, computer-0 system. |
 |Investor swag |    | Priceless| Gold-fringed ceremonial uniform to award to Warren. Amphila CMC 50% voucher.|
 |Magic sword   |    | 300cr| Glows blue when elves are around, red for dwarfs, and green for orcs. Mass 0.5kg, 2d6+1 dmg.|
