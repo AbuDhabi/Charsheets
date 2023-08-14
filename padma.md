@@ -38,7 +38,7 @@ Padma
 
 Quirks
 ------
-- Blacklisted as mutineer vessel
+- Blacklisted as mutineer vessel (resolved)
 - Laser guns in locker
 
 Small craft
