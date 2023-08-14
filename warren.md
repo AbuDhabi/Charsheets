@@ -17,6 +17,7 @@ Common Rolls
 - Comms +3
 - Sensors +3 (Padma +4)
 - Mechanic +4
+- Pilot +1 (small craft +2)
 
 Skills
 ------
@@ -25,6 +26,7 @@ Skills
 - Engineer (J) 2 [+1]
 - Mechanic 2
 - Astrogation 1 [+1]
+- Pilot (small craft) 1 [+1]
 - Battle Dress 1
 - Comms 1
 - Computer 1
@@ -34,15 +36,14 @@ Skills
 - Recon 1
 - Sensors 1
 - Language 0
-- Pilot 0 [+1]
 - Survival 0
 - Seafarer 0
 - Social Science 0
 - Zero-G 0
 
-Training: Pilot (small craft) (0/19, started May 14th, completes September 24th)
+Training: Gambler 0 (0/19; started September 25th, 2502; completes February 5th, 2503)
 
-History: Mechanic 1->2
+History: Mechanic 1->2, Pilot (small craft) 0->1
 
 Relations
 ---------
