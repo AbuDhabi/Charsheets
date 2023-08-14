@@ -13,9 +13,10 @@ Padma
 |Electronics      |Advanced Sensors|  +1 DM        |3     |  2 000 000   |
 |                 |           |                    |      |              |
 |Weapons          |Double Turret| 2 Beam Lasers    |1     |  2 500 000   |
+|                 |Triple Turret| 2 Beams, 1 Sand  |1     |  3 250 000   |
 |                 |           |                    |      |              |
 |Fuel             |88 tons    | One Jump–2 and 2wk ops|88 |              |
-|Cargo            |69 tons    | 105 w/ small craft bays|69  |            |
+|Cargo            |69 tons    | 104 w/ small craft bays|68  |            |
 |20 Staterooms    |           |                    |80    | 10 000 000   |
 |                 |           |                    |      |              |
 |Extras           |15 Probe drones |               |3     |  1 500 000   |
@@ -28,9 +29,9 @@ Padma
 |                 |Maneuvre/0 |                    |      |              |
 |                 |Library/0  |                    |      |              |
 |                 |           |                    |      |              |
-|Maintenance cost (monthly) | |                    |      |     12 052   |
+|Maintenance cost (monthly) | |                    |      |     12323    |
 |Life support cost (monthly) | |                   |      |     40 000   |
-|Total tonnage and cost  |    |                    |  400 |144 624 000   |
+|Total tonnage and cost  |    |                    |  400 |147 874 000   |
 |                |            |                    |      |              |
 |Purchase price  |32 shares   | 30y old            |      | 85 594 320   |
 |Monthly mortgage|            |                    |      |    366 018   |
@@ -45,7 +46,8 @@ Small craft
 ![](pinnace.png)
 ![](shipsboat.png)
 
-Cargo (105 dtons max)
+Cargo (104 dtons max)
 ---------------------
 - 2 dtons Spare Parts
 - 1 dton prototype Computer/5
+- 1 dton sandcaster ammo (20 shots)
