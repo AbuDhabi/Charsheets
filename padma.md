@@ -29,7 +29,7 @@ Padma
 |                 |Maneuvre/0 |                    |      |              |
 |                 |Library/0  |                    |      |              |
 |                 |           |                    |      |              |
-|Maintenance cost (monthly) | |                    |      |     12323    |
+|Maintenance cost (monthly) | |                    |      |     12 323   | (1/12 of 0.1% of ship’s purchase price/month)
 |Life support cost (monthly) | |                   |      |     40 000   |
 |Total tonnage and cost  |    |                    |  400 |147 874 000   |
 |                |            |                    |      |              |
