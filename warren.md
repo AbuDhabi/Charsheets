@@ -265,7 +265,6 @@ plaintiff
 president
 production
 pocket
-pioneer
 process
 prediction
 pay
@@ -307,7 +306,6 @@ district
 defend
 dressing
 disk
-delicate
 dose
 dilemma
 drill
