@@ -18,7 +18,7 @@ Padma
 |     |Triple Turret| 2 Beam lasers, 1 Sandcaster  |1     |  3 250 000   |
 |                 |           |                    |      |              |
 |Fuel             |88 tons    | One Jump–2 and 2wk ops|88 |              |
-|Cargo            |66 tons    | 104 w/ small craft bays|66  |            |
+|Cargo            |66 tons    | 102 w/ small craft bays|66  |            |
 |20 Staterooms    |           |                    |80    | 10 000 000   |
 |                 |           |                    |      |              |
 |Extras           |15 Probe drones |               |3     |  1 500 000   |
