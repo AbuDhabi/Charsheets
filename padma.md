@@ -1,5 +1,6 @@
 Padma
 ----------------
+Available cargo space: 96 dtons
 
 | Laboratory Ship |           |                    | Tons | Price        |
 |-----------------|-----------|--------------------|------|--------------|
