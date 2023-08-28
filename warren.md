@@ -288,7 +288,6 @@ position
 plead
 plan
 plane
-pony
 present
 palm
 pray
@@ -308,7 +307,6 @@ dressing
 disk
 dose
 dilemma
-drill
 due
 dance
 delete
