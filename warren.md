@@ -280,7 +280,6 @@ paradox
 penny
 peak
 path
-prayer
 peanut
 proclaim
 passive
@@ -327,7 +326,6 @@ distributor
 dome
 drawing
 destruction
-dawn
 door
 dignity
 deprivation
