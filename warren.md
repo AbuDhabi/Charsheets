@@ -254,7 +254,6 @@ WORDS
 
 pace
 pain
-posture
 provincial
 patch
 plant
@@ -327,7 +326,6 @@ dome
 drawing
 destruction
 door
-dignity
 deprivation
 deter
 dilute
