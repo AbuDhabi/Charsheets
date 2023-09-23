@@ -81,7 +81,7 @@ Weapons
 | Survival Knife        | 12       | 5        | 9P     | -1   | 0      |
 | Unarmed               | 15       | 9        | 10P    |      | 0      |
 
-| Ranged                | Pool     | Acc | Damage | AP   |   Mode   | RC | Mag | Notes |
+| Ranged                | Pool     | Acc      | Damage | AP   |   Mode   | RC | Mag      | Notes |
 |-----------------------|----------|----------|--------|------|----------|----|----------|-------|
 | Ares Alpha            | 15 (17)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U).|
 | Grenade Launcher      | 15 (17)  | 6 (8)    | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
@@ -92,8 +92,10 @@ Weapons
 | Ruger Super Warhawk   | 15 (17)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
 | Grenade: High Ex      | 12       | 9      | 16P(-2/m)| -2   |          |    | 6(c)     |       |
 | Ares Thunderstruck GR | 15       | 7 (8)    | 15P    | -8   | SA       | (1)|10(e)+E   | Laser sight, shock pad.|
+| Parashield Dart Pistol| 15       | 5        | 15S    |      | SA       |    |5(c)      | Laser sight, shock pad.|
 
 * Gauss Rifle is team property. I get to pay for ammo.
+* Dart Pistol is team property. Assumed Narcojet for damag.
 
 Equipment
 ---------
