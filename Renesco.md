@@ -149,6 +149,7 @@ Contacts
 | Mr Hands              | Seattle       | Fixer               | 6          | 1       |
 | Wilbert Horton        | Seattle       | Weapons Dealer      | 2          | 2       |
 | Your Name             | Seattle       | Fixer               | 5          | 2       |
+| Chases Butterflies,PhD| Seattle, MIT&T| Shaman researcher   | 6          | 1       |
 
 Wishlist
 --------
