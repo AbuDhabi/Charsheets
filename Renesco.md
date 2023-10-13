@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 19    | 293          | 29          | 1         | 154 538.30 | 452 073.33    |
+| 18    | 293          | 29          | 1         | 164 538.30 | 462 073.33    |
                                                    
 Attributes
 ----------
@@ -26,7 +26,7 @@ Skills
 |Perception INT                  | 6      | 11   |English INT                     | Native |      |
 |Automatics AGI                  | 5      | 15   |Philosophy LOG                  | 7      | 11   |
 |Heavy Weapons AGI               | 5      | 15   |Megacorp Law (Street) INT       | 4      | 9    |
-|Longarms AGI                    | 5      | 15   |Gangs INT                       | 3      | 8    |
+|Longarms AGI                    | 5      | 15   |Gangs INT                       | 5      | 10   |
 |Pistols AGI                     | 5      | 15   |Magical Theory (Academic) LOG   | 3      | 7    |
 |Unarmed Combat AGI              | 5      | 15   |Military LOG                    | 3      | 7    |
 |Etiquette CHA                   | 3      | 5    |Politics: UCAS LOG              | 3      | 7    |
@@ -36,7 +36,7 @@ Skills
 |Computer LOG                    | 2      | 6    |Police Procedures (Street) INT  | 2      | 7    |
 |First Aid LOG                   | 2      | 6    |Smuggler Routes INT             | 2      | 7    |
 |Gymnastics AGI                  | 2      | 12   |Spanish INT                     | 2      | 7    |
-|Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 1      | 6    |
+|Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 2      | 7    |
 |Running STR                     | 2      | 9    |Feng Shui (Academic) LOG        | 3      | 7    |
 |Sneaking AGI                    | 2      | 12   ||||
 |Survival WIL                    | 2      | 5    ||||
@@ -149,7 +149,7 @@ Contacts
 | Mr Hands              | Seattle       | Fixer               | 6          | 1       |
 | Wilbert Horton        | Seattle       | Weapons Dealer      | 2          | 2       |
 | Your Name             | Seattle       | Fixer               | 5          | 2       |
-| Chases Butterflies,PhD| Seattle, MIT&T| Shaman researcher   | 6          | 1       |
+| Chases Butterflies,PhD| Seattle, MIT&T| Shaman researcher   | 6          | 2       |
 
 Wishlist
 --------
