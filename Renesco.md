@@ -6,17 +6,17 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 37    | 317          | 31          | 1         | 235 104.96 | 502 073.33    |
+| 37    | 317          | 31          | 1         |  52 704.96 | 502 073.33    |
                                                    
 Attributes
 ----------
 
 | Physical | Mental | Special | Initiative | Limits | Health                 | Damage Resistance |
 |----------|--------|---------|------------|--------|------------------------|-------------------|
-|Bod 5     | Cha 2  | Edg 0/7 | 12+3d6     | Phy 9  | Stun 000001112D        | 26 (most)         |
-|Agi 7 (10)| Int 5  | Ess 0.11|            | Men 6  |                        |                   |
-|Rea 5 (7) | Log 4  |         |            | Soc 3  | Phys 0000011122D OOOOO |                   |
-|Str 4 (7) | Wil 3  |         |            | Ast 5  |                        |                   |
+|Bod 5 (6) | Cha 2  | Edg 7/7 | 12+3d6     | Phy 10 | Stun 000001112D        | 26 (most)         |
+|Agi 7 (11)| Int 5  | Ess 0.11|            | Men 6  |                        |                   |
+|Rea 5 (8) | Log 4  |         |            | Soc 3  | Phys 0000011122D OOOOO |                   |
+|Str 4 (8) | Wil 3  |         |            | Ast 5  |                        |                   |
 
 Skills
 ------
@@ -24,25 +24,25 @@ Skills
 | Active Skill                   | Rating | Pool | Knowledge Skill                | Rating | Pool |
 |--------------------------------|--------|------|--------------------------------|--------|------|
 |Perception INT                  | 6      | 11   |English INT                     | Native |      |
-|Automatics AGI                  | 5      | 15   |Philosophy LOG                  | 7      | 11   |
-|Heavy Weapons AGI               | 5      | 15   |Megacorp Law (Street) INT       | 4      | 9    |
-|Longarms AGI                    | 5      | 15   |Gangs INT                       | 5      | 10   |
-|Pistols AGI                     | 5      | 15   |Magical Theory (Academic) LOG   | 3      | 7    |
-|Unarmed Combat AGI              | 5      | 15   |Military LOG                    | 3      | 7    |
+|Automatics AGI                  | 5      | 16   |Philosophy LOG                  | 7      | 11   |
+|Heavy Weapons AGI               | 5      | 16   |Megacorp Law (Street) INT       | 4      | 9    |
+|Longarms AGI                    | 5      | 16   |Gangs INT                       | 5      | 10   |
+|Pistols AGI                     | 5      | 16   |Magical Theory (Academic) LOG   | 3      | 7    |
+|Unarmed Combat AGI              | 5      | 16   |Military LOG                    | 3      | 7    |
 |Etiquette CHA                   | 3      | 5    |Politics: UCAS LOG              | 3      | 7    |
 |(Infiltration +2)               |        | 7    |Area Knowledge: Seattle INT     | 2      | 7    |
 |Armorer LOG                     | 2      | 6    |Aztlan LOG                      | 2      | 6    |
-|Blades AGI                      | 2      | 12   |Desert Wars LOG                 | 2      | 6    |
+|Blades AGI                      | 2      | 13   |Desert Wars LOG                 | 2      | 6    |
 |Computer LOG                    | 2      | 6    |Police Procedures (Street) INT  | 2      | 7    |
 |First Aid LOG                   | 2      | 6    |Smuggler Routes INT             | 2      | 7    |
-|Gymnastics AGI                  | 2      | 12   |Spanish INT                     | 2      | 7    |
+|Gymnastics AGI                  | 2      | 13   |Spanish INT                     | 2      | 7    |
 |Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 2      | 7    |
 |Running STR                     | 2      | 9    |Feng Shui (Academic) LOG        | 3      | 7    |
-|Sneaking AGI                    | 2      | 12   ||||
+|Sneaking AGI                    | 2      | 13   ||||
 |Survival WIL                    | 2      | 5    ||||
-|Swimming STR                    | 2      | 9    ||||
-|Throwing Weapons AGI            | 2      | 12   ||||
-|Ex. R. Weapon (Dart Pistol) AGI | 2      | 12   ||||
+|Swimming STR                    | 2      | 10   ||||
+|Throwing Weapons AGI            | 2      | 13   ||||
+|Ex. R. Weapon (Dart Pistol) AGI | 2      | 13   ||||
 |Demolitions LOG                 | 1      | 5    ||||
 |Instruction CHA                 | 1      | 3    ||||
 
@@ -62,7 +62,7 @@ Implants
 | Bone Density Augmentation | 4      | 0.84    | Betaware |
 | Damage Compensators       | 3      | 0.30    | Standard |
 | Datajack w/ USB           |        | 0.08    | Alphaware|
-| Essence Hole              |        | 1.39    |          |
+| Essence Hole              |        | 0.75    |          |
 | Muscle Augmentation       | 3      | 0.42    | Betaware |
 | Muscle Toner              | 3      | 0.42    | Betaware |
 | Orthoskin                 | 4      | 0.80    | Alphaware|
@@ -70,29 +70,31 @@ Implants
 | Smartlink                 |        | 0.16    | Alphaware|
 | Synaptic Booster          | 2      | 1.00    | Standard |
 | Toxin Extractor           | 2      | 0.28    | Betaware |
+| Sleep Regulator           |        | 0.08    | Alphaware|
+| Suprathyroid Gland        |        | 0.56    | Alphaware|
 
 Weapons
 -------
 
 | Melee                 | Pool     | Accuracy | Damage | AP   | Reach  |
 |-----------------------|----------|----------|--------|------|--------|
-| Combat Knife          | 12       | 6        | 9P     | -3   | 0      |
-| Survival Kit Knife    | 12       | 5        | 8P     | -1   | 0      |
-| Survival Knife        | 12       | 5        | 9P     | -1   | 0      |
-| Unarmed               | 15       | 9        | 10P    |      | 0      |
+| Combat Knife          | 13       | 6        | 10P    | -3   | 0      |
+| Survival Kit Knife    | 13       | 5        | 9P     | -1   | 0      |
+| Survival Knife        | 13       | 5        | 10P    | -1   | 0      |
+| Unarmed               | 16       | 9        | 11P    |      | 0      |
 
 | Ranged                | Pool     | Acc      | Damage | AP   |   Mode   | RC | Mag      | Notes |
 |-----------------------|----------|----------|--------|------|----------|----|----------|-------|
-| Ares Alpha            | 15 (17)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U).|
-| Grenade Launcher      | 15 (17)  | 6 (8)    | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
-| Aztechnology Striker  | 15       | 5   | 23P(f)(-1/m)| +5   | SS       | 4  | 1(ml)    | Fragmentation missile. |  
-| Colt America L36      | 15 (17)  | 7 (9)    | 7P     |      | SA       | 4  | 11(c)    | Smartgun System, External. |
-| Ingram Smartgun X     | 15 (17)  | 4 (6)    | 8P     |      | BF/FA    | 4  | 32(c)    | GasV 2, Smart(I), Suppressor.|
-| Ruger 101             | 15 (17)  | 6 (8)    | 11P    |      | SA       |4(5)| 8(m)     | Scope, Shock Pad; Smart(E).|
-| Ruger Super Warhawk   | 15 (17)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
-| Grenade: High Ex      | 12       | 9      | 16P(-2/m)| -2   |          |    | 6(c)     |       |
-| Ares Thunderstruck GR | 15       | 7 (8)    | 15P    | -8   | SA       | (1)|10(e)+E   | Laser sight, shock pad.|
-| Parashield Dart Pistol| 15       | 5        | 15S    |      | SA       |    |5(c)      | Laser sight, shock pad.|
+| Ares Alpha            | 16 (18)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U).|
+| Grenade Launcher      | 16 (18)  | 6 (8)    | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
+| Aztechnology Striker  | 16       | 5   | 23P(f)(-1/m)| +5   | SS       | 4  | 1(ml)    | Fragmentation missile. |  
+| Colt America L36      | 16 (18)  | 7 (9)    | 7P     |      | SA       | 4  | 11(c)    | Smartgun System, External. |
+| Ingram Smartgun X     | 16 (18)  | 4 (6)    | 8P     |      | BF/FA    | 4  | 32(c)    | GasV 2, Smart(I), Suppressor.|
+| Ruger 101             | 16 (18)  | 6 (8)    | 11P    |      | SA       |4(5)| 8(m)     | Scope, Shock Pad; Smart(E).|
+| Ruger Super Warhawk   | 16 (18)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
+| Grenade: High Ex      | 13       | 9      | 16P(-2/m)| -2   |          |    | 6(c)     |       |
+| Ares Thunderstruck GR | 16       | 7 (8)    | 15P    | -8   | SA       | (1)|10(e)+E   | Laser sight, shock pad.|
+| Parashield Dart Pistol| 16       | 5        | 15S    |      | SA       |    |5(c)      | Laser sight, shock pad.|
 
 * Gauss Rifle is team property. I get to pay for ammo.
 * Dart Pistol is team property. Assumed Narcojet for damag.
@@ -136,7 +138,7 @@ Lifestyles
 
 | Name         | Level    | Cost     | Properties   |
 |--------------|----------|----------|--------------|
-| Dave Footman | Low      | 2,216.67 | Dangerous Area; DocWagon Contract, Basic; Obscure/Difficult to Find;|
+| Dave Footman | Low      | 2 716.67 | Dangerous Area; DocWagon Contract, Basic; Obscure/Difficult to Find; Suprathyroid Gland;|
 
 Contacts
 --------
@@ -154,8 +156,6 @@ Contacts
 Wishlist
 --------
 
-* Suprathyroid Gland (140,000¥, 168k if alphaware)
 * Replace Damage Compensators with Pain Editor (48,000¥ minus 6000¥ refund) and get a wrist Biomonitor
-* Sleep Regulator (12,000¥, legal)
 * See http://adragon202.no-ip.org/Shadowrun/index.php/SR5:Gear_Lists:Cyberware in general
 * Knowledge skill specialization Classical ie. while drunk
