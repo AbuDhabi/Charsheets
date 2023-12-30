@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 37    | 317          | 31          | 1         |  52 704.96 | 502 073.33    |
+| 37    | 317          | 31          | 1         |  34 104.96 | 502 073.33    |
                                                    
 Attributes
 ----------
@@ -117,12 +117,13 @@ Equipment
 | +6 Rad Jacket |12 (+6)|1 | +1 Elec Jacket |12 (+1)|1| Chameleon Suit |  9   | 1 |
 | +6 Rad Helmet |+2 (+6)|1 | Cheap Clothes       |  |1| Medium Clothes |      | 1 |
 | Helmet             |+2|1 | Gauss Ammo          | |10| +6 Insul. Jacket|12 (+6)|1| 
-| Pricy Clothes      |  |1 | Narcojet Ammo       |15|5|                 |     |   |
+| Pricy Clothes      |  |1 | Narcojet Ammo       |15|5| Fake SIN (Holliman)   |6|1|
 
 Notes:
 
-* Footman SIN has licenses. Fake License rating 4 (Concealed Carry Permit), Fake License rating 4 (Pistol License), Fake License rating 4 (Smartlink License), Fake License rating 4 (Driving License)
-* Catski license is probably burnt, utilize caution.
+* Dave Footman SIN has licenses. Concealed Carry, Pistols, Smartlink, Driving.
+* John Catski license is probably burnt, utilize caution.
+* Richard Holliman SIN has licenses. Concealed Carry, Pistols, Smartlink.
 * Chameleon suit raises Physical limit for Sneaking by 2. Must be visible.
 
 
