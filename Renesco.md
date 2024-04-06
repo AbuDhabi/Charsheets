@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 52    | 332          | 33          | 1         |  49 104.96 | 502 073.33    |
+| 53    | 333          | 33          | 1         |  49 104.96 | 502 073.33    |
                                                    
 Attributes
 ----------
