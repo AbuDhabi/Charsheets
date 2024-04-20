@@ -125,6 +125,7 @@ Notes:
 * John Catski license is probably burnt, utilize caution.
 * Richard Holliman SIN has licenses. Concealed Carry, Pistols, Smartlink.
 * Chameleon suit raises Physical limit for Sneaking by 2. Must be visible.
+* One blank R6 fake SIN available from special rewards.
 
 
 Vehicles
