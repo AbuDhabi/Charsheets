@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 71    | 345          | 34          | 1         |  80 979.96 | 530 198.33    |
+| 0     | 346          | 34          | 1         |  82 779.96 | 530 198.33    |
                                                      
 Attributes
 ----------
@@ -23,11 +23,11 @@ Skills
 
 | Active Skill                   | Rating | Pool | Knowledge Skill                | Rating | Pool |
 |--------------------------------|--------|------|--------------------------------|--------|------|
-|Perception INT                  | 6      | 11   |English INT                     | Native |      |
-|Automatics AGI                  | 5      | 16   |Philosophy LOG                  | 7      | 11   |
-|Heavy Weapons AGI               | 5      | 16   |Megacorp Law (Street) INT       | 4      | 9    |
-|Longarms AGI                    | 5      | 16   |Gangs INT                       | 5      | 10   |
-|Pistols AGI                     | 5      | 16   |Magical Theory (Academic) LOG   | 3      | 7    |
+|Perception INT                  | 8      | 13   |English INT                     | Native |      |
+|Automatics AGI                  | 6      | 17   |Philosophy LOG                  | 7      | 11   |
+|Heavy Weapons AGI               | 6      | 17   |Megacorp Law (Street) INT       | 4      | 9    |
+|Longarms AGI                    | 6      | 17   |Gangs INT                       | 5      | 10   |
+|Pistols AGI                     | 6      | 17   |Magical Theory (Academic) LOG   | 4      | 8    |
 |Unarmed Combat AGI              | 5      | 16   |Military LOG                    | 3      | 7    |
 |Etiquette CHA                   | 3      | 5    |Politics: UCAS LOG              | 3      | 7    |
 |(Infiltration +2)               |        | 7    |Area Knowledge: Seattle INT     | 2      | 7    |
@@ -38,7 +38,7 @@ Skills
 |Gymnastics AGI                  | 2      | 13   |Spanish INT                     | 2      | 7    |
 |Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 2      | 7    |
 |Running STR                     | 2      | 9    |Feng Shui (Academic) LOG        | 3      | 7    |
-|Sneaking AGI                    | 2      | 13   ||||
+|Sneaking AGI                    | 2      | 13   |Chinese INT                     | 1      | 6    |
 |Survival WIL                    | 2      | 5    ||||
 |Swimming STR                    | 2      | 10   ||||
 |Throwing Weapons AGI            | 2      | 13   ||||
@@ -85,16 +85,16 @@ Weapons
 
 | Ranged                | Pool     | Acc      | Damage | AP   |   Mode   | RC | Mag      | Notes |
 |-----------------------|----------|----------|--------|------|----------|----|----------|-------|
-| Ares Alpha            | 16 (18)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U).|
-| Grenade Launcher      | 16 (18)  | 6 (8)    | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
-| Aztechnology Striker  | 16       | 5   | 23P(f)(-1/m)| +5   | SS       | 4  | 1(ml)    | Fragmentation missile. |  
-| Colt America L36      | 16 (18)  | 7 (9)    | 7P     |      | SA       | 4  | 11(c)    | Smartgun System, External. |
-| Ingram Smartgun X     | 16 (18)  | 4 (6)    | 8P     |      | BF/FA    | 4  | 32(c)    | GasV 2, Smart(I), Suppressor.|
-| Ruger 101             | 16 (18)  | 6 (8)    | 11P    |      | SA       |4(5)| 8(m)     | Scope, Shock Pad; Smart(E).|
-| Ruger Super Warhawk   | 16 (18)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
+| Ares Alpha            | 17 (19)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U).|
+| Grenade Launcher      | 17 (19)  | 6 (8)    | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
+| Aztechnology Striker  | 17       | 5   | 23P(f)(-1/m)| +5   | SS       | 4  | 1(ml)    | Fragmentation missile. |  
+| Colt America L36      | 17 (19)  | 7 (9)    | 7P     |      | SA       | 4  | 11(c)    | Smartgun System, External. |
+| Ingram Smartgun X     | 17 (19)  | 4 (6)    | 8P     |      | BF/FA    | 4  | 32(c)    | GasV 2, Smart(I), Suppressor.|
+| Ruger 101             | 17 (19)  | 6 (8)    | 11P    |      | SA       |4(5)| 8(m)     | Scope, Shock Pad; Smart(E).|
+| Ruger Super Warhawk   | 17 (19)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
 | Grenade: High Ex      | 13       | 9      | 16P(-2/m)| -2   |          |    | 6(c)     |       |
-| Ares Thunderstruck GR | 16       | 7 (8)    | 15P    | -8   | SA       | (1)|10(e)+E   | Laser sight, shock pad.|
-| Parashield Dart Pistol| 16       | 5        | 15S    |      | SA       |    |5(c)      | Laser sight, shock pad.|
+| Ares Thunderstruck GR | 17       | 7 (8)    | 15P    | -8   | SA       | (1)|10(e)+E   | Laser sight, shock pad.|
+| Parashield Dart Pistol| 13       | 5        | 15S    |      | SA       |    |5(c)      | Laser sight, shock pad.|
 
 * Gauss Rifle is team property. I get to pay for ammo.
 * Dart Pistol is team property. Assumed Narcojet for damag.
@@ -118,6 +118,7 @@ Equipment
 | +6 Rad Helmet |+2 (+6)|1 | Cheap Clothes       |  |1| Medium Clothes |      | 1 |
 | Helmet             |+2|1 | Gauss Ammo          | |10| +6 Insul. Jacket|12 (+6)|1| 
 | Pricy Clothes      |  |1 | Narcojet Ammo       |15|5| Fake SIN (Holliman)   |6|1|
+| +1 SR Ammo |       | 100 |                     |  | |          |             |  |
 
 Notes:
 
