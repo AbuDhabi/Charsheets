@@ -106,7 +106,7 @@ Equipment
 |------|--------|----------|------|--------|----------|-------|--------|----------|
 | SMG Gel Ammo |     | 200 | Climbing Gear |      | 1 | Frag Missile |        | 0 |
 | SMG Gel Ammo |     | 100 | Fake SIN (Footman)  |4 |1| Trauma Patch |        | 2 |
-| HP Ammo |          | 100 | Fake SIN (Catski) | 4| 1 | Sony Emperor |        | 1 |
+| HP Ammo |          | 100 | Fake SIN (Catski) | 4| 1 | Sony Emperor (Perv Mod)||1|
 | LP Ammo |           | 40 | Flashlight |         | 1 | Colt Clip |           | 1 |
 | SMG Ammo |         | 165 | Gas Mask |           | 1 | Ruger Clip |          | 1 |
 | AR Ammo |          | 141 | Goggles (LL, Th, ImLnk)|2|1|Alpha Clip |         | 1 |
