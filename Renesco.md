@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 27    | 373          | 37          | 1         |  110 924.96 | 558 448.33   |
+| 28    | 374          | 37          | 1         |  114 924.96 | 562 448.33   |
                                                      
 Attributes
 ----------
@@ -158,6 +158,7 @@ Contacts
 | Wilbert Horton        | Seattle       | Weapons Dealer      | 2          | 2       |
 | Your Name             | Seattle       | Fixer               | 5          | 2       |
 | Chases Butterflies,PhD| Seattle, MIT&T| Shaman researcher   | 6          | 2       |
+| XXXXX                 | Renesco's Hood| Lone Star Lieutenant| 3          | 1       |
 
 Wishlist
 --------
