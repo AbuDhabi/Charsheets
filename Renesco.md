@@ -83,23 +83,24 @@ Weapons
 | Survival Knife        | 13       | 5        | 10P    | -1   | 0      |
 | Unarmed               | 16       | 9        | 11P    |      | 0      |
 
-| Ranged                | Pool     | Acc      | Damage | AP   |   Mode   | RC | Mag      | Notes |
-|-----------------------|----------|----------|--------|------|----------|----|----------|-------|
-| Ares Alpha            | 17 (19)  | 5 (7)    | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U).|
-| Grenade Launcher      | 17 (19)  | 6 (8)    | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
-| Aztechnology Striker  | 17       | 5   | 23P(f)(-1/m)| +5   | SS       | 4  | 1(ml)    | Fragmentation missile. |  
-| Colt America L36      | 17 (19)  | 7 (9)    | 7P     |      | SA       | 4  | 11(c)    | Smartgun System, External. |
-| Ingram Smartgun X     | 17 (19)  | 4 (6)    | 8P     |      | BF/FA    | 4  | 32(c)    | GasV 2, Smart(I), Suppressor.|
-| Ruger 101             | 17 (19)  | 6 (8)    | 11P    |      | SA       |4(5)| 8(m)     | Scope, Shock Pad; Smart(E).|
-| Ruger Super Warhawk   | 17 (19)  | 5 (7)    | 9P     |      | SS       | 4  | 6(cy)    | Smart(E).|
-| Grenade: High Ex      | 13       | 9      | 16P(-2/m)| -2   |          |    | 6(c)     |       |
-| Ares Thunderstruck GR | 17       | 7 (8)    | 15P    | -8   | SA       | (1)|10(e)+E   | Laser sight, shock pad.|
-| Parashield Dart Pistol| 13       | 5        | 15S    |      | SA       |    |5(c)      | Laser sight, shock pad.|
+| Ranged                |SA/SS| SB | LB | FA | Acc | Damage | AP   |   Mode   | RC | Mag      | Notes |
+|-----------------------|-----|----|----|----|-----|--------|------|----------|----|----------|-------|
+| Ares Alpha            | 19  | 19 | 19 | 18 | 7   | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U), Shock Pad.|
+| Grenade Launcher      | 19  | -  | -  | -  | 8   | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
+| Aztechnology Striker  | 17  | -  | -  | -  | 5   | 23P(f)(-1/m)| +5   | SS  | -  | 1(ml)    | Fragmentation missile. |  
+| Colt America L36      | 19  | 19 | -  | -  | 9   | 7P     |      | SA       | 3  | 11(c)    | Smartgun System, External. |
+| Ingram Smartgun X     | -   | 19 | 18 | 15 | 6   | 8P     |      | BF/FA    | 5  | 32(c)    | GasV 2, Smart(I), Suppressor.|
+| Ruger 101             | 19  | -  | -  | -  | 8   | 11P    |      | SA       | 4  | 8(m)     | Scope, Shock Pad; Smart(E).|
+| Ruger Super Warhawk   | 19  | -  | -  | -  | 7   | 9P     |      | SS       | -  | 6(cy)    | Smart(E).|
+| Grenade: High Ex      | 13  | -  | -  | -  | 9   | 16P(-2/m)| -2 |          | -  | 6(c)     |       |
+| Ares Thunderstruck GR | 18  | 18 | -  | -  | 8   | 15P    | -8   | SA       | 4  | 10(e)+E  | Laser sight, shock pad.|
+| Parashield Dart Pistol| 13  | 13 | -  | -  | 6   | 15S    |      | SA       | 3  | 5(c)     | Laser sight.|
 
+* Wireless bonuses included. Strength bonus to RC included.
 * Gauss Rifle is team property. I get to pay for ammo.
 * Dart Pistol is team property. Assumed Narcojet for damag.
-* Burst Fire (Simple): 3 rounds, -2 to defense.
-* Full Auto (Simple): 6 rounds, -5 to defense.
+* Short Burst (Simple): 3 rounds, -2 to defense. Complex if SA.
+* Long Burst (Simple): 6 rounds, -5 to defense. Complex if BF.
 * Full Auto (Complex): 10 rounds, -9 to defense.
 
 Equipment
