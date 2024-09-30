@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 28    | 374          | 37          | 1         |  114 924.96 | 562 448.33   |
+| 28    | 374          | 37          | 1         |  112 924.96 | 560 448.33   |
                                                      
 Attributes
 ----------
@@ -27,13 +27,13 @@ Skills
 |Automatics AGI                  | 6      | 17   |Philosophy LOG                  | 7      | 11   |
 |Heavy Weapons AGI               | 6      | 17   |Megacorp Law (Street) INT       | 4      | 9    |
 |Longarms AGI                    | 6      | 17   |Gangs INT                       | 5      | 10   |
-|Pistols AGI                     | 6      | 17   |Magical Theory (Academic) LOG   | 4      | 8    |
-|Unarmed Combat AGI              | 5      | 16   |Military LOG                    | 3      | 7    |
-|Etiquette CHA                   | 3      | 5    |Politics: UCAS LOG              | 3      | 7    |
-|(Infiltration +2)               |        | 7    |Area Knowledge: Seattle INT     | 2      | 7    |
-|Armorer LOG                     | 2      | 6    |Aztlan LOG                      | 2      | 6    |
-|Blades AGI                      | 2      | 13   |Desert Wars LOG                 | 2      | 6    |
-|Computer LOG                    | 2      | 6    |Police Procedures (Street) INT  | 2      | 7    |
+|Pistols AGI                     | 6      | 17   |Police Procedures (Street) INT  | 4      | 9    |
+|Unarmed Combat AGI              | 5      | 16   |Magical Theory (Academic) LOG   | 4      | 8    |
+|Etiquette CHA                   | 3      | 5    |Military LOG                    | 3      | 7    |
+|(Infiltration +2)               |        | 7    |Politics: UCAS LOG              | 3      | 7    |
+|Armorer LOG                     | 2      | 6    |Area Knowledge: Seattle INT     | 2      | 7    |
+|Blades AGI                      | 2      | 13   |Aztlan LOG                      | 2      | 6    |
+|Computer LOG                    | 2      | 6    |Desert Wars LOG                 | 2      | 6    |
 |First Aid LOG                   | 2      | 6    |Smuggler Routes INT             | 2      | 7    |
 |Gymnastics AGI                  | 2      | 13   |Spanish INT                     | 2      | 7    |
 |Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 2      | 7    |
