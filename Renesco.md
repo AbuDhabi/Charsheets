@@ -6,14 +6,14 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 4     | 390          | 39          | 1         |  136 894.96 | 584 448.33   |
+| 44    | 390          | 39          | 1         |  136 894.96 | 584 448.33   |
                                                      
 Attributes
 ----------
 
 | Physical | Mental | Special | Initiative | Limits | Health                 | Damage Resistance |
 |----------|--------|---------|------------|--------|------------------------|-------------------|
-|Bod 5 (6) | Cha 2  | Edg 8/8 | 12+3d6     | Phy 10 | Stun 000001112D        | 26 (most)         |
+|Bod 5 (6) | Cha 2  | Edg 7/7 | 12+3d6     | Phy 10 | Stun 000001112D        | 26 (most)         |
 |Agi 7 (11)| Int 5  | Ess 0.11|            | Men 6  |                        |                   |
 |Rea 5 (8) | Log 4  |         |            | Soc 3  | Phys 0000011122D OOOOO |                   |
 |Str 4 (8) | Wil 3  |         |            | Ast 5  |                        |                   |
