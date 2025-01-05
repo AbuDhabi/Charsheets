@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 45    | 391          | 39          | 1         |  136 894.96 | 584 448.33   |
+| 5     | 391          | 39          | 1         |  136 894.96 | 584 448.33   |
                                                      
 Attributes
 ----------
@@ -14,7 +14,7 @@ Attributes
 | Physical | Mental | Special | Initiative | Limits | Health                 | Damage Resistance |
 |----------|--------|---------|------------|--------|------------------------|-------------------|
 |Bod 5 (6) | Cha 2  | Edg 7/7 | 12+3d6     | Phy 10 | Stun 000001112D        | 26 (most)         |
-|Agi 7 (11)| Int 5  | Ess 0.11|            | Men 6  |                        |                   |
+|Agi 8 (12)| Int 5  | Ess 0.11|            | Men 6  |                        |                   |
 |Rea 5 (8) | Log 4  |         |            | Soc 3  | Phys 0000011122D OOOOO |                   |
 |Str 4 (8) | Wil 3  |         |            | Ast 5  |                        |                   |
 
@@ -24,25 +24,25 @@ Skills
 | Active Skill                   | Rating | Pool | Knowledge Skill                | Rating | Pool |
 |--------------------------------|--------|------|--------------------------------|--------|------|
 |Perception INT                  | 8      | 13   |English INT                     | Native |      |
-|Automatics AGI                  | 6      | 17   |Philosophy LOG                  | 7      | 11   |
-|Heavy Weapons AGI               | 6      | 17   |Megacorp Law (Street) INT       | 4      | 9    |
-|Longarms AGI                    | 6      | 17   |Gangs INT                       | 5      | 10   |
-|Pistols AGI                     | 6      | 17   |Police Procedures (Street) INT  | 4      | 9    |
-|Unarmed Combat AGI              | 5      | 16   |Magical Theory (Academic) LOG   | 4      | 8    |
+|Automatics AGI                  | 6      | 18   |Philosophy LOG                  | 7      | 11   |
+|Heavy Weapons AGI               | 6      | 18   |Megacorp Law (Street) INT       | 4      | 9    |
+|Longarms AGI                    | 6      | 18   |Gangs INT                       | 5      | 10   |
+|Pistols AGI                     | 6      | 18   |Police Procedures (Street) INT  | 4      | 9    |
+|Unarmed Combat AGI              | 5      | 17   |Magical Theory (Academic) LOG   | 4      | 8    |
 |Etiquette CHA                   | 3      | 5    |Military LOG                    | 3      | 7    |
 |(Infiltration +2)               |        | 7    |Politics: UCAS LOG              | 3      | 7    |
 |Armorer LOG                     | 2      | 6    |Area Knowledge: Seattle INT     | 2      | 7    |
-|Blades AGI                      | 2      | 13   |Aztlan LOG                      | 2      | 6    |
+|Blades AGI                      | 2      | 14   |Aztlan LOG                      | 2      | 6    |
 |Computer LOG                    | 2      | 6    |Desert Wars LOG                 | 2      | 6    |
 |First Aid LOG                   | 2      | 6    |Smuggler Routes INT             | 2      | 7    |
-|Gymnastics AGI                  | 2      | 13   |Spanish INT                     | 2      | 7    |
+|Gymnastics AGI                  | 2      | 14   |Spanish INT                     | 2      | 7    |
 |Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 2      | 7    |
 |Running STR                     | 2      | 9    |Feng Shui (Academic) LOG        | 3      | 7    |
-|Sneaking AGI                    | 2      | 13   |Chinese INT                     | 1      | 6    |
+|Sneaking AGI                    | 2      | 14   |Chinese INT                     | 1      | 6    |
 |Survival WIL                    | 2      | 5    ||||
 |Swimming STR                    | 2      | 10   ||||
-|Throwing Weapons AGI            | 2      | 13   ||||
-|Ex. R. Weapon (Dart Pistol) AGI | 2      | 13   ||||
+|Throwing Weapons AGI            | 2      | 14   ||||
+|Ex. R. Weapon (Dart Pistol) AGI | 2      | 14   ||||
 |Demolitions LOG                 | 1      | 5    ||||
 |Instruction CHA                 | 1      | 3    ||||
 
@@ -85,16 +85,16 @@ Weapons
 
 | Ranged                |SA/SS| SB | LB | FA | Acc | Damage | AP   |   Mode   | RC | Mag      | Notes |
 |-----------------------|-----|----|----|----|-----|--------|------|----------|----|----------|-------|
-| Ares Alpha            | 19  | 19 | 19 | 18 | 7   | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U), Shock Pad.|
-| Grenade Launcher      | 19  | -  | -  | -  | 8   | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
-| Aztechnology Striker  | 17  | -  | -  | -  | 5   | 23P(f)(-1/m)| +5   | SS  | -  | 1(ml)    | Fragmentation missile. |  
-| Colt America L36      | 19  | 19 | -  | -  | 9   | 7P     |      | SA       | 3  | 11(c)    | Smartgun System, External. |
-| Ingram Smartgun X     | -   | 19 | 18 | 15 | 6   | 8P     |      | BF/FA    | 5  | 32(c)    | GasV 2, Smart(I), Suppressor.|
-| Ruger 101             | 19  | -  | -  | -  | 8   | 11P    |      | SA       | 4  | 8(m)     | Scope, Shock Pad; Smart(E).|
-| Ruger Super Warhawk   | 19  | -  | -  | -  | 7   | 9P     |      | SS       | -  | 6(cy)    | Smart(E).|
-| Grenade: High Ex      | 13  | -  | -  | -  | 9   | 16P(-2/m)| -2 |          | -  | 6(c)     |       |
-| Ares Thunderstruck GR | 18  | 18 | -  | -  | 8   | 15P    | -8   | SA       | 4  | 10(e)+E  | Laser sight, shock pad.|
-| Parashield Dart Pistol| 13  | 13 | -  | -  | 6   | 15S    |      | SA       | 3  | 5(c)     | Laser sight.|
+| Ares Alpha            | 20  | 20 | 20 | 19 | 7   | 11P    | -2   | SA/BF/FA | 9  | 42(c)    | GasV 3, Smart(I), Launcher(U), Shock Pad.|
+| Grenade Launcher      | 20  | -  | -  | -  | 8   | 16P(-2/m)| -2 | SS       | 4  | 6(c)     | HE minigrenade.        |
+| Aztechnology Striker  | 18  | -  | -  | -  | 5   | 23P(f)(-1/m)| +5   | SS  | -  | 1(ml)    | Fragmentation missile. |  
+| Colt America L36      | 20  | 20 | -  | -  | 9   | 7P     |      | SA       | 3  | 11(c)    | Smartgun System, External. |
+| Ingram Smartgun X     | -   | 20 | 19 | 16 | 6   | 8P     |      | BF/FA    | 5  | 32(c)    | GasV 2, Smart(I), Suppressor.|
+| Ruger 101             | 20  | -  | -  | -  | 8   | 11P    |      | SA       | 4  | 8(m)     | Scope, Shock Pad; Smart(E).|
+| Ruger Super Warhawk   | 20  | -  | -  | -  | 7   | 9P     |      | SS       | -  | 6(cy)    | Smart(E).|
+| Grenade: High Ex      | 14  | -  | -  | -  | 9   | 16P(-2/m)| -2 |          | -  | 6(c)     |       |
+| Ares Thunderstruck GR | 19  | 19 | -  | -  | 8   | 15P    | -8   | SA       | 4  | 10(e)+E  | Laser sight, shock pad.|
+| Parashield Dart Pistol| 14  | 14 | -  | -  | 6   | 15S    |      | SA       | 3  | 5(c)     | Laser sight.|
 
 * Wireless bonuses included. Strength bonus to RC included.
 * Gauss Rifle is team property. I get to pay for ammo.
