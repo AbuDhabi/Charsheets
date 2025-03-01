@@ -116,7 +116,7 @@ Equipment
 | AR Ammo |          | 136 | Goggles (LL, Th, ImLnk)|2|1|Alpha Clip |         | 1 |
 | SR Ammo |           | 34 | HE Grenade |         | 4 | Ingram Clip |         | 1 |
 | +1 AR Ammo |       | 100 | Medkit | 4 | 1           | Ruger Loader |        | 1 |
-| +1 SMG Ammo |      | 100 | HE Minigrenade |     | 1 | Survival Kit |        | 1 |
+| +1 SMG Ammo |      | 100 | HE Minigrenade |     | 0 | Survival Kit |        | 1 |
 | Optical Binocs |     | 1 | Actioneer Suit | 8   | 1 | Armor Vest |    9     | 1 |
 | +6 Rad Jacket |12 (+6)|1 | +1 Elec Jacket |12 (+1)|1| Chameleon Suit |  9   | 1 |
 | +6 Rad Helmet |+2 (+6)|1 | Cheap Clothes       |  |1| Medium Clothes |      | 1 |
