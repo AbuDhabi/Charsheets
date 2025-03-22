@@ -6,7 +6,7 @@ A middle-aged man, of which there are scads everywhere. Shave off the neglected 
 
 | Karma | Career Karma | Street Cred | Notoriety | Nuyen      | Total Revenue |
 |-------|--------------|-------------|-----------|------------|---------------|
-| 61    | 407          | 40          | 1         |  136 894.96 | 584 448.33   |
+| 13    | 407          | 40          | 1         |  139 894.96 | 584 448.33   |
                                                      
 Attributes
 ----------
@@ -39,7 +39,9 @@ Skills
 |Pilot Ground Craft REA          | 2      | 9    |Small Unit Tactics INT          | 2      | 7    |
 |Running STR                     | 2      | 9    |Feng Shui (Academic) LOG        | 3      | 7    |
 |Sneaking AGI                    | 2      | 13   |Chinese INT                     | 1      | 6    |
-|Survival WIL                    | 2      | 5    ||||
+|Survival WIL                    | 4      | 7    |Botany (Academic) LOG           | 3      | 7    |
+|Navigation INT                  | 4      | 9    |Zoology (Academic) LOG          | 3      | 7    |
+|Tracking INT                    | 4      | 9    ||||
 |Swimming STR                    | 2      | 10   ||||
 |Throwing Weapons AGI            | 2      | 13   ||||
 |Ex. R. Weapon (Dart Pistol) AGI | 2      | 13   ||||
@@ -116,7 +118,7 @@ Equipment
 | AR Ammo |          | 136 | Goggles (LL, Th, ImLnk)|2|1|Alpha Clip |         | 1 |
 | SR Ammo |           | 34 | HE Grenade |         | 4 | Ingram Clip |         | 1 |
 | +1 AR Ammo |       | 100 | Medkit | 4 | 1           | Ruger Loader |        | 1 |
-| +1 SMG Ammo |      | 100 | HE Minigrenade |     | 0 | Survival Kit |        | 1 |
+| +1 SMG Ammo |      | 100 | HE Minigrenade |     | 10| Survival Kit |        | 1 |
 | Optical Binocs |     | 1 | Actioneer Suit | 8   | 1 | Armor Vest |    9     | 1 |
 | +6 Rad Jacket |12 (+6)|1 | +1 Elec Jacket |12 (+1)|1| Chameleon Suit |  9   | 1 |
 | +6 Rad Helmet |+2 (+6)|1 | Cheap Clothes       |  |1| Medium Clothes |      | 1 |
