@@ -115,7 +115,7 @@ Equipment
 | HP Ammo |          | 100 | Fake SIN (Catski) | 4| 1 | Sony Emperor (Perv Mod)||1|
 | LP Ammo |           | 36 | Flashlight |         | 1 | Colt Clip |           | 1 |
 | SMG Ammo |         | 147 | Gas Mask |           | 1 | Ruger Clip |          | 1 |
-| AR Ammo |          | 130 | Goggles (LL, Th, ImLnk)|2|1|Alpha Clip |         | 1 |
+| AR Ammo |          | 120 | Goggles (LL, Th, ImLnk)|2|1|Alpha Clip |         | 1 |
 | SR Ammo |           | 34 | HE Grenade |         | 4 | Ingram Clip |         | 1 |
 | +1 AR Ammo |       | 100 | Medkit | 4 | 1           | Ruger Loader |        | 1 |
 | +1 SMG Ammo |      | 100 | HE Minigrenade |     | 10| Survival Kit |        | 1 |
