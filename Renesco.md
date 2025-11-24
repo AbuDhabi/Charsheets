@@ -147,7 +147,7 @@ Lifestyles
 
 | Name         | Level    | Cost     | Properties   |
 |--------------|----------|----------|--------------|
-| Dave Footman | Low      | 2 716.67 | Dangerous Area; DocWagon Contract, Basic; Obscure/Difficult to Find; Suprathyroid Gland;|
+| Dave Footman | Low      | 3 016.67 | Dangerous Area; DocWagon Contract, Basic; Obscure/Difficult to Find; Suprathyroid Gland; National Tax|
 
 Contacts
 --------
